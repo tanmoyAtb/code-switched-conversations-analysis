@@ -1,0 +1,161 @@
+:root {
+  color-scheme: light dark;
+  --fg: #1a1a1a;
+  --muted: #6f6f6b;
+  --bg: #faf9f7;
+  --panel: #ffffff;
+  --line: #e4e3df;
+  --accent: #1f5f4f;
+  --accent-fg: #ffffff;
+  --warn: #9a3412;
+  /* One column width shared by the bars and the conversation, so nothing drifts to the
+     screen edges on a wide monitor. */
+  --col: 44rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fg: #e9e9e6;
+    --muted: #9b9b97;
+    --bg: #141413;
+    --panel: #1f1f1e;
+    --line: #34342f;
+    --accent: #6ee7b7;
+    --accent-fg: #0d2b23;
+    --warn: #f0a6a6;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font: 16px/1.55 ui-sans-serif, system-ui, -apple-system, sans-serif;
+}
+
+/* ---------- login / done ---------- */
+
+main.narrow { max-width: 34rem; margin: 0 auto; padding: 3rem 1.5rem; }
+h1 { font-size: 1.4rem; margin: 0 0 0.25rem; }
+h2 { font-size: 0.95rem; margin: 2rem 0 0.5rem; }
+.note { color: var(--muted); margin-top: 0; font-size: 0.9rem; }
+.error { color: var(--warn); font-size: 0.9rem; }
+code { font: 0.85em ui-monospace, SFMono-Regular, Menlo, monospace; }
+dl { margin: 0; }
+dt { margin-top: 0.7rem; }
+dd { margin: 0.1rem 0 0; color: var(--muted); font-size: 0.9rem; }
+
+.session { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; margin: 1.5rem 0 0.5rem; }
+.session label { flex: 1 0 100%; font-size: 0.9rem; color: var(--muted); }
+.session input {
+  width: 5.5rem; padding: 0.6rem 0.7rem; font: inherit; border: 1px solid var(--line);
+  border-radius: 8px; background: var(--panel); color: var(--fg);
+}
+button, .next { font: inherit; cursor: pointer; }
+.session button, main.narrow button {
+  padding: 0.6rem 1.2rem; border: 0; border-radius: 8px;
+  background: var(--accent); color: var(--accent-fg); font-weight: 600;
+}
+
+/* ---------- sticky bars ---------- */
+
+.bar {
+  position: sticky; z-index: 2;
+  background: color-mix(in srgb, var(--panel) 90%, transparent);
+  backdrop-filter: blur(8px);
+  font-size: 0.85rem;
+}
+header.bar { top: 0; border-bottom: 1px solid var(--line); }
+footer.bar { bottom: 0; border-top: 1px solid var(--line); }
+
+/* The bar CONTENT sits in the same column as the messages. Full-bleed bars with items
+   pinned to the window edges make the eye travel the whole screen for a progress count. */
+.bar .inner {
+  max-width: var(--col); margin: 0 auto; padding: 0.65rem 1.25rem;
+  display: flex; gap: 0.9rem; align-items: center;
+}
+.bar .spacer { flex: 1; }
+.bar .muted { color: var(--muted); }
+.bar form { margin: 0; display: flex; }
+.bar .link {
+  background: none; border: 0; padding: 0; color: var(--muted); text-decoration: underline;
+}
+.pill {
+  padding: 0.2rem 0.7rem; border-radius: 999px; border: 1px solid var(--line);
+  white-space: nowrap;
+}
+.pill[data-remaining='0'] { border-color: var(--accent); color: var(--accent); font-weight: 600; }
+
+.next {
+  padding: 0.7rem 1.4rem; border-radius: 10px; background: var(--accent);
+  color: var(--accent-fg); text-decoration: none; font-weight: 600; font-size: 0.95rem;
+  white-space: nowrap;
+}
+.next:hover { filter: brightness(1.08); }
+
+/* ---------- conversation ---------- */
+
+.thread { max-width: var(--col); margin: 0 auto; padding: 1.75rem 1.25rem 2.5rem; }
+
+/* A dropped turn is shown, not closed up: an annotator who thinks the exchange is
+   continuous will read context that is not there. */
+.gap {
+  margin: 1.25rem 0; text-align: center; color: var(--muted);
+  font: 0.78rem ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+/* Bubble and controls are siblings, not nested. Pills inside the bubble put furniture in
+   the middle of the thing being read, which is the one thing that has to stay legible. */
+.msg { display: flex; flex-direction: column; margin: 0 0 1.5rem; }
+.msg.customer { align-items: flex-start; }
+.msg.business { align-items: flex-end; }
+
+.bubble {
+  max-width: 80%; padding: 0.7rem 1rem;
+  background: var(--panel); border: 1px solid var(--line); border-radius: 16px;
+}
+.msg.customer .bubble { border-bottom-left-radius: 5px; }
+.msg.business .bubble {
+  border-bottom-right-radius: 5px;
+  background: color-mix(in srgb, var(--accent) 7%, var(--panel));
+  border-color: color-mix(in srgb, var(--accent) 28%, var(--line));
+}
+.msg.failed .bubble { border-color: var(--warn); }
+
+/* Who is speaking, said once and quietly. Position and tint already carry it; this is the
+   fallback for a narrow screen and for anyone who cannot rely on the colour difference.
+   The turn number is gone: it existed to make curation gaps legible, and no conversation in
+   this corpus has one — the `··· n not shown ···` marker says so explicitly where it matters. */
+.meta { font-size: 0.72rem; color: var(--muted); }
+.text {
+  margin: 0.3rem 0 0; font-size: 1.02rem; line-height: 1.5;
+  white-space: pre-wrap; overflow-wrap: anywhere;
+}
+
+.actions { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.5rem; padding: 0 0.15rem; }
+.msg.business .actions { justify-content: flex-end; }
+.actions button {
+  min-height: 2.1rem; padding: 0.3rem 0.95rem; font-size: 0.86rem; border-radius: 999px;
+  border: 1px solid var(--line); background: var(--panel); color: var(--fg);
+}
+.actions button:hover:not(:disabled) { border-color: var(--accent); }
+.actions button:disabled { opacity: 0.5; cursor: progress; }
+.actions .on { background: var(--accent); border-color: var(--accent); color: var(--accent-fg); }
+
+/* Bengali-script messages carry an assumed label and hide their buttons until opened.
+   Disagreeing takes one extra click, so nothing pools here by accident. */
+.assumption {
+  margin-top: 0.4rem; padding: 0; border: 0; background: none;
+  font-size: 0.8rem; color: var(--muted); text-align: left; text-decoration: underline dotted;
+}
+.msg.assumed .actions { display: none; }
+.msg.assumed.open .actions { display: flex; }
+.msg.assumed.open .assumption { display: none; }
+
+@media (max-width: 34rem) {
+  /* Not 100%: the left/right offset is the primary role cue and has to survive here. */
+  .bubble { max-width: 92%; }
+  .bar .inner { flex-wrap: wrap; gap: 0.5rem 0.75rem; }
+}

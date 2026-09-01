@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Annotator</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="narrow">
+      <h1>Nothing left in the queue</h1>
+      <p class="note">
+        Annotator <%= annotatorId %> has finished <%= progress.threads_done %> conversations
+        and <%= progress.messages_done %> messages. Every remaining conversation already has
+        its two annotators.
+      </p>
+      <form method="post" action="/logout"><button type="submit">Sign out</button></form>
+    </main>
+  </body>
+</html>

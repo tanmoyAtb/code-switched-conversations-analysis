@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Conversation <%= thread.thread_id %></title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body data-thread-id="<%= thread.thread_id %>">
+    <header class="bar">
+      <div class="inner">
+        <span>Annotator <strong><%= annotatorId %></strong></span>
+        <span class="muted">conversation <%= thread.thread_id %></span>
+        <span class="muted"><%= progress.threads_done %> done · <%= progress.messages_done %> messages</span>
+        <span class="spacer"></span>
+        <span id="remaining" class="pill" data-remaining="<%= remaining %>">
+          <%= remaining === 0 ? 'complete' : remaining + ' left' %>
+        </span>
+        <form method="post" action="/logout"><button type="submit" class="link">sign out</button></form>
+      </div>
+    </header>
+
+    <main class="thread">
+      <% for (const { message, options, assumed, entry } of rows) { %>
+        <% if (message.gap_before > 0) { %>
+          <p class="gap">··· <%= message.gap_before %>
+            message<%= message.gap_before === 1 ? '' : 's' %> not shown ···</p>
+        <% } %>
+
+        <article class="msg <%= message.role %><%= assumed && !entry ? ' assumed' : '' %>"
+                 data-message-id="<%= message.message_id %>"
+                 data-assumed="<%= assumed ?? '' %>">
+          <div class="bubble">
+            <div class="meta"><%= message.role %></div>
+            <p class="text"><%= message.text %></p>
+          </div>
+
+          <div class="actions">
+            <% for (const label of options) { %>
+              <button class="label<%= entry && entry.label === label ? ' on' : '' %>"
+                      data-label="<%= label %>"
+                      title="<%= definitions[label] %>"><%= shortLabels[label] %></button>
+            <% } %>
+          </div>
+
+          <% if (assumed) { %>
+            <button class="assumption" data-reveal>
+              Bengali script — recorded as <code><%= assumed %></code> unless you change it
+            </button>
+          <% } %>
+        </article>
+      <% } %>
+    </main>
+
+    <footer class="bar">
+      <div class="inner">
+        <span class="muted">Every click saves on its own. Next does not save anything.</span>
+        <span class="spacer"></span>
+        <a class="next" href="/annotate">Next conversation →</a>
+      </div>
+    </footer>
+
+    <script src="/annotate.js"></script>
+  </body>
+</html>

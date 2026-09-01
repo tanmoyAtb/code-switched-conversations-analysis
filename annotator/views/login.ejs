@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Annotator</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="narrow">
+      <h1>Annotator</h1>
+      <p class="note">Bangla–English message-level language identification.</p>
+
+      <form method="post" action="/session" class="session">
+        <label for="annotator_id">Your annotator number</label>
+        <input id="annotator_id" name="annotator_id" inputmode="numeric" autocomplete="off"
+               autofocus required />
+        <button type="submit">Start</button>
+      </form>
+      <% if (error) { %><p class="error"><%= error %></p><% } %>
+      <p class="note">
+        Use the same number every time. It is asked again each session so that one person's
+        work is never recorded under another's number.
+      </p>
+
+      <h2>The three labels</h2>
+      <dl>
+        <% for (const [label, definition] of Object.entries(labels)) { %>
+        <dt><code><%= label %></code></dt>
+        <dd><%= definition %></dd>
+        <% } %>
+      </dl>
+      <p class="note">
+        Only the labels the alphabet allows are offered on each message. Judge the message in
+        the context of the conversation around it, not on its own.
+      </p>
+    </main>
+  </body>
+</html>
