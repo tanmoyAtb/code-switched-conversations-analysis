@@ -1,0 +1,971 @@
+{"message_id": 4, "thread_id": 2, "turn": 1, "business_id": 13, "role": "customer", "is_bot": false, "text": "Kal order disilam, update chai.", "label": "romanized_bangla"}
+{"message_id": 5, "thread_id": 2, "turn": 2, "business_id": 13, "role": "business", "is_bot": false, "text": "Pothe ache.", "label": "romanized_bangla"}
+{"message_id": 6, "thread_id": 2, "turn": 3, "business_id": 13, "role": "customer", "is_bot": false, "text": "Nite parbo na, cancel koren.", "label": "romanized_bangla"}
+{"message_id": 7, "thread_id": 2, "turn": 4, "business_id": 13, "role": "business", "is_bot": false, "text": "Issue ta dekhtesi.", "label": "romanized_bangla"}
+{"message_id": 73, "thread_id": 10, "turn": 1, "business_id": 28, "role": "customer", "is_bot": false, "text": "প্রোডাক্টটা আশা মতো হয়নি।", "label": "bangla"}
+{"message_id": 74, "thread_id": 10, "turn": 2, "business_id": 28, "role": "business", "is_bot": false, "text": "জি, দুঃখিত", "label": "bangla"}
+{"message_id": 75, "thread_id": 10, "turn": 3, "business_id": 28, "role": "customer", "is_bot": false, "text": "ভাই, শুধু জানিয়ে রাখলাম।", "label": "bangla"}
+{"message_id": 189, "thread_id": 23, "turn": 1, "business_id": 15, "role": "customer", "is_bot": false, "text": "M size ta ase?", "label": "romanized_bangla"}
+{"message_id": 190, "thread_id": 23, "turn": 2, "business_id": 15, "role": "business", "is_bot": true, "text": "Please share your preferred size.", "label": "english"}
+{"message_id": 191, "thread_id": 23, "turn": 3, "business_id": 15, "role": "customer", "is_bot": false, "text": "Vai, Full pic den.", "label": "romanized_bangla"}
+{"message_id": 230, "thread_id": 32, "turn": 1, "business_id": 26, "role": "customer", "is_bot": false, "text": "Can you tell me the cheese cake price?", "label": "english"}
+{"message_id": 231, "thread_id": 32, "turn": 2, "business_id": 26, "role": "business", "is_bot": false, "text": "price 1030", "label": "english"}
+{"message_id": 232, "thread_id": 32, "turn": 3, "business_id": 26, "role": "customer", "is_bot": false, "text": "What will delivery cost? Please let me know.", "label": "english"}
+{"message_id": 233, "thread_id": 32, "turn": 4, "business_id": 26, "role": "business", "is_bot": false, "text": "Sure, 120 tk delivery", "label": "english"}
+{"message_id": 234, "thread_id": 32, "turn": 5, "business_id": 26, "role": "customer", "is_bot": false, "text": "Acha, wait e achi.", "label": "romanized_bangla"}
+{"message_id": 235, "thread_id": 32, "turn": 6, "business_id": 26, "role": "customer", "is_bot": false, "text": "Vai, I will take 1.", "label": "romanized_bangla"}
+{"message_id": 236, "thread_id": 33, "turn": 1, "business_id": 4, "role": "customer", "is_bot": false, "text": "গতকাল অর্ডার দিয়েছি, কী খবর?", "label": "bangla"}
+{"message_id": 237, "thread_id": 33, "turn": 2, "business_id": 4, "role": "business", "is_bot": false, "text": "Real pic dekhen.", "label": "romanized_bangla"}
+{"message_id": 238, "thread_id": 33, "turn": 3, "business_id": 4, "role": "customer", "is_bot": false, "text": "আপু, শনিবার আসা যাবে?", "label": "bangla"}
+{"message_id": 239, "thread_id": 33, "turn": 4, "business_id": 4, "role": "business", "is_bot": false, "text": "Friday 3 tar por.", "label": "romanized_bangla"}
+{"message_id": 240, "thread_id": 33, "turn": 5, "business_id": 4, "role": "customer", "is_bot": false, "text": "আপু, এত দেরি কেন? আমার আগে লাগতো।", "label": "bangla"}
+{"message_id": 241, "thread_id": 33, "turn": 6, "business_id": 4, "role": "business", "is_bot": false, "text": "Change kore dibo.", "label": "romanized_bangla"}
+{"message_id": 242, "thread_id": 33, "turn": 7, "business_id": 4, "role": "business", "is_bot": true, "text": "Ji, Extra charge chara notun ta pathiye dicchi.", "label": "romanized_bangla"}
+{"message_id": 243, "thread_id": 33, "turn": 8, "business_id": 4, "role": "customer", "is_bot": false, "text": "Koto advance niben?", "label": "romanized_bangla"}
+{"message_id": 244, "thread_id": 33, "turn": 9, "business_id": 4, "role": "business", "is_bot": true, "text": "Cash on delivery ar bkash duitai ase. ⏎ Dhaka r baire hole 100 taka advance lage.", "label": "romanized_bangla"}
+{"message_id": 245, "thread_id": 33, "turn": 10, "business_id": 4, "role": "customer", "is_bot": false, "text": "Thik ache, dekhi tahole.", "label": "romanized_bangla"}
+{"message_id": 246, "thread_id": 33, "turn": 11, "business_id": 4, "role": "business", "is_bot": true, "text": "Amader sathe thakar jonno dhonnobad. ⏎ Abar ashben! apu.", "label": "romanized_bangla"}
+{"message_id": 554, "thread_id": 78, "turn": 1, "business_id": 7, "role": "customer", "is_bot": false, "text": "Thik ache, 3 ta fried rice nibo.", "label": "romanized_bangla"}
+{"message_id": 555, "thread_id": 78, "turn": 2, "business_id": 7, "role": "business", "is_bot": true, "text": "Ji, Order confirm korte apnar nam, address ar contact number ta den please.", "label": "romanized_bangla"}
+{"message_id": 556, "thread_id": 78, "turn": 3, "business_id": 7, "role": "customer", "is_bot": false, "text": "Vai, Address Khilgaon, 2 hours er moddhe dile valo hoy.", "label": "romanized_bangla"}
+{"message_id": 600, "thread_id": 90, "turn": 1, "business_id": 26, "role": "customer", "is_bot": false, "text": "Vai, ekta info lagto.", "label": "romanized_bangla"}
+{"message_id": 601, "thread_id": 90, "turn": 2, "business_id": 26, "role": "business", "is_bot": false, "text": "Ki lagbe bolen?", "label": "romanized_bangla"}
+{"message_id": 602, "thread_id": 90, "turn": 3, "business_id": 26, "role": "customer", "is_bot": false, "text": "Kothay aste hobe please?", "label": "romanized_bangla"}
+{"message_id": 603, "thread_id": 90, "turn": 4, "business_id": 26, "role": "business", "is_bot": false, "text": "Ji, amader shop Uttara", "label": "romanized_bangla"}
+{"message_id": 604, "thread_id": 90, "turn": 5, "business_id": 26, "role": "customer", "is_bot": false, "text": "Koyta theke khola please?", "label": "romanized_bangla"}
+{"message_id": 605, "thread_id": 90, "turn": 6, "business_id": 26, "role": "business", "is_bot": false, "text": "Bikel theke.", "label": "romanized_bangla"}
+{"message_id": 606, "thread_id": 90, "turn": 7, "business_id": 26, "role": "customer", "is_bot": false, "text": "Acha, dhonnobad.", "label": "romanized_bangla"}
+{"message_id": 607, "thread_id": 90, "turn": 8, "business_id": 26, "role": "business", "is_bot": false, "text": "abar ashben vai.", "label": "romanized_bangla"}
+{"message_id": 625, "thread_id": 94, "turn": 1, "business_id": 26, "role": "customer", "is_bot": false, "text": "এখনও পার্সেল পাইনি। একটু বলবেন?", "label": "bangla"}
+{"message_id": 626, "thread_id": 94, "turn": 2, "business_id": 26, "role": "business", "is_bot": false, "text": "Ji, Eita dekhen.", "label": "romanized_bangla"}
+{"message_id": 627, "thread_id": 94, "turn": 3, "business_id": 26, "role": "customer", "is_bot": false, "text": "আর লাগবে না, ক্যান্সেল করুন।", "label": "bangla"}
+{"message_id": 715, "thread_id": 105, "turn": 1, "business_id": 28, "role": "customer", "is_bot": false, "text": "Vai, Amar delivery ta ki ashbe?", "label": "romanized_bangla"}
+{"message_id": 716, "thread_id": 105, "turn": 2, "business_id": 28, "role": "business", "is_bot": false, "text": "Real pic dilam.", "label": "english"}
+{"message_id": 717, "thread_id": 105, "turn": 3, "business_id": 28, "role": "customer", "is_bot": false, "text": "Eto late keno? Amar age lagto. ektu bolen.", "label": "romanized_bangla"}
+{"message_id": 718, "thread_id": 105, "turn": 4, "business_id": 28, "role": "business", "is_bot": false, "text": "Ji, Ji, sorry vai", "label": "romanized_bangla"}
+{"message_id": 932, "thread_id": 137, "turn": 1, "business_id": 12, "role": "customer", "is_bot": false, "text": "Vai, Gotokal order diyechi, koi?", "label": "romanized_bangla"}
+{"message_id": 933, "thread_id": 137, "turn": 2, "business_id": 12, "role": "business", "is_bot": false, "text": "Rider chole geche. vai.", "label": "romanized_bangla"}
+{"message_id": 934, "thread_id": 137, "turn": 3, "business_id": 12, "role": "customer", "is_bot": false, "text": "Besh, opekkhay thaklam.", "label": "romanized_bangla"}
+{"message_id": 935, "thread_id": 137, "turn": 4, "business_id": 12, "role": "customer", "is_bot": false, "text": "Please order ta bad den.", "label": "romanized_bangla"}
+{"message_id": 942, "thread_id": 139, "turn": 1, "business_id": 17, "role": "customer", "is_bot": false, "text": "The power bank I received is not the same as the picture.", "label": "english"}
+{"message_id": 943, "thread_id": 139, "turn": 2, "business_id": 17, "role": "business", "is_bot": true, "text": "Ektu Deri hoyar jonno sorry, eta amader normal na.", "label": "romanized_bangla"}
+{"message_id": 944, "thread_id": 139, "turn": 3, "business_id": 17, "role": "customer", "is_bot": false, "text": "Just, Just janiye rakhlam ar ki.", "label": "romanized_bangla"}
+{"message_id": 960, "thread_id": 143, "turn": 1, "business_id": 8, "role": "customer", "is_bot": false, "text": "রাইডার বের হয়েছে একটু বলবেন?", "label": "bangla"}
+{"message_id": 961, "thread_id": 143, "turn": 2, "business_id": 8, "role": "business", "is_bot": false, "text": "Clear pic ache.", "label": "romanized_bangla"}
+{"message_id": 962, "thread_id": 143, "turn": 3, "business_id": 8, "role": "customer", "is_bot": false, "text": "হ্যালো, এত দেরি কেন? আমার আগে লাগতো।", "label": "bangla"}
+{"message_id": 963, "thread_id": 143, "turn": 4, "business_id": 8, "role": "business", "is_bot": false, "text": "সরি আপু, দেখছি ভাই।", "label": "bangla"}
+{"message_id": 964, "thread_id": 143, "turn": 5, "business_id": 8, "role": "customer", "is_bot": false, "text": "Fine, opekkhay thaklam.", "label": "romanized_bangla"}
+{"message_id": 965, "thread_id": 143, "turn": 6, "business_id": 8, "role": "business", "is_bot": true, "text": "জি, বিষয়টি টিমকে জানিয়েছি। ⏎ 7 দিনের মধ্যে রিপ্লেসমেন্ট বা রিফান্ড পাবেন।", "label": "bangla"}
+{"message_id": 990, "thread_id": 148, "turn": 1, "business_id": 10, "role": "customer", "is_bot": false, "text": "Apu, Gotokal order diyechi, koi?", "label": "romanized_bangla"}
+{"message_id": 991, "thread_id": 148, "turn": 2, "business_id": 10, "role": "business", "is_bot": true, "text": "Sure, your order is out for delivery. ⏎ The rider will contact you shortly.", "label": "english"}
+{"message_id": 992, "thread_id": 148, "turn": 3, "business_id": 10, "role": "customer", "is_bot": false, "text": "Order ta hold korben na.", "label": "romanized_bangla"}
+{"message_id": 1016, "thread_id": 154, "turn": 1, "business_id": 29, "role": "business", "is_bot": false, "text": "Ji, notun power bank ashse apu", "label": "romanized_bangla"}
+{"message_id": 1017, "thread_id": 154, "turn": 2, "business_id": 29, "role": "customer", "is_bot": false, "text": "Rate ta ektu diben ektu bolben?", "label": "romanized_bangla"}
+{"message_id": 1018, "thread_id": 154, "turn": 3, "business_id": 29, "role": "business", "is_bot": false, "text": "6090 tk per piece", "label": "english"}
+{"message_id": 1019, "thread_id": 154, "turn": 4, "business_id": 29, "role": "customer", "is_bot": false, "text": "Bujhlam noted.", "label": "romanized_bangla"}
+{"message_id": 1020, "thread_id": 154, "turn": 5, "business_id": 29, "role": "customer", "is_bot": false, "text": "Baire pathate koto lagbe?", "label": "romanized_bangla"}
+{"message_id": 1021, "thread_id": 154, "turn": 6, "business_id": 29, "role": "business", "is_bot": false, "text": "Okay, delivery charge 80 taka", "label": "english"}
+{"message_id": 1096, "thread_id": 170, "turn": 1, "business_id": 14, "role": "business", "is_bot": true, "text": "🔥 Ei week er offer ⏎ brownie box matro 920 taka ⏎ Order korte: <URL>", "label": "romanized_bangla"}
+{"message_id": 1097, "thread_id": 170, "turn": 2, "business_id": 14, "role": "customer", "is_bot": false, "text": "Offer price e pawa jabe?", "label": "romanized_bangla"}
+{"message_id": 1098, "thread_id": 170, "turn": 3, "business_id": 14, "role": "business", "is_bot": true, "text": "brownie box — 920 taka. ⏎ Confirm korte chaile bolben.", "label": "romanized_bangla"}
+{"message_id": 1252, "thread_id": 188, "turn": 1, "business_id": 27, "role": "business", "is_bot": false, "text": "জি, নতুন পাঞ্জাবি এসেছে", "label": "bangla"}
+{"message_id": 1253, "thread_id": 188, "turn": 2, "business_id": 27, "role": "customer", "is_bot": false, "text": "ভাই, আবার স্টকে কবে আসবে?", "label": "bangla"}
+{"message_id": 1254, "thread_id": 188, "turn": 3, "business_id": 27, "role": "business", "is_bot": false, "text": "হ্যাঁ আছে আপু।", "label": "bangla"}
+{"message_id": 1255, "thread_id": 188, "turn": 4, "business_id": 27, "role": "customer", "is_bot": false, "text": "ভাই, সাইজ 42 আছে?", "label": "bangla"}
+{"message_id": 1256, "thread_id": 188, "turn": 5, "business_id": 27, "role": "business", "is_bot": false, "text": "42 আছে", "label": "bangla"}
+{"message_id": 1379, "thread_id": 207, "turn": 1, "business_id": 9, "role": "customer", "is_bot": false, "text": "Thik ache, 4 ta kurti nibo.", "label": "romanized_bangla"}
+{"message_id": 1380, "thread_id": 207, "turn": 2, "business_id": 9, "role": "business", "is_bot": true, "text": "Order er jonno delivery address ar mobile number lagbe.", "label": "romanized_bangla"}
+{"message_id": 1381, "thread_id": 207, "turn": 3, "business_id": 9, "role": "customer", "is_bot": false, "text": "ভাই, এরিয়া গুলশান, সন্ধ্যার মধ্যে দিয়েন।", "label": "bangla"}
+{"message_id": 1382, "thread_id": 207, "turn": 4, "business_id": 9, "role": "customer", "is_bot": false, "text": "Partial payment hobe?", "label": "romanized_bangla"}
+{"message_id": 1383, "thread_id": 207, "turn": 5, "business_id": 9, "role": "business", "is_bot": true, "text": "Delivery te payment korte parben. Custom order e 300 taka advance. Please check.", "label": "romanized_bangla"}
+{"message_id": 1384, "thread_id": 207, "turn": 6, "business_id": 9, "role": "customer", "is_bot": false, "text": "ওকে, ঠিক আছে।", "label": "bangla"}
+{"message_id": 1385, "thread_id": 207, "turn": 7, "business_id": 9, "role": "business", "is_bot": false, "text": "Ji, Ji, confirm kora holo apu", "label": "romanized_bangla"}
+{"message_id": 1406, "thread_id": 210, "turn": 1, "business_id": 27, "role": "customer", "is_bot": false, "text": "Hi, is medium size available?", "label": "english"}
+{"message_id": 1407, "thread_id": 210, "turn": 2, "business_id": 27, "role": "business", "is_bot": false, "text": "Okay, this is available now.", "label": "english"}
+{"message_id": 1408, "thread_id": 210, "turn": 3, "business_id": 27, "role": "customer", "is_bot": false, "text": "Do you have this in stock, please?", "label": "english"}
+{"message_id": 1443, "thread_id": 216, "turn": 1, "business_id": 25, "role": "customer", "is_bot": false, "text": "Vai online achen please?", "label": "romanized_bangla"}
+{"message_id": 1444, "thread_id": 216, "turn": 2, "business_id": 25, "role": "business", "is_bot": true, "text": "Welcome! amader shop e ki khujchen bolen.", "label": "romanized_bangla"}
+{"message_id": 1445, "thread_id": 216, "turn": 3, "business_id": 25, "role": "customer", "is_bot": false, "text": "Onk, dhonnobad vai.", "label": "romanized_bangla"}
+{"message_id": 1446, "thread_id": 216, "turn": 4, "business_id": 25, "role": "customer", "is_bot": false, "text": "Dhanmondi te delivery hoy na?", "label": "romanized_bangla"}
+{"message_id": 1447, "thread_id": 216, "turn": 5, "business_id": 25, "role": "business", "is_bot": true, "text": "Ji Dhanmondi te delivery hoy. ⏎ Charge 120 taka, somoy lage 30-40 minutes.", "label": "romanized_bangla"}
+{"message_id": 1448, "thread_id": 216, "turn": 6, "business_id": 25, "role": "customer", "is_bot": false, "text": "Address ta pathaben?", "label": "romanized_bangla"}
+{"message_id": 1449, "thread_id": 216, "turn": 7, "business_id": 25, "role": "business", "is_bot": true, "text": "Amader outlet Dhanmondi te. ⏎ Sokal 11 ta theke rat 10 ta porjonto khola. apu.", "label": "romanized_bangla"}
+{"message_id": 1450, "thread_id": 216, "turn": 8, "business_id": 25, "role": "customer", "is_bot": false, "text": "Size bujhar pic ache?", "label": "romanized_bangla"}
+{"message_id": 1451, "thread_id": 216, "turn": 9, "business_id": 25, "role": "business", "is_bot": true, "text": "Clear pic gulo share korchi.\nInbox check koren.", "label": "romanized_bangla"}
+{"message_id": 1452, "thread_id": 216, "turn": 10, "business_id": 25, "role": "customer", "is_bot": false, "text": "Deliveryr por pay korbo.", "label": "romanized_bangla"}
+{"message_id": 1453, "thread_id": 216, "turn": 11, "business_id": 25, "role": "business", "is_bot": true, "text": "Okay, delivery te payment korte parben. Custom order e 100 taka advance.", "label": "romanized_bangla"}
+{"message_id": 1484, "thread_id": 221, "turn": 1, "business_id": 29, "role": "business", "is_bot": false, "text": "জি, অফার চলছে এখন", "label": "bangla"}
+{"message_id": 1485, "thread_id": 221, "turn": 2, "business_id": 29, "role": "customer", "is_bot": false, "text": "দামটা জানাবেন জানাবেন?", "label": "bangla"}
+{"message_id": 1486, "thread_id": 221, "turn": 3, "business_id": 29, "role": "business", "is_bot": false, "text": "২৯৮০ টাকা করে", "label": "bangla"}
+{"message_id": 1505, "thread_id": 225, "turn": 1, "business_id": 26, "role": "business", "is_bot": false, "text": "জি, সেলে আছে এখন।", "label": "bangla"}
+{"message_id": 1506, "thread_id": 225, "turn": 2, "business_id": 26, "role": "customer", "is_bot": false, "text": "Hi, Alright, thank you.", "label": "english"}
+{"message_id": 1507, "thread_id": 225, "turn": 3, "business_id": 26, "role": "customer", "is_bot": false, "text": "How much for the brownie box?", "label": "english"}
+{"message_id": 1508, "thread_id": 225, "turn": 4, "business_id": 26, "role": "business", "is_bot": false, "text": "price 1110", "label": "english"}
+{"message_id": 1641, "thread_id": 244, "turn": 1, "business_id": 12, "role": "customer", "is_bot": false, "text": "Dam ta ektu janaben?", "label": "romanized_bangla"}
+{"message_id": 1642, "thread_id": 244, "turn": 2, "business_id": 12, "role": "business", "is_bot": true, "text": "The price of face wash is 830 Tk per piece. ⏎ Delivery charge is separate.", "label": "english"}
+{"message_id": 1643, "thread_id": 244, "turn": 3, "business_id": 12, "role": "customer", "is_bot": false, "text": "Shop ta kon area te?", "label": "romanized_bangla"}
+{"message_id": 1644, "thread_id": 244, "turn": 4, "business_id": 12, "role": "business", "is_bot": true, "text": "We will share the nearest branch location.", "label": "english"}
+{"message_id": 1645, "thread_id": 244, "turn": 5, "business_id": 12, "role": "customer", "is_bot": false, "text": "Jatrabari te kobe pabo?", "label": "romanized_bangla"}
+{"message_id": 1646, "thread_id": 244, "turn": 6, "business_id": 12, "role": "business", "is_bot": true, "text": "Okay, inside Dhaka delivery charge 80 Tk, outside Dhaka 130 Tk.", "label": "english"}
+{"message_id": 1647, "thread_id": 244, "turn": 7, "business_id": 12, "role": "customer", "is_bot": false, "text": "Vai, COD option ta ache?", "label": "romanized_bangla"}
+{"message_id": 1648, "thread_id": 244, "turn": 8, "business_id": 12, "role": "business", "is_bot": true, "text": "Sure, we accept cash on delivery and bkash. ⏎ For outside Dhaka, 100 Tk advance is required.", "label": "english"}
+{"message_id": 1649, "thread_id": 244, "turn": 9, "business_id": 12, "role": "customer", "is_bot": false, "text": "Vai, 4 ta nibo ami.", "label": "romanized_bangla"}
+{"message_id": 1650, "thread_id": 244, "turn": 10, "business_id": 12, "role": "business", "is_bot": true, "text": "Sure, please share your name, full address and contact number to confirm the order.", "label": "english"}
+{"message_id": 1651, "thread_id": 244, "turn": 11, "business_id": 12, "role": "customer", "is_bot": false, "text": "Actual chobi ache?", "label": "romanized_bangla"}
+{"message_id": 1652, "thread_id": 244, "turn": 12, "business_id": 12, "role": "business", "is_bot": true, "text": "Sure, sharing the actual photos with you now. ⏎ Please check.", "label": "english"}
+{"message_id": 1653, "thread_id": 244, "turn": 13, "business_id": 12, "role": "customer", "is_bot": false, "text": "Sondhar por khola?", "label": "romanized_bangla"}
+{"message_id": 1654, "thread_id": 244, "turn": 14, "business_id": 12, "role": "business", "is_bot": true, "text": "We are open every day from 11 AM to 10 PM. ⏎ Friday we open at 3 PM.", "label": "english"}
+{"message_id": 1655, "thread_id": 244, "turn": 15, "business_id": 12, "role": "customer", "is_bot": false, "text": "Vai, Shop ta kothay?", "label": "romanized_bangla"}
+{"message_id": 1656, "thread_id": 244, "turn": 16, "business_id": 12, "role": "business", "is_bot": true, "text": "We are sharing the map location now.", "label": "english"}
+{"message_id": 1657, "thread_id": 244, "turn": 17, "business_id": 12, "role": "customer", "is_bot": false, "text": "Vai, Amar area Khilgaon. Bikale dile subidha hoy.", "label": "romanized_bangla"}
+{"message_id": 1658, "thread_id": 244, "turn": 18, "business_id": 12, "role": "business", "is_bot": true, "text": "Order confirmed ✅ ⏎ 4 x face wash ⏎ Total: 3400 Tk", "label": "english"}
+{"message_id": 1659, "thread_id": 244, "turn": 19, "business_id": 12, "role": "customer", "is_bot": false, "text": "Onk, thanks vai.", "label": "romanized_bangla"}
+{"message_id": 1775, "thread_id": 259, "turn": 1, "business_id": 9, "role": "customer", "is_bot": false, "text": "আপু, হ্যালো, একটা তথ্য দরকার।", "label": "bangla"}
+{"message_id": 1776, "thread_id": 259, "turn": 2, "business_id": 9, "role": "business", "is_bot": true, "text": "Apu, আসসালামু আলাইকুম! <NAME> এ আপনাকে স্বাগতম। ⏎ কীভাবে সাহায্য করতে পারি?", "label": "bangla"}
+{"message_id": 1777, "thread_id": 259, "turn": 3, "business_id": 9, "role": "customer", "is_bot": false, "text": "Apnader kase kurti ase?", "label": "romanized_bangla"}
+{"message_id": 1778, "thread_id": 259, "turn": 4, "business_id": 9, "role": "business", "is_bot": false, "text": "ji ase apu", "label": "romanized_bangla"}
+{"message_id": 1779, "thread_id": 259, "turn": 5, "business_id": 9, "role": "customer", "is_bot": false, "text": "Vai, Koto diye nite parbo?", "label": "romanized_bangla"}
+{"message_id": 1780, "thread_id": 259, "turn": 6, "business_id": 9, "role": "business", "is_bot": true, "text": "kurti er dam 2310 taka per piece. ⏎ Delivery charge alada.", "label": "romanized_bangla"}
+{"message_id": 1781, "thread_id": 259, "turn": 7, "business_id": 9, "role": "customer", "is_bot": false, "text": "Thik ache, 2 ta kurti nibo.", "label": "romanized_bangla"}
+{"message_id": 1787, "thread_id": 261, "turn": 1, "business_id": 17, "role": "customer", "is_bot": false, "text": "Order ta ekhon kothay please?", "label": "romanized_bangla"}
+{"message_id": 1788, "thread_id": 261, "turn": 2, "business_id": 17, "role": "business", "is_bot": false, "text": "Photo gulo dekhen.", "label": "romanized_bangla"}
+{"message_id": 1789, "thread_id": 261, "turn": 3, "business_id": 17, "role": "customer", "is_bot": false, "text": "Bhaiya, Eto late keno? Amar age lagto.", "label": "romanized_bangla"}
+{"message_id": 1790, "thread_id": 262, "turn": 1, "business_id": 30, "role": "customer", "is_bot": false, "text": "Ektu dam janaben?", "label": "romanized_bangla"}
+{"message_id": 1791, "thread_id": 262, "turn": 2, "business_id": 30, "role": "business", "is_bot": false, "text": "dam 1880", "label": "romanized_bangla"}
+{"message_id": 1792, "thread_id": 262, "turn": 3, "business_id": 30, "role": "customer", "is_bot": false, "text": "Kon branch e aste hobe na?", "label": "romanized_bangla"}
+{"message_id": 1793, "thread_id": 262, "turn": 4, "business_id": 30, "role": "business", "is_bot": false, "text": "amader shop Khilgaon apu.", "label": "romanized_bangla"}
+{"message_id": 1794, "thread_id": 262, "turn": 5, "business_id": 30, "role": "customer", "is_bot": false, "text": "Jatrabari te pathaben?", "label": "romanized_bangla"}
+{"message_id": 1795, "thread_id": 262, "turn": 6, "business_id": 30, "role": "business", "is_bot": false, "text": "Okay, delivery charge 100 taka", "label": "english"}
+{"message_id": 1796, "thread_id": 262, "turn": 7, "business_id": 30, "role": "customer", "is_bot": false, "text": "Please confirm 5 vitamin c serum for me.", "label": "english"}
+{"message_id": 1797, "thread_id": 262, "turn": 8, "business_id": 30, "role": "business", "is_bot": false, "text": "Sure, address please", "label": "english"}
+{"message_id": 1798, "thread_id": 262, "turn": 9, "business_id": 30, "role": "customer", "is_bot": false, "text": "Alright, thank you. Please.", "label": "english"}
+{"message_id": 1799, "thread_id": 262, "turn": 10, "business_id": 30, "role": "customer", "is_bot": false, "text": "My address is Khilgaon. Please deliver by 2-3 days.", "label": "english"}
+{"message_id": 1806, "thread_id": 264, "turn": 1, "business_id": 16, "role": "customer", "is_bot": false, "text": "Amar order er kono update ase?", "label": "romanized_bangla"}
+{"message_id": 1807, "thread_id": 264, "turn": 2, "business_id": 16, "role": "business", "is_bot": true, "text": "Ji, Pathiye deya hoyeche, 1 hour er moddhe peye jaben.", "label": "romanized_bangla"}
+{"message_id": 1808, "thread_id": 264, "turn": 3, "business_id": 16, "role": "customer", "is_bot": false, "text": "Cancel request dilam.", "label": "romanized_bangla"}
+{"message_id": 1887, "thread_id": 277, "turn": 1, "business_id": 13, "role": "customer", "is_bot": false, "text": "Koto rakhsen eta?", "label": "romanized_bangla"}
+{"message_id": 1888, "thread_id": 277, "turn": 2, "business_id": 13, "role": "business", "is_bot": false, "text": "900 taka apu", "label": "romanized_bangla"}
+{"message_id": 1889, "thread_id": 277, "turn": 3, "business_id": 13, "role": "customer", "is_bot": false, "text": "Dhakar vitore charge koto please?", "label": "romanized_bangla"}
+{"message_id": 1890, "thread_id": 277, "turn": 4, "business_id": 13, "role": "business", "is_bot": false, "text": "hoy, 2-3 days lagbe apu.", "label": "romanized_bangla"}
+{"message_id": 2085, "thread_id": 301, "turn": 1, "business_id": 9, "role": "business", "is_bot": true, "text": "New stock eshe geche! ⏎ panjabi ekhon available ⏎ 1170 taka theke shuru", "label": "romanized_bangla"}
+{"message_id": 2086, "thread_id": 301, "turn": 2, "business_id": 9, "role": "customer", "is_bot": false, "text": "আপু, আবার স্টকে কবে আসবে?", "label": "bangla"}
+{"message_id": 2087, "thread_id": 301, "turn": 3, "business_id": 9, "role": "business", "is_bot": true, "text": "Kichu din por abar ashbe.", "label": "romanized_bangla"}
+{"message_id": 2088, "thread_id": 301, "turn": 4, "business_id": 9, "role": "customer", "is_bot": false, "text": "পাঞ্জাবি এর কোন কোন সাইজ আছে?", "label": "bangla"}
+{"message_id": 2089, "thread_id": 301, "turn": 5, "business_id": 9, "role": "business", "is_bot": true, "text": "Ji, L size ta duita color e ase.", "label": "romanized_bangla"}
+{"message_id": 2120, "thread_id": 308, "turn": 1, "business_id": 27, "role": "business", "is_bot": false, "text": "offer running now vai.", "label": "romanized_bangla"}
+{"message_id": 2121, "thread_id": 308, "turn": 2, "business_id": 27, "role": "customer", "is_bot": false, "text": "Besh, dhonnobad vai.", "label": "romanized_bangla"}
+{"message_id": 2122, "thread_id": 308, "turn": 3, "business_id": 27, "role": "customer", "is_bot": false, "text": "kurti ta ki ekhon ache na?", "label": "romanized_bangla"}
+{"message_id": 2123, "thread_id": 308, "turn": 4, "business_id": 27, "role": "business", "is_bot": false, "text": "Ji, in stock sir", "label": "romanized_bangla"}
+{"message_id": 2124, "thread_id": 308, "turn": 5, "business_id": 27, "role": "customer", "is_bot": false, "text": "42 size ta ase?", "label": "romanized_bangla"}
+{"message_id": 2133, "thread_id": 311, "turn": 1, "business_id": 14, "role": "business", "is_bot": true, "text": "🔥 Ei week er offer ⏎ cupcake set matro 490 taka ⏎ Order korte: <URL>", "label": "romanized_bangla"}
+{"message_id": 2134, "thread_id": 311, "turn": 2, "business_id": 14, "role": "customer", "is_bot": false, "text": "Oi tar rate koto?", "label": "romanized_bangla"}
+{"message_id": 2135, "thread_id": 311, "turn": 3, "business_id": 14, "role": "business", "is_bot": true, "text": "cupcake set — 490 taka. ⏎ Confirm korte chaile bolben.", "label": "romanized_bangla"}
+{"message_id": 2136, "thread_id": 311, "turn": 4, "business_id": 14, "role": "customer", "is_bot": false, "text": "Tahole tahole.", "label": "romanized_bangla"}
+{"message_id": 2223, "thread_id": 324, "turn": 1, "business_id": 15, "role": "customer", "is_bot": false, "text": "What is the final price, please?", "label": "english"}
+{"message_id": 2224, "thread_id": 324, "turn": 2, "business_id": 15, "role": "business", "is_bot": false, "text": "dam 1750", "label": "romanized_bangla"}
+{"message_id": 2225, "thread_id": 324, "turn": 3, "business_id": 15, "role": "customer", "is_bot": false, "text": "Hi there, how long does delivery take?", "label": "english"}
+{"message_id": 2226, "thread_id": 324, "turn": 4, "business_id": 15, "role": "business", "is_bot": true, "text": "Ji, Ji Mirpur 10 te delivery hoy. ⏎ Charge 120 taka, somoy lage 2 hours.", "label": "romanized_bangla"}
+{"message_id": 2227, "thread_id": 324, "turn": 5, "business_id": 15, "role": "customer", "is_bot": false, "text": "Please confirm 1 kurti for me.", "label": "english"}
+{"message_id": 2228, "thread_id": 324, "turn": 6, "business_id": 15, "role": "business", "is_bot": false, "text": "details den", "label": "romanized_bangla"}
+{"message_id": 2229, "thread_id": 324, "turn": 7, "business_id": 15, "role": "customer", "is_bot": false, "text": "Besh, wait korbo.", "label": "romanized_bangla"}
+{"message_id": 2230, "thread_id": 324, "turn": 8, "business_id": 15, "role": "customer", "is_bot": false, "text": "Name is given, area Mirpur 10. Deliver in the evening please.", "label": "english"}
+{"message_id": 2413, "thread_id": 353, "turn": 1, "business_id": 23, "role": "customer", "is_bot": false, "text": "Hello, any update on my order?", "label": "english"}
+{"message_id": 2414, "thread_id": 353, "turn": 2, "business_id": 23, "role": "business", "is_bot": true, "text": "Your order is out for delivery. ⏎ The rider will contact you shortly. Please check.", "label": "english"}
+{"message_id": 2415, "thread_id": 353, "turn": 3, "business_id": 23, "role": "customer", "is_bot": false, "text": "Hi, Then please cancel my order.", "label": "english"}
+{"message_id": 2416, "thread_id": 353, "turn": 4, "business_id": 23, "role": "business", "is_bot": false, "text": "apologies, checking now vai.", "label": "romanized_bangla"}
+{"message_id": 2417, "thread_id": 353, "turn": 5, "business_id": 23, "role": "customer", "is_bot": false, "text": "Alright janaben.", "label": "romanized_bangla"}
+{"message_id": 2418, "thread_id": 353, "turn": 6, "business_id": 23, "role": "business", "is_bot": false, "text": "Pic pathaisi. vai.", "label": "romanized_bangla"}
+{"message_id": 2429, "thread_id": 355, "turn": 1, "business_id": 27, "role": "customer", "is_bot": false, "text": "saree er kon kon size ase na?", "label": "romanized_bangla"}
+{"message_id": 2430, "thread_id": 355, "turn": 2, "business_id": 27, "role": "business", "is_bot": false, "text": "Ji, XL ta ache", "label": "romanized_bangla"}
+{"message_id": 2431, "thread_id": 355, "turn": 3, "business_id": 27, "role": "customer", "is_bot": false, "text": "Aj nile kobe pabo please?", "label": "romanized_bangla"}
+{"message_id": 2432, "thread_id": 355, "turn": 4, "business_id": 27, "role": "business", "is_bot": false, "text": "hoy, 45 minutes lagbe vai.", "label": "romanized_bangla"}
+{"message_id": 2433, "thread_id": 355, "turn": 5, "business_id": 27, "role": "customer", "is_bot": false, "text": "Kobe haate pabo please?", "label": "romanized_bangla"}
+{"message_id": 2434, "thread_id": 355, "turn": 6, "business_id": 27, "role": "business", "is_bot": false, "text": "Ji, hobe. apu.", "label": "romanized_bangla"}
+{"message_id": 2435, "thread_id": 355, "turn": 7, "business_id": 27, "role": "customer", "is_bot": false, "text": "Apu, Raat koyta porjonto?", "label": "romanized_bangla"}
+{"message_id": 2436, "thread_id": 355, "turn": 8, "business_id": 27, "role": "business", "is_bot": false, "text": "Ji, sokal theke", "label": "romanized_bangla"}
+{"message_id": 2437, "thread_id": 355, "turn": 9, "business_id": 27, "role": "customer", "is_bot": false, "text": "Eta ki black te ase na?", "label": "romanized_bangla"}
+{"message_id": 2438, "thread_id": 355, "turn": 10, "business_id": 27, "role": "business", "is_bot": false, "text": "Ji, sob size ase", "label": "romanized_bangla"}
+{"message_id": 2439, "thread_id": 355, "turn": 11, "business_id": 27, "role": "customer", "is_bot": false, "text": "Vai, Back pic ache?", "label": "romanized_bangla"}
+{"message_id": 2440, "thread_id": 355, "turn": 12, "business_id": 27, "role": "business", "is_bot": false, "text": "Ektu ei je apu.", "label": "romanized_bangla"}
+{"message_id": 2441, "thread_id": 355, "turn": 13, "business_id": 27, "role": "customer", "is_bot": false, "text": "Apa, Amake 1 ta confirm kore den.", "label": "romanized_bangla"}
+{"message_id": 2442, "thread_id": 355, "turn": 14, "business_id": 27, "role": "business", "is_bot": false, "text": "details den", "label": "romanized_bangla"}
+{"message_id": 2443, "thread_id": 355, "turn": 15, "business_id": 27, "role": "customer", "is_bot": false, "text": "Vai, Bkash number ta den.", "label": "romanized_bangla"}
+{"message_id": 2444, "thread_id": 355, "turn": 16, "business_id": 27, "role": "business", "is_bot": false, "text": "Ji, advance 100 taka lagbe", "label": "romanized_bangla"}
+{"message_id": 2445, "thread_id": 355, "turn": 17, "business_id": 27, "role": "customer", "is_bot": false, "text": "Vai, Address Mirpur 10, 45 minutes er moddhe dile valo hoy.", "label": "romanized_bangla"}
+{"message_id": 2446, "thread_id": 355, "turn": 18, "business_id": 27, "role": "business", "is_bot": false, "text": "Apu, confirm kora holo apu", "label": "romanized_bangla"}
+{"message_id": 2447, "thread_id": 355, "turn": 19, "business_id": 27, "role": "customer", "is_bot": false, "text": "Location ta bolben janaben?", "label": "romanized_bangla"}
+{"message_id": 2448, "thread_id": 355, "turn": 20, "business_id": 27, "role": "business", "is_bot": false, "text": "Ektu Mirpur 10 te apu", "label": "romanized_bangla"}
+{"message_id": 2449, "thread_id": 355, "turn": 21, "business_id": 27, "role": "customer", "is_bot": false, "text": "Bujhlam tahole.", "label": "romanized_bangla"}
+{"message_id": 2450, "thread_id": 355, "turn": 22, "business_id": 27, "role": "customer", "is_bot": false, "text": "Friday te kobe kholen?", "label": "romanized_bangla"}
+{"message_id": 2474, "thread_id": 359, "turn": 1, "business_id": 3, "role": "customer", "is_bot": false, "text": "একটু ভাই একটু হেল্প লাগবে।", "label": "bangla"}
+{"message_id": 2475, "thread_id": 359, "turn": 2, "business_id": 3, "role": "business", "is_bot": true, "text": "Ektu আসসালামু আলাইকুম! <NAME> এ আপনাকে স্বাগতম। ⏎ কীভাবে সাহায্য করতে পারি?", "label": "bangla"}
+{"message_id": 2476, "thread_id": 359, "turn": 3, "business_id": 3, "role": "customer", "is_bot": false, "text": "আপু, মিরপুরে আউটলেট আছে?", "label": "bangla"}
+{"message_id": 2477, "thread_id": 359, "turn": 4, "business_id": 3, "role": "business", "is_bot": true, "text": "জি, আমাদের আউটলেট মোহাম্মদপুর এ। ⏎ সকাল ১১টা থেকে রাত ১০টা পর্যন্ত খোলা।", "label": "bangla"}
+{"message_id": 2478, "thread_id": 359, "turn": 5, "business_id": 3, "role": "customer", "is_bot": false, "text": "আজ খোলা আছে?", "label": "bangla"}
+{"message_id": 2479, "thread_id": 359, "turn": 6, "business_id": 3, "role": "business", "is_bot": true, "text": "প্রতিদিন সকাল ১১টা থেকে রাত ১০টা পর্যন্ত খোলা। ⏎ শুক্রবার ৩টার পর।", "label": "bangla"}
+{"message_id": 2480, "thread_id": 359, "turn": 7, "business_id": 3, "role": "customer", "is_bot": false, "text": "ভাই, পৌঁছাতে কত দিন লাগে?", "label": "bangla"}
+{"message_id": 2481, "thread_id": 359, "turn": 8, "business_id": 3, "role": "business", "is_bot": true, "text": "জি মোহাম্মদপুর এ ডেলিভারি হয়। ⏎ চার্জ 60 টাকা, সময় লাগে 2-3 দিন।", "label": "bangla"}
+{"message_id": 2482, "thread_id": 359, "turn": 9, "business_id": 3, "role": "customer", "is_bot": false, "text": "ভাই, বিকাশে টাকা দিতে পারি?", "label": "bangla"}
+{"message_id": 2483, "thread_id": 359, "turn": 10, "business_id": 3, "role": "business", "is_bot": true, "text": "জি, ক্যাশ অন ডেলিভারি ও বিকাশ দুটোই আছে। ⏎ ঢাকার বাইরে ২০০ টাকা অ্যাডভান্স লাগে।", "label": "bangla"}
+{"message_id": 2484, "thread_id": 359, "turn": 11, "business_id": 3, "role": "customer", "is_bot": false, "text": "ভাই, আরও পিক দিন।", "label": "bangla"}
+{"message_id": 2485, "thread_id": 359, "turn": 12, "business_id": 3, "role": "business", "is_bot": true, "text": "ক্লিয়ার ছবিগুলো শেয়ার করছি।\nএকটু দেখে নিন।", "label": "bangla"}
+{"message_id": 2486, "thread_id": 359, "turn": 13, "business_id": 3, "role": "customer", "is_bot": false, "text": "আপু, কুর্তি এর কোন কোন সাইজ আছে?", "label": "bangla"}
+{"message_id": 2487, "thread_id": 359, "turn": 14, "business_id": 3, "role": "business", "is_bot": true, "text": "Sure, we have sizes M, L and XL for kurti. ⏎ Colors available: black, white, navy.", "label": "english"}
+{"message_id": 2488, "thread_id": 359, "turn": 15, "business_id": 3, "role": "customer", "is_bot": false, "text": "Okay, thank you so much.", "label": "english"}
+{"message_id": 2489, "thread_id": 360, "turn": 1, "business_id": 30, "role": "customer", "is_bot": false, "text": "Apnader kache lip balm ase na?", "label": "romanized_bangla"}
+{"message_id": 2490, "thread_id": 360, "turn": 2, "business_id": 30, "role": "business", "is_bot": false, "text": "এখন নেই ভাই।", "label": "bangla"}
+{"message_id": 2491, "thread_id": 360, "turn": 3, "business_id": 30, "role": "customer", "is_bot": false, "text": "Apu, Advance dite hobe?", "label": "romanized_bangla"}
+{"message_id": 2492, "thread_id": 360, "turn": 4, "business_id": 30, "role": "business", "is_bot": false, "text": "জি, ক্যাশে পেমেন্ট হবে।", "label": "bangla"}
+{"message_id": 2493, "thread_id": 360, "turn": 5, "business_id": 30, "role": "customer", "is_bot": false, "text": "Vai, Stock e ache naki?", "label": "romanized_bangla"}
+{"message_id": 2494, "thread_id": 360, "turn": 6, "business_id": 30, "role": "business", "is_bot": false, "text": "2 দিন লাগবে আপু।", "label": "bangla"}
+{"message_id": 2495, "thread_id": 360, "turn": 7, "business_id": 30, "role": "customer", "is_bot": false, "text": "Sure, thank you.", "label": "english"}
+{"message_id": 2496, "thread_id": 360, "turn": 8, "business_id": 30, "role": "business", "is_bot": false, "text": "জি, ধন্যবাদ", "label": "bangla"}
+{"message_id": 2533, "thread_id": 367, "turn": 1, "business_id": 5, "role": "customer", "is_bot": false, "text": "অর্ডারটা কবে পাব একটু বলবেন?", "label": "bangla"}
+{"message_id": 2534, "thread_id": 367, "turn": 2, "business_id": 5, "role": "business", "is_bot": false, "text": "Order pouchabe.", "label": "romanized_bangla"}
+{"message_id": 2535, "thread_id": 367, "turn": 3, "business_id": 5, "role": "customer", "is_bot": false, "text": "আপু, আর লাগবে না, ক্যান্সেল করেন।", "label": "bangla"}
+{"message_id": 2536, "thread_id": 367, "turn": 4, "business_id": 5, "role": "business", "is_bot": true, "text": "Osubidhar jonno sorry. Dekhtesi.", "label": "english"}
+{"message_id": 2537, "thread_id": 367, "turn": 5, "business_id": 5, "role": "business", "is_bot": true, "text": "Okay, amra bishoyta team ke janiyechi. ⏎ 4 diner moddhe replacement ba refund peye jaben.", "label": "romanized_bangla"}
+{"message_id": 2538, "thread_id": 367, "turn": 6, "business_id": 5, "role": "customer", "is_bot": false, "text": "অনেক, ধন্যবাদ ভাই।", "label": "bangla"}
+{"message_id": 2590, "thread_id": 374, "turn": 1, "business_id": 24, "role": "customer", "is_bot": false, "text": "কেউ কি রিপ্লাই দিবেন একটু বলবেন?", "label": "bangla"}
+{"message_id": 2591, "thread_id": 374, "turn": 2, "business_id": 24, "role": "business", "is_bot": false, "text": "জি, ওয়ালাইকুম আসসালাম ভাই।", "label": "bangla"}
+{"message_id": 2592, "thread_id": 374, "turn": 3, "business_id": 24, "role": "customer", "is_bot": false, "text": "ঠিকানাটা একটু পাঠাবেন?", "label": "bangla"}
+{"message_id": 2593, "thread_id": 374, "turn": 4, "business_id": 24, "role": "business", "is_bot": false, "text": "জি, সাভার এ", "label": "bangla"}
+{"message_id": 2599, "thread_id": 376, "turn": 1, "business_id": 1, "role": "customer", "is_bot": false, "text": "অর্ডার কনফার্ম হয়েছে জানাবেন?", "label": "bangla"}
+{"message_id": 2600, "thread_id": 376, "turn": 2, "business_id": 1, "role": "business", "is_bot": true, "text": "Apnar order rowna hoye geche. ⏎ Rider ekhoni contact korbe.", "label": "romanized_bangla"}
+{"message_id": 2601, "thread_id": 376, "turn": 3, "business_id": 1, "role": "customer", "is_bot": false, "text": "অনেক দেরি হয়ে যাচ্ছে, ১ ঘণ্টা ধরে অপেক্ষা করছি।", "label": "bangla"}
+{"message_id": 2602, "thread_id": 376, "turn": 4, "business_id": 1, "role": "business", "is_bot": true, "text": "Issue ta ekhoni check kortesi.", "label": "romanized_bangla"}
+{"message_id": 2603, "thread_id": 376, "turn": 5, "business_id": 1, "role": "customer", "is_bot": false, "text": "বুঝলাম, আপডেটের অপেক্ষায় থাকি।", "label": "bangla"}
+{"message_id": 2609, "thread_id": 378, "turn": 1, "business_id": 29, "role": "customer", "is_bot": false, "text": "Vai type-c charger ta paoya jabe ekhon na?", "label": "romanized_bangla"}
+{"message_id": 2610, "thread_id": 378, "turn": 2, "business_id": 29, "role": "business", "is_bot": false, "text": "Apu, ekhon nai apu", "label": "romanized_bangla"}
+{"message_id": 2611, "thread_id": 378, "turn": 3, "business_id": 29, "role": "customer", "is_bot": false, "text": "Tahole, dekhi tahole.", "label": "romanized_bangla"}
+{"message_id": 2612, "thread_id": 378, "turn": 4, "business_id": 29, "role": "customer", "is_bot": false, "text": "Apu, Kokhon paowa jabe janaben na?", "label": "romanized_bangla"}
+{"message_id": 2613, "thread_id": 378, "turn": 5, "business_id": 29, "role": "business", "is_bot": false, "text": "ashbe shiggir apu.", "label": "romanized_bangla"}
+{"message_id": 2629, "thread_id": 383, "turn": 1, "business_id": 10, "role": "customer", "is_bot": false, "text": "custom mug ta ki ekhon ache?", "label": "romanized_bangla"}
+{"message_id": 2630, "thread_id": 383, "turn": 2, "business_id": 10, "role": "business", "is_bot": false, "text": "Vai, ekhon nai apu", "label": "romanized_bangla"}
+{"message_id": 2631, "thread_id": 383, "turn": 3, "business_id": 10, "role": "customer", "is_bot": false, "text": "Apu, Kobe abar pawa jabe?", "label": "romanized_bangla"}
+{"message_id": 2632, "thread_id": 383, "turn": 4, "business_id": 10, "role": "business", "is_bot": true, "text": "3 diner moddhe notun stock ashbe. ⏎ Ashle apnake janiye debo. apu.", "label": "romanized_bangla"}
+{"message_id": 2646, "thread_id": 387, "turn": 1, "business_id": 8, "role": "customer", "is_bot": false, "text": "Koto porbe eta ektu bolben?", "label": "romanized_bangla"}
+{"message_id": 2647, "thread_id": 387, "turn": 2, "business_id": 8, "role": "business", "is_bot": true, "text": "The price of chocolate cake is 2050 Tk per pound. ⏎ Delivery charge is separate.", "label": "english"}
+{"message_id": 2648, "thread_id": 387, "turn": 3, "business_id": 8, "role": "customer", "is_bot": false, "text": "Besh, opekkha korchi.", "label": "romanized_bangla"}
+{"message_id": 2649, "thread_id": 387, "turn": 4, "business_id": 8, "role": "customer", "is_bot": false, "text": "Mohammadpur te charge koto janaben?", "label": "romanized_bangla"}
+{"message_id": 2650, "thread_id": 387, "turn": 5, "business_id": 8, "role": "business", "is_bot": true, "text": "Yes, we deliver to Bashundhara. ⏎ Delivery charge is 80 Tk and it takes 2 hours.", "label": "english"}
+{"message_id": 2795, "thread_id": 411, "turn": 1, "business_id": 4, "role": "customer", "is_bot": false, "text": "Hello, Hello vai, ekta jinis jantam.", "label": "romanized_bangla"}
+{"message_id": 2796, "thread_id": 411, "turn": 2, "business_id": 4, "role": "business", "is_bot": true, "text": "amader shop e message deyar jonno dhonnobad.\nKi jante chan?", "label": "romanized_bangla"}
+{"message_id": 2797, "thread_id": 411, "turn": 3, "business_id": 4, "role": "customer", "is_bot": false, "text": "Vai, Mirpur te kobe pabo?", "label": "romanized_bangla"}
+{"message_id": 2798, "thread_id": 411, "turn": 4, "business_id": 4, "role": "business", "is_bot": true, "text": "Dhaka r moddhe 80 taka, baire 170 taka. apu.", "label": "romanized_bangla"}
+{"message_id": 2821, "thread_id": 415, "turn": 1, "business_id": 12, "role": "customer", "is_bot": false, "text": "ঠিক আছে, ৩ টা ফেসওয়াশ নিবো।", "label": "bangla"}
+{"message_id": 2822, "thread_id": 415, "turn": 2, "business_id": 12, "role": "business", "is_bot": false, "text": "Ji, Address ta inbox e ache.", "label": "romanized_bangla"}
+{"message_id": 2823, "thread_id": 415, "turn": 3, "business_id": 12, "role": "customer", "is_bot": false, "text": "Vai, Amar area Gulshan 2. Bikale dile subidha hoy.", "label": "romanized_bangla"}
+{"message_id": 2837, "thread_id": 418, "turn": 1, "business_id": 27, "role": "business", "is_bot": false, "text": "একটু অফার চলছে এখন", "label": "bangla"}
+{"message_id": 2838, "thread_id": 418, "turn": 2, "business_id": 27, "role": "customer", "is_bot": false, "text": "ভাই, কুর্তি কত করে?", "label": "bangla"}
+{"message_id": 2839, "thread_id": 418, "turn": 3, "business_id": 27, "role": "business", "is_bot": false, "text": "২৯৯০ টাকা করে", "label": "bangla"}
+{"message_id": 2849, "thread_id": 421, "turn": 1, "business_id": 30, "role": "customer", "is_bot": false, "text": "হ্যালো, এবার কোয়ালিটি ভালো ছিল না।", "label": "bangla"}
+{"message_id": 2850, "thread_id": 421, "turn": 2, "business_id": 30, "role": "business", "is_bot": false, "text": "জি, দুঃখিত ভাই।", "label": "bangla"}
+{"message_id": 2851, "thread_id": 421, "turn": 3, "business_id": 30, "role": "customer", "is_bot": false, "text": "হ্যালো, যা পেয়েছি তার ছবি দিলাম।", "label": "bangla"}
+{"message_id": 2910, "thread_id": 431, "turn": 1, "business_id": 4, "role": "customer", "is_bot": false, "text": "Please, any update on my order?", "label": "english"}
+{"message_id": 2911, "thread_id": 431, "turn": 2, "business_id": 4, "role": "business", "is_bot": false, "text": "পার্সেল বের করেছি।", "label": "bangla"}
+{"message_id": 2912, "thread_id": 431, "turn": 3, "business_id": 4, "role": "customer", "is_bot": false, "text": "আপা, এত দেরি কেন? আমার আগে লাগতো।", "label": "bangla"}
+{"message_id": 2983, "thread_id": 446, "turn": 1, "business_id": 6, "role": "customer", "is_bot": false, "text": "ভাই, আপনাদের ভিটামিন সি সিরাম কি এখন আছে?", "label": "bangla"}
+{"message_id": 2984, "thread_id": 446, "turn": 2, "business_id": 6, "role": "business", "is_bot": false, "text": "স্টক শেষ ভাই।", "label": "bangla"}
+{"message_id": 2985, "thread_id": 446, "turn": 3, "business_id": 6, "role": "customer", "is_bot": false, "text": "স্টকে আছে নাকি জানাবেন?", "label": "bangla"}
+{"message_id": 3193, "thread_id": 478, "turn": 1, "business_id": 28, "role": "customer", "is_bot": false, "text": "Apu ektu help lagbe.", "label": "romanized_bangla"}
+{"message_id": 3194, "thread_id": 478, "turn": 2, "business_id": 28, "role": "business", "is_bot": false, "text": "ঠিক আছে, ওয়ালাইকুম আসসালাম", "label": "bangla"}
+{"message_id": 3195, "thread_id": 478, "turn": 3, "business_id": 28, "role": "customer", "is_bot": false, "text": "invitation card ta ki ekhon ase na?", "label": "romanized_bangla"}
+{"message_id": 3196, "thread_id": 478, "turn": 4, "business_id": 28, "role": "business", "is_bot": false, "text": "জি আছে আপু।", "label": "bangla"}
+{"message_id": 3197, "thread_id": 479, "turn": 1, "business_id": 11, "role": "customer", "is_bot": false, "text": "Apa, Ei bar quality ta valo cilo na.", "label": "romanized_bangla"}
+{"message_id": 3198, "thread_id": 479, "turn": 2, "business_id": 11, "role": "business", "is_bot": false, "text": "আপু, সরি আপু, দেখছি", "label": "bangla"}
+{"message_id": 3199, "thread_id": 479, "turn": 3, "business_id": 11, "role": "customer", "is_bot": false, "text": "Bhai, Ja pelam tar chobi dilam.", "label": "romanized_bangla"}
+{"message_id": 3283, "thread_id": 495, "turn": 1, "business_id": 26, "role": "customer", "is_bot": false, "text": "Hi, are you available now?", "label": "english"}
+{"message_id": 3284, "thread_id": 495, "turn": 2, "business_id": 26, "role": "business", "is_bot": false, "text": "How may we help, please?", "label": "english"}
+{"message_id": 3285, "thread_id": 495, "turn": 3, "business_id": 26, "role": "customer", "is_bot": false, "text": "Where is your outlet, please?", "label": "english"}
+{"message_id": 3286, "thread_id": 495, "turn": 4, "business_id": 26, "role": "business", "is_bot": false, "text": "our shop is in Uttara", "label": "english"}
+{"message_id": 3287, "thread_id": 495, "turn": 5, "business_id": 26, "role": "customer", "is_bot": false, "text": "Thik ache thik ase.", "label": "romanized_bangla"}
+{"message_id": 3288, "thread_id": 495, "turn": 6, "business_id": 26, "role": "customer", "is_bot": false, "text": "What time do you open, please?", "label": "english"}
+{"message_id": 3289, "thread_id": 496, "turn": 1, "business_id": 9, "role": "customer", "is_bot": false, "text": "Could you any update on my order?", "label": "english"}
+{"message_id": 3290, "thread_id": 496, "turn": 2, "business_id": 9, "role": "business", "is_bot": true, "text": "Your order is out for delivery. ⏎ The rider will contact you shortly.", "label": "english"}
+{"message_id": 3291, "thread_id": 496, "turn": 3, "business_id": 9, "role": "customer", "is_bot": false, "text": "Just checking: It is taking too long, I have been waiting 2-3 days.", "label": "english"}
+{"message_id": 3323, "thread_id": 501, "turn": 1, "business_id": 7, "role": "customer", "is_bot": false, "text": "Stock e ache naki ektu bolben?", "label": "romanized_bangla"}
+{"message_id": 3324, "thread_id": 501, "turn": 2, "business_id": 7, "role": "business", "is_bot": false, "text": "ছবিটা পাঠান। ভাই।", "label": "bangla"}
+{"message_id": 3325, "thread_id": 501, "turn": 3, "business_id": 7, "role": "customer", "is_bot": false, "text": "M size ta ache janaben?", "label": "romanized_bangla"}
+{"message_id": 3326, "thread_id": 502, "turn": 1, "business_id": 6, "role": "customer", "is_bot": false, "text": "ভাই, ভাই, অনলাইনে আছেন?", "label": "bangla"}
+{"message_id": 3327, "thread_id": 502, "turn": 2, "business_id": 6, "role": "business", "is_bot": true, "text": "আসসালামু আলাইকুম! <NAME> এ আপনাকে স্বাগতম। ⏎ কীভাবে সাহায্য করতে পারি bolen to?", "label": "bangla"}
+{"message_id": 3328, "thread_id": 502, "turn": 3, "business_id": 6, "role": "customer", "is_bot": false, "text": "আপু, লিপ বাম টা কি স্টকে আছে?", "label": "bangla"}
+{"message_id": 3430, "thread_id": 515, "turn": 1, "business_id": 11, "role": "customer", "is_bot": false, "text": "Boss, 1 ta nibo ami.", "label": "romanized_bangla"}
+{"message_id": 3431, "thread_id": 515, "turn": 2, "business_id": 11, "role": "business", "is_bot": false, "text": "Ji, send name and address", "label": "romanized_bangla"}
+{"message_id": 3432, "thread_id": 515, "turn": 3, "business_id": 11, "role": "customer", "is_bot": false, "text": "Hi, Name is given, area Mohammadpur. Deliver in the evening please.", "label": "english"}
+{"message_id": 3433, "thread_id": 515, "turn": 4, "business_id": 11, "role": "customer", "is_bot": false, "text": "Is partial payment possible?", "label": "english"}
+{"message_id": 3434, "thread_id": 516, "turn": 1, "business_id": 17, "role": "customer", "is_bot": false, "text": "Is bluetooth speaker available right now?", "label": "english"}
+{"message_id": 3435, "thread_id": 516, "turn": 2, "business_id": 17, "role": "business", "is_bot": true, "text": "Okay, apologies, that item is currently unavailable.", "label": "english"}
+{"message_id": 3436, "thread_id": 516, "turn": 3, "business_id": 17, "role": "customer", "is_bot": false, "text": "Alright, thanks, really.", "label": "english"}
+{"message_id": 3437, "thread_id": 516, "turn": 4, "business_id": 17, "role": "customer", "is_bot": false, "text": "Hi, are you open this evening?", "label": "english"}
+{"message_id": 3438, "thread_id": 516, "turn": 5, "business_id": 17, "role": "business", "is_bot": true, "text": "We are open every day from 11 AM to 10 PM. ⏎ Friday we open at 3 PM.", "label": "english"}
+{"message_id": 3439, "thread_id": 516, "turn": 6, "business_id": 17, "role": "customer", "is_bot": false, "text": "Hi, is my size available?", "label": "english"}
+{"message_id": 3440, "thread_id": 516, "turn": 7, "business_id": 17, "role": "business", "is_bot": true, "text": "Okay, we expect new stock within 7 days. ⏎ We will inform you once it arrives.", "label": "english"}
+{"message_id": 3441, "thread_id": 516, "turn": 8, "business_id": 17, "role": "customer", "is_bot": false, "text": "Please, do you take bkash?", "label": "english"}
+{"message_id": 3442, "thread_id": 516, "turn": 9, "business_id": 17, "role": "business", "is_bot": true, "text": "Okay, payment can be made on delivery. Advance 100 Tk for custom orders.", "label": "english"}
+{"message_id": 3443, "thread_id": 516, "turn": 10, "business_id": 17, "role": "customer", "is_bot": false, "text": "Got it, many thanks.", "label": "english"}
+{"message_id": 3521, "thread_id": 529, "turn": 1, "business_id": 28, "role": "customer", "is_bot": false, "text": "Amar order er update ache janaben?", "label": "romanized_bangla"}
+{"message_id": 3522, "thread_id": 529, "turn": 2, "business_id": 28, "role": "business", "is_bot": false, "text": "Inbox e dilam. apu.", "label": "romanized_bangla"}
+{"message_id": 3523, "thread_id": 529, "turn": 3, "business_id": 28, "role": "customer", "is_bot": false, "text": "Hello, Ar lagbe na, cancel kore den.", "label": "romanized_bangla"}
+{"message_id": 3611, "thread_id": 542, "turn": 1, "business_id": 8, "role": "customer", "is_bot": false, "text": "Is the vanilla cake still available?", "label": "english"}
+{"message_id": 3612, "thread_id": 542, "turn": 2, "business_id": 8, "role": "business", "is_bot": false, "text": "জি, দুঃখিত এখন নেই", "label": "bangla"}
+{"message_id": 3613, "thread_id": 542, "turn": 3, "business_id": 8, "role": "customer", "is_bot": false, "text": "Please share the shop address.", "label": "english"}
+{"message_id": 3614, "thread_id": 542, "turn": 4, "business_id": 8, "role": "business", "is_bot": true, "text": "আমাদের আউটলেট উত্তরা এ। ⏎ সকাল ১১টা থেকে রাত ১০টা পর্যন্ত খোলা। আপু।", "label": "bangla"}
+{"message_id": 3615, "thread_id": 542, "turn": 5, "business_id": 8, "role": "customer", "is_bot": false, "text": "Got it, thanks for that.", "label": "english"}
+{"message_id": 3616, "thread_id": 542, "turn": 6, "business_id": 8, "role": "customer", "is_bot": false, "text": "Do you have this in black?", "label": "english"}
+{"message_id": 3617, "thread_id": 542, "turn": 7, "business_id": 8, "role": "business", "is_bot": true, "text": "7 দিনের মধ্যে নতুন স্টক আসবে। ⏎ আসলে জানিয়ে দেবো। আপু।", "label": "bangla"}
+{"message_id": 3618, "thread_id": 542, "turn": 8, "business_id": 8, "role": "customer", "is_bot": false, "text": "share the real picture.", "label": "english"}
+{"message_id": 3619, "thread_id": 542, "turn": 9, "business_id": 8, "role": "business", "is_bot": true, "text": "আসল ছবিগুলো ইনবক্সে পাঠিয়ে দিলাম।\nদেখে জানাবেন।", "label": "bangla"}
+{"message_id": 3620, "thread_id": 542, "turn": 10, "business_id": 8, "role": "customer", "is_bot": false, "text": "How long does delivery take?", "label": "english"}
+{"message_id": 3621, "thread_id": 542, "turn": 11, "business_id": 8, "role": "business", "is_bot": true, "text": "জি উত্তরা এ ডেলিভারি হয়। ⏎ চার্জ 80 টাকা, সময় লাগে 45 মিনিট।", "label": "bangla"}
+{"message_id": 3622, "thread_id": 542, "turn": 12, "business_id": 8, "role": "customer", "is_bot": false, "text": "Hi, hi, are you open on Friday?", "label": "english"}
+{"message_id": 3623, "thread_id": 542, "turn": 13, "business_id": 8, "role": "business", "is_bot": false, "text": "শুক্রবার ৩টার পর।", "label": "bangla"}
+{"message_id": 3643, "thread_id": 546, "turn": 1, "business_id": 28, "role": "customer", "is_bot": false, "text": "Bhaiya, Ei bar quality ta valo cilo na.", "label": "romanized_bangla"}
+{"message_id": 3644, "thread_id": 546, "turn": 2, "business_id": 28, "role": "business", "is_bot": false, "text": "sorry apu janacchi.", "label": "romanized_bangla"}
+{"message_id": 3645, "thread_id": 546, "turn": 3, "business_id": 28, "role": "customer", "is_bot": false, "text": "Hello, Ja pelam tar chobi dilam.", "label": "romanized_bangla"}
+{"message_id": 3646, "thread_id": 546, "turn": 4, "business_id": 28, "role": "business", "is_bot": false, "text": "refund kore dicchi", "label": "romanized_bangla"}
+{"message_id": 3647, "thread_id": 546, "turn": 5, "business_id": 28, "role": "customer", "is_bot": false, "text": "Bujhlam, dhonnobad apu.", "label": "romanized_bangla"}
+{"message_id": 3648, "thread_id": 546, "turn": 6, "business_id": 28, "role": "business", "is_bot": false, "text": "Acha, valo thakben", "label": "romanized_bangla"}
+{"message_id": 3649, "thread_id": 547, "turn": 1, "business_id": 24, "role": "customer", "is_bot": false, "text": "Boss, Hello vai, ekta jinis jantam.", "label": "romanized_bangla"}
+{"message_id": 3650, "thread_id": 547, "turn": 2, "business_id": 24, "role": "business", "is_bot": true, "text": "আসসালামু আলাইকুম! <NAME> এ আপনাকে স্বাগতম। ⏎ কীভাবে সাহায্য করতে পারি please?", "label": "bangla"}
+{"message_id": 3651, "thread_id": 547, "turn": 3, "business_id": 24, "role": "customer", "is_bot": false, "text": "Thik ase .", "label": "romanized_bangla"}
+{"message_id": 3652, "thread_id": 547, "turn": 4, "business_id": 24, "role": "customer", "is_bot": false, "text": "Apnader kase night cream ase?", "label": "romanized_bangla"}
+{"message_id": 3722, "thread_id": 561, "turn": 1, "business_id": 10, "role": "business", "is_bot": true, "text": "🔥 Ei week er offer ⏎ custom mug matro 1230 taka ⏎ Order korte: <URL>", "label": "romanized_bangla"}
+{"message_id": 3723, "thread_id": 561, "turn": 2, "business_id": 10, "role": "customer", "is_bot": false, "text": "Offer price e pawa jabe please?", "label": "romanized_bangla"}
+{"message_id": 3724, "thread_id": 561, "turn": 3, "business_id": 10, "role": "business", "is_bot": false, "text": "1230 tk per set", "label": "english"}
+{"message_id": 3725, "thread_id": 561, "turn": 4, "business_id": 10, "role": "customer", "is_bot": false, "text": "Ektu Thik ase, wait kortesi.", "label": "romanized_bangla"}
+{"message_id": 3730, "thread_id": 563, "turn": 1, "business_id": 26, "role": "customer", "is_bot": false, "text": "Apu, Koto taka niben?", "label": "romanized_bangla"}
+{"message_id": 3731, "thread_id": 563, "turn": 2, "business_id": 26, "role": "business", "is_bot": false, "text": "dam 2220", "label": "romanized_bangla"}
+{"message_id": 3732, "thread_id": 563, "turn": 3, "business_id": 26, "role": "customer", "is_bot": false, "text": "Acha apu.", "label": "romanized_bangla"}
+{"message_id": 3733, "thread_id": 563, "turn": 4, "business_id": 26, "role": "customer", "is_bot": false, "text": "Vai, Gulshan 2 te delivery hobe?", "label": "romanized_bangla"}
+{"message_id": 3734, "thread_id": 563, "turn": 5, "business_id": 26, "role": "business", "is_bot": false, "text": "Ji, ache. apu.", "label": "romanized_bangla"}
+{"message_id": 3735, "thread_id": 563, "turn": 6, "business_id": 26, "role": "customer", "is_bot": false, "text": "Ektu 2 ta nibo ami.", "label": "romanized_bangla"}
+{"message_id": 3736, "thread_id": 563, "turn": 7, "business_id": 26, "role": "business", "is_bot": false, "text": "Delivery address ta lagbe.", "label": "romanized_bangla"}
+{"message_id": 3737, "thread_id": 563, "turn": 8, "business_id": 26, "role": "customer", "is_bot": false, "text": "Kon branch ta kache janaben?", "label": "romanized_bangla"}
+{"message_id": 3738, "thread_id": 563, "turn": 9, "business_id": 26, "role": "business", "is_bot": false, "text": "Ji, Ji, Gulshan 2 branch", "label": "romanized_bangla"}
+{"message_id": 3739, "thread_id": 563, "turn": 10, "business_id": 26, "role": "customer", "is_bot": false, "text": "Apu, Address Gulshan 2, 45 minutes er moddhe dile valo hoy.", "label": "romanized_bangla"}
+{"message_id": 3789, "thread_id": 574, "turn": 1, "business_id": 28, "role": "customer", "is_bot": false, "text": "আপনাদের ভিজিটিং কার্ড কি এখন আছে?", "label": "bangla"}
+{"message_id": 3790, "thread_id": 574, "turn": 2, "business_id": 28, "role": "business", "is_bot": false, "text": "জি, একটু সময় দিন।", "label": "bangla"}
+{"message_id": 3791, "thread_id": 574, "turn": 3, "business_id": 28, "role": "customer", "is_bot": false, "text": "আপু, লার্জ সাইজ পাব?", "label": "bangla"}
+{"message_id": 3792, "thread_id": 574, "turn": 4, "business_id": 28, "role": "business", "is_bot": false, "text": "শীঘ্রই আসবে ভাই।", "label": "bangla"}
+{"message_id": 3797, "thread_id": 576, "turn": 1, "business_id": 1, "role": "customer", "is_bot": false, "text": "My order was placed yesterday, where is it? Could you confirm?", "label": "english"}
+{"message_id": 3798, "thread_id": 576, "turn": 2, "business_id": 1, "role": "business", "is_bot": false, "text": "Okay, photo dekhen.", "label": "english"}
+{"message_id": 3799, "thread_id": 576, "turn": 3, "business_id": 1, "role": "customer", "is_bot": false, "text": "Hi, i do not need it anymore, cancel please.", "label": "english"}
+{"message_id": 3800, "thread_id": 577, "turn": 1, "business_id": 5, "role": "customer", "is_bot": false, "text": "Apu, Assalamualaikum, anyone there?", "label": "romanized_bangla"}
+{"message_id": 3801, "thread_id": 577, "turn": 2, "business_id": 5, "role": "business", "is_bot": true, "text": "Hello! Welcome to <NAME>. ⏎ How can we help you today? Please advise.", "label": "english"}
+{"message_id": 3802, "thread_id": 577, "turn": 3, "business_id": 5, "role": "customer", "is_bot": false, "text": "Hi, can I see the front view?", "label": "english"}
+{"message_id": 3803, "thread_id": 577, "turn": 4, "business_id": 5, "role": "business", "is_bot": true, "text": "Sharing the actual photos with you now. ⏎ check. Please check.", "label": "english"}
+{"message_id": 3804, "thread_id": 577, "turn": 5, "business_id": 5, "role": "customer", "is_bot": false, "text": "Physical shop ache to janaben?", "label": "romanized_bangla"}
+{"message_id": 3805, "thread_id": 577, "turn": 6, "business_id": 5, "role": "business", "is_bot": true, "text": "Our outlet is in Dhanmondi. ⏎ We are open from 11 AM to 10 PM. Please check.", "label": "english"}
+{"message_id": 3806, "thread_id": 577, "turn": 7, "business_id": 5, "role": "customer", "is_bot": false, "text": "How long does delivery take?", "label": "english"}
+{"message_id": 3807, "thread_id": 577, "turn": 8, "business_id": 5, "role": "business", "is_bot": true, "text": "Sure, inside Dhaka delivery charge 120 Tk, outside Dhaka 130 Tk.", "label": "english"}
+{"message_id": 3808, "thread_id": 577, "turn": 9, "business_id": 5, "role": "customer", "is_bot": false, "text": "Do I need to pay first?", "label": "english"}
+{"message_id": 3809, "thread_id": 577, "turn": 10, "business_id": 5, "role": "business", "is_bot": true, "text": "We accept cash on delivery and bkash. ⏎ For outside Dhaka, 500 Tk advance is required. Please check.", "label": "english"}
+{"message_id": 3810, "thread_id": 577, "turn": 11, "business_id": 5, "role": "customer", "is_bot": false, "text": "Can I visit on Saturday, please?", "label": "english"}
+{"message_id": 3811, "thread_id": 577, "turn": 12, "business_id": 5, "role": "business", "is_bot": true, "text": "We are open every day from 11 AM to 10 PM. ⏎ Friday we open at 3 PM.", "label": "english"}
+{"message_id": 3812, "thread_id": 577, "turn": 13, "business_id": 5, "role": "customer", "is_bot": false, "text": "Besh, dekhi tahole.", "label": "romanized_bangla"}
+{"message_id": 3882, "thread_id": 589, "turn": 1, "business_id": 8, "role": "customer", "is_bot": false, "text": "ভাই চিজ কেক পাওয়া যাবে?", "label": "bangla"}
+{"message_id": 3883, "thread_id": 589, "turn": 2, "business_id": 8, "role": "business", "is_bot": true, "text": "Sorry, cheese cake ekhon stock e nei. ⏎ Khub shiggiri abar ashbe.", "label": "romanized_bangla"}
+{"message_id": 3884, "thread_id": 589, "turn": 3, "business_id": 8, "role": "customer", "is_bot": false, "text": "কবে আবার পাব জানাবেন?", "label": "bangla"}
+{"message_id": 3885, "thread_id": 589, "turn": 4, "business_id": 8, "role": "business", "is_bot": true, "text": "2 diner moddhe notun stock ashbe. ⏎ Ashle apnake janiye debo. apu.", "label": "romanized_bangla"}
+{"message_id": 3886, "thread_id": 589, "turn": 5, "business_id": 8, "role": "customer", "is_bot": false, "text": "তাহলে, ধন্যবাদ ভাই।", "label": "bangla"}
+{"message_id": 3887, "thread_id": 589, "turn": 6, "business_id": 8, "role": "business", "is_bot": true, "text": "Ektu Amader sathe thakar jonno dhonnobad. ⏎ Abar ashben!", "label": "romanized_bangla"}
+{"message_id": 3893, "thread_id": 591, "turn": 1, "business_id": 28, "role": "customer", "is_bot": false, "text": "Ekhono parcel pai nai. ektu bolen.", "label": "romanized_bangla"}
+{"message_id": 3894, "thread_id": 591, "turn": 2, "business_id": 28, "role": "business", "is_bot": false, "text": "Ji, Real pic dilam.", "label": "romanized_bangla"}
+{"message_id": 3895, "thread_id": 591, "turn": 3, "business_id": 28, "role": "customer", "is_bot": false, "text": "Apu, Kon branch e aste hobe?", "label": "romanized_bangla"}
+{"message_id": 3896, "thread_id": 591, "turn": 4, "business_id": 28, "role": "business", "is_bot": false, "text": "Ji, Badda te apu", "label": "romanized_bangla"}
+{"message_id": 3897, "thread_id": 591, "turn": 5, "business_id": 28, "role": "customer", "is_bot": false, "text": "Mohammadpur te koto lagbe?", "label": "romanized_bangla"}
+{"message_id": 3898, "thread_id": 591, "turn": 6, "business_id": 28, "role": "business", "is_bot": false, "text": "Ektu hoy, 30-40 minutes lagbe", "label": "romanized_bangla"}
+{"message_id": 3899, "thread_id": 591, "turn": 7, "business_id": 28, "role": "customer", "is_bot": false, "text": "Fine, wait kortesi.", "label": "romanized_bangla"}
+{"message_id": 3900, "thread_id": 591, "turn": 8, "business_id": 28, "role": "customer", "is_bot": false, "text": "Bhaiya, Ar lagbe na, cancel kore den.", "label": "romanized_bangla"}
+{"message_id": 3901, "thread_id": 591, "turn": 9, "business_id": 28, "role": "business", "is_bot": false, "text": "Apu, sorry vai", "label": "romanized_bangla"}
+{"message_id": 3902, "thread_id": 591, "turn": 10, "business_id": 28, "role": "customer", "is_bot": false, "text": "Just, Real pic ta ektu pathan", "label": "romanized_bangla"}
+{"message_id": 3903, "thread_id": 591, "turn": 11, "business_id": 28, "role": "business", "is_bot": false, "text": "Vai, pathaisi apu", "label": "romanized_bangla"}
+{"message_id": 4109, "thread_id": 623, "turn": 1, "business_id": 26, "role": "customer", "is_bot": false, "text": "chocolate cake ki stock e ache?", "label": "romanized_bangla"}
+{"message_id": 4110, "thread_id": 623, "turn": 2, "business_id": 26, "role": "business", "is_bot": false, "text": "Sure, stock out at the moment", "label": "english"}
+{"message_id": 4111, "thread_id": 623, "turn": 3, "business_id": 26, "role": "customer", "is_bot": false, "text": "Vai, Abar kobe ashbe eta?", "label": "romanized_bangla"}
+{"message_id": 4112, "thread_id": 623, "turn": 4, "business_id": 26, "role": "business", "is_bot": false, "text": "Ji, coming within 7 days", "label": "romanized_bangla"}
+{"message_id": 4113, "thread_id": 623, "turn": 5, "business_id": 26, "role": "customer", "is_bot": false, "text": "Fine, thanks a lot.", "label": "english"}
+{"message_id": 4114, "thread_id": 623, "turn": 6, "business_id": 26, "role": "business", "is_bot": false, "text": "Ektu visit again", "label": "romanized_bangla"}
+{"message_id": 4226, "thread_id": 646, "turn": 1, "business_id": 27, "role": "customer", "is_bot": false, "text": "Kobe dispatch korben please?", "label": "romanized_bangla"}
+{"message_id": 4227, "thread_id": 646, "turn": 2, "business_id": 27, "role": "business", "is_bot": false, "text": "Parcel soon ashbe. vai.", "label": "romanized_bangla"}
+{"message_id": 4228, "thread_id": 646, "turn": 3, "business_id": 27, "role": "customer", "is_bot": false, "text": "three piece er kon kon size ase na?", "label": "romanized_bangla"}
+{"message_id": 4229, "thread_id": 646, "turn": 4, "business_id": 27, "role": "business", "is_bot": false, "text": "sob size ase apu.", "label": "romanized_bangla"}
+{"message_id": 4230, "thread_id": 646, "turn": 5, "business_id": 27, "role": "customer", "is_bot": false, "text": "Eto late keno? Amar age lagto.", "label": "romanized_bangla"}
+{"message_id": 4231, "thread_id": 646, "turn": 6, "business_id": 27, "role": "business", "is_bot": false, "text": "Ji, Change kore deya jabe.", "label": "romanized_bangla"}
+{"message_id": 4232, "thread_id": 646, "turn": 7, "business_id": 27, "role": "customer", "is_bot": false, "text": "Thik ache, onek dhonnobad.", "label": "romanized_bangla"}
+{"message_id": 4233, "thread_id": 646, "turn": 8, "business_id": 27, "role": "business", "is_bot": false, "text": "refund kore dicchi", "label": "romanized_bangla"}
+{"message_id": 4243, "thread_id": 649, "turn": 1, "business_id": 28, "role": "customer", "is_bot": false, "text": "Is the invitation card still available?", "label": "english"}
+{"message_id": 4244, "thread_id": 649, "turn": 2, "business_id": 28, "role": "business", "is_bot": false, "text": "Okay, stock out at the moment", "label": "english"}
+{"message_id": 4245, "thread_id": 649, "turn": 3, "business_id": 28, "role": "customer", "is_bot": false, "text": "Hi, do you have this in stock?", "label": "english"}
+{"message_id": 4283, "thread_id": 654, "turn": 1, "business_id": 12, "role": "customer", "is_bot": false, "text": "Apu, Rider contact korse na.", "label": "romanized_bangla"}
+{"message_id": 4284, "thread_id": 654, "turn": 2, "business_id": 12, "role": "business", "is_bot": false, "text": "on the way sir", "label": "english"}
+{"message_id": 4285, "thread_id": 654, "turn": 3, "business_id": 12, "role": "customer", "is_bot": false, "text": "Apu, Shukrobar ki khola?", "label": "romanized_bangla"}
+{"message_id": 4286, "thread_id": 654, "turn": 4, "business_id": 12, "role": "business", "is_bot": true, "text": "We are open every day from 11 AM to 10 PM. ⏎ Friday we open at 3 PM.", "label": "english"}
+{"message_id": 4287, "thread_id": 654, "turn": 5, "business_id": 12, "role": "customer", "is_bot": false, "text": "Just, Ar lagbe na, cancel kore den.", "label": "romanized_bangla"}
+{"message_id": 4288, "thread_id": 654, "turn": 6, "business_id": 12, "role": "business", "is_bot": true, "text": "Sorry for the delay, this is not our usual standard.", "label": "english"}
+{"message_id": 4289, "thread_id": 654, "turn": 7, "business_id": 12, "role": "customer", "is_bot": false, "text": "Vai, Address ta please diben?", "label": "romanized_bangla"}
+{"message_id": 4290, "thread_id": 654, "turn": 8, "business_id": 12, "role": "business", "is_bot": true, "text": "Our outlet is in Dhanmondi. ⏎ We are open from 11 AM to 10 PM.", "label": "english"}
+{"message_id": 4291, "thread_id": 654, "turn": 9, "business_id": 12, "role": "business", "is_bot": false, "text": "Ji, Ji, we will change it", "label": "romanized_bangla"}
+{"message_id": 4292, "thread_id": 654, "turn": 10, "business_id": 12, "role": "customer", "is_bot": false, "text": "Just, Aro chobi den na", "label": "romanized_bangla"}
+{"message_id": 4293, "thread_id": 654, "turn": 11, "business_id": 12, "role": "business", "is_bot": true, "text": "Sharing the actual photos with you now. ⏎ check.", "label": "english"}
+{"message_id": 4294, "thread_id": 654, "turn": 12, "business_id": 12, "role": "customer", "is_bot": false, "text": "Bkash e deya jabe to please?", "label": "romanized_bangla"}
+{"message_id": 4295, "thread_id": 654, "turn": 13, "business_id": 12, "role": "business", "is_bot": true, "text": "We accept cash on delivery and bkash. ⏎ For outside Dhaka, 300 Tk advance is required. Please check.", "label": "english"}
+{"message_id": 4296, "thread_id": 654, "turn": 14, "business_id": 12, "role": "customer", "is_bot": false, "text": "Vai, Age koto dite hobe?", "label": "romanized_bangla"}
+{"message_id": 4297, "thread_id": 654, "turn": 15, "business_id": 12, "role": "business", "is_bot": false, "text": "Yes, you can pay by bKash.", "label": "english"}
+{"message_id": 4298, "thread_id": 654, "turn": 16, "business_id": 12, "role": "customer", "is_bot": false, "text": "Achcha, thanks bhaiya.", "label": "romanized_bangla"}
+{"message_id": 4299, "thread_id": 654, "turn": 17, "business_id": 12, "role": "customer", "is_bot": false, "text": "Delivery time koto please?", "label": "romanized_bangla"}
+{"message_id": 4300, "thread_id": 654, "turn": 18, "business_id": 12, "role": "business", "is_bot": true, "text": "Okay, inside Dhaka delivery charge 70 Tk, outside Dhaka 130 Tk.", "label": "english"}
+{"message_id": 4301, "thread_id": 654, "turn": 19, "business_id": 12, "role": "customer", "is_bot": false, "text": "Vai, Video ache?", "label": "romanized_bangla"}
+{"message_id": 4302, "thread_id": 654, "turn": 20, "business_id": 12, "role": "business", "is_bot": false, "text": "Ji, have a look vai.", "label": "romanized_bangla"}
+{"message_id": 4427, "thread_id": 670, "turn": 1, "business_id": 16, "role": "business", "is_bot": true, "text": "🔥 Ei week er offer ⏎ wedding card matro 960 taka ⏎ Order korte: <URL>", "label": "romanized_bangla"}
+{"message_id": 4428, "thread_id": 670, "turn": 2, "business_id": 16, "role": "customer", "is_bot": false, "text": "Wholesale rate ache ektu bolben?", "label": "romanized_bangla"}
+{"message_id": 4429, "thread_id": 670, "turn": 3, "business_id": 16, "role": "business", "is_bot": true, "text": "wedding card — 960 taka. ⏎ Confirm korte chaile bolben.", "label": "romanized_bangla"}
+{"message_id": 4430, "thread_id": 670, "turn": 4, "business_id": 16, "role": "customer", "is_bot": false, "text": "Apu, Narayanganj te delivery hoy?", "label": "romanized_bangla"}
+{"message_id": 4431, "thread_id": 670, "turn": 5, "business_id": 16, "role": "business", "is_bot": false, "text": "hoy, 1 hour lagbe apu.", "label": "romanized_bangla"}
+{"message_id": 4432, "thread_id": 670, "turn": 6, "business_id": 16, "role": "customer", "is_bot": false, "text": "1 ta nibo ami.", "label": "romanized_bangla"}
+{"message_id": 4433, "thread_id": 670, "turn": 7, "business_id": 16, "role": "business", "is_bot": false, "text": "confirmed vai.", "label": "romanized_bangla"}
+{"message_id": 4434, "thread_id": 670, "turn": 8, "business_id": 16, "role": "customer", "is_bot": false, "text": "Acha, thik ase.", "label": "romanized_bangla"}
+{"message_id": 4474, "thread_id": 679, "turn": 1, "business_id": 16, "role": "customer", "is_bot": false, "text": "Okay, I want to order 1 custom mug.", "label": "english"}
+{"message_id": 4475, "thread_id": 679, "turn": 2, "business_id": 16, "role": "business", "is_bot": true, "text": "Order dite lagbe: ⏎ 1. Nam ⏎ 2. Address ⏎ 3. Phone number", "label": "romanized_bangla"}
+{"message_id": 4476, "thread_id": 679, "turn": 3, "business_id": 16, "role": "customer", "is_bot": false, "text": "My address is Mohammadpur. Please deliver by 2-3 days.", "label": "english"}
+{"message_id": 4639, "thread_id": 701, "turn": 1, "business_id": 26, "role": "business", "is_bot": false, "text": "new donut box just arrived, take a look", "label": "english"}
+{"message_id": 4640, "thread_id": 701, "turn": 2, "business_id": 26, "role": "customer", "is_bot": false, "text": "Could you tell me the donut box price?", "label": "english"}
+{"message_id": 4641, "thread_id": 701, "turn": 3, "business_id": 26, "role": "business", "is_bot": false, "text": "780 tk", "label": "english"}
+{"message_id": 4642, "thread_id": 701, "turn": 4, "business_id": 26, "role": "customer", "is_bot": false, "text": "Is the courier charge separate, please?", "label": "english"}
+{"message_id": 4643, "thread_id": 701, "turn": 5, "business_id": 26, "role": "business", "is_bot": false, "text": "Ji, yes we deliver, 60 taka", "label": "romanized_bangla"}
+{"message_id": 4644, "thread_id": 701, "turn": 6, "business_id": 26, "role": "customer", "is_bot": false, "text": "Okay, I want to order 1 donut box.", "label": "english"}
+{"message_id": 4645, "thread_id": 701, "turn": 7, "business_id": 26, "role": "business", "is_bot": false, "text": "Ektu confirmed", "label": "romanized_bangla"}
+{"message_id": 4646, "thread_id": 701, "turn": 8, "business_id": 26, "role": "customer", "is_bot": false, "text": "Fine, thanks for that.", "label": "english"}
+{"message_id": 4788, "thread_id": 718, "turn": 1, "business_id": 8, "role": "customer", "is_bot": false, "text": "Kal er order ta koi janaben?", "label": "romanized_bangla"}
+{"message_id": 4789, "thread_id": 718, "turn": 2, "business_id": 8, "role": "business", "is_bot": false, "text": "Parcel ajke ashbe. apu.", "label": "romanized_bangla"}
+{"message_id": 4790, "thread_id": 718, "turn": 3, "business_id": 8, "role": "customer", "is_bot": false, "text": "Eto late keno? Amar age lagto.", "label": "romanized_bangla"}
+{"message_id": 4892, "thread_id": 733, "turn": 1, "business_id": 20, "role": "business", "is_bot": true, "text": "New arrival! ⏎ red velvet cake now in stock ⏎ Starting from 1320 Tk", "label": "english"}
+{"message_id": 4893, "thread_id": 733, "turn": 2, "business_id": 20, "role": "customer", "is_bot": false, "text": "Aro chobi den na", "label": "romanized_bangla"}
+{"message_id": 4894, "thread_id": 733, "turn": 3, "business_id": 20, "role": "business", "is_bot": true, "text": "Here are the real pictures of red velvet cake.", "label": "english"}
+{"message_id": 4895, "thread_id": 733, "turn": 4, "business_id": 20, "role": "customer", "is_bot": false, "text": "Ektu rate bolen.", "label": "romanized_bangla"}
+{"message_id": 4896, "thread_id": 733, "turn": 5, "business_id": 20, "role": "business", "is_bot": true, "text": "red velvet cake — 1320 Tk. ⏎ Let us know if you would like to confirm.", "label": "english"}
+{"message_id": 4897, "thread_id": 733, "turn": 6, "business_id": 20, "role": "customer", "is_bot": false, "text": "Cash e payment hobe please?", "label": "romanized_bangla"}
+{"message_id": 4898, "thread_id": 733, "turn": 7, "business_id": 20, "role": "business", "is_bot": true, "text": "We accept cash on delivery and bkash. ⏎ For outside Dhaka, 100 Tk advance is required.", "label": "english"}
+{"message_id": 4899, "thread_id": 733, "turn": 8, "business_id": 20, "role": "customer", "is_bot": false, "text": "Apu, Mirpur te pathaben?", "label": "romanized_bangla"}
+{"message_id": 4900, "thread_id": 733, "turn": 9, "business_id": 20, "role": "business", "is_bot": true, "text": "Yes, we deliver to Mohammadpur. ⏎ Delivery charge is 60 Tk and it takes 45 minutes.", "label": "english"}
+{"message_id": 4901, "thread_id": 733, "turn": 10, "business_id": 20, "role": "customer", "is_bot": false, "text": "Got it .", "label": "romanized_bangla"}
+{"message_id": 4902, "thread_id": 733, "turn": 11, "business_id": 20, "role": "customer", "is_bot": false, "text": "Asol e, Amake 1 ta confirm kore den.", "label": "romanized_bangla"}
+{"message_id": 4903, "thread_id": 733, "turn": 12, "business_id": 20, "role": "business", "is_bot": true, "text": "Your order for 1 red velvet cake is confirmed. ⏎ Total 1380 Tk including delivery. ⏎ It will reach you within 45 minutes.", "label": "english"}
+{"message_id": 4904, "thread_id": 733, "turn": 13, "business_id": 20, "role": "customer", "is_bot": false, "text": "Kon branch e aste hoy janaben?", "label": "romanized_bangla"}
+{"message_id": 4905, "thread_id": 733, "turn": 14, "business_id": 20, "role": "business", "is_bot": true, "text": "Sure, you can visit our Mohammadpur branch any day.", "label": "english"}
+{"message_id": 4906, "thread_id": 733, "turn": 15, "business_id": 20, "role": "customer", "is_bot": false, "text": "Ajke timing ki ektu bolben?", "label": "romanized_bangla"}
+{"message_id": 4971, "thread_id": 744, "turn": 1, "business_id": 7, "role": "customer", "is_bot": false, "text": "Parcel er ki obostha please?", "label": "romanized_bangla"}
+{"message_id": 4972, "thread_id": 744, "turn": 2, "business_id": 7, "role": "business", "is_bot": true, "text": "Apnar order rowna hoye geche. ⏎ Rider ekhoni contact korbe.", "label": "romanized_bangla"}
+{"message_id": 4973, "thread_id": 744, "turn": 3, "business_id": 7, "role": "customer", "is_bot": false, "text": "Besh, wait e thaklam.", "label": "romanized_bangla"}
+{"message_id": 4974, "thread_id": 744, "turn": 4, "business_id": 7, "role": "customer", "is_bot": false, "text": "Vai, Kon branch e aste hoy na?", "label": "romanized_bangla"}
+{"message_id": 4975, "thread_id": 744, "turn": 5, "business_id": 7, "role": "business", "is_bot": true, "text": "Apni Gulshan 2 branch e ashte paren. apu.", "label": "romanized_bangla"}
+{"message_id": 4976, "thread_id": 744, "turn": 6, "business_id": 7, "role": "customer", "is_bot": false, "text": "Cash on delivery hoy please?", "label": "english"}
+{"message_id": 4977, "thread_id": 744, "turn": 7, "business_id": 7, "role": "business", "is_bot": true, "text": "Cash on delivery ar bkash duitai ase. ⏎ Dhaka r baire hole 100 taka advance lage. apu.", "label": "romanized_bangla"}
+{"message_id": 4978, "thread_id": 744, "turn": 8, "business_id": 7, "role": "customer", "is_bot": false, "text": "Ektu bolen, Ar lagbe na, cancel kore den.", "label": "romanized_bangla"}
+{"message_id": 4979, "thread_id": 744, "turn": 9, "business_id": 7, "role": "business", "is_bot": false, "text": "sorry vai janacchi.", "label": "romanized_bangla"}
+{"message_id": 4980, "thread_id": 744, "turn": 10, "business_id": 7, "role": "customer", "is_bot": false, "text": "Aro chobi den na", "label": "romanized_bangla"}
+{"message_id": 4981, "thread_id": 744, "turn": 11, "business_id": 7, "role": "business", "is_bot": true, "text": "Please see the original photos.", "label": "english"}
+{"message_id": 4982, "thread_id": 744, "turn": 12, "business_id": 7, "role": "customer", "is_bot": false, "text": "Do you take bkash?", "label": "english"}
+{"message_id": 4983, "thread_id": 744, "turn": 13, "business_id": 7, "role": "business", "is_bot": false, "text": "Ji, advance 100 tk needed", "label": "romanized_bangla"}
+{"message_id": 4984, "thread_id": 744, "turn": 14, "business_id": 7, "role": "customer", "is_bot": false, "text": "Hi, could you send more photos?", "label": "english"}
+{"message_id": 4985, "thread_id": 744, "turn": 15, "business_id": 7, "role": "business", "is_bot": true, "text": "Here are the real pictures of chicken biryani.", "label": "english"}
+{"message_id": 4986, "thread_id": 744, "turn": 16, "business_id": 7, "role": "business", "is_bot": true, "text": "We are sending a replacement at no extra cost.", "label": "english"}
+{"message_id": 4987, "thread_id": 744, "turn": 17, "business_id": 7, "role": "customer", "is_bot": false, "text": "Hi, what is the delivery charge for Gulshan 2?", "label": "english"}
+{"message_id": 4988, "thread_id": 744, "turn": 18, "business_id": 7, "role": "business", "is_bot": true, "text": "Sure, yes, we deliver to Gulshan 2. ⏎ Delivery charge is 70 Tk and it takes 2-3 days.", "label": "english"}
+{"message_id": 4989, "thread_id": 744, "turn": 19, "business_id": 7, "role": "customer", "is_bot": false, "text": "Hey, what time do you open?", "label": "english"}
+{"message_id": 4990, "thread_id": 744, "turn": 20, "business_id": 7, "role": "business", "is_bot": true, "text": "We are open every day from 11 AM to 10 PM. ⏎ Friday we open at 3 PM.", "label": "english"}
+{"message_id": 4991, "thread_id": 744, "turn": 21, "business_id": 7, "role": "customer", "is_bot": false, "text": "How much is the delivery fee, please?", "label": "english"}
+{"message_id": 4992, "thread_id": 744, "turn": 22, "business_id": 7, "role": "business", "is_bot": true, "text": "Okay, yes, we deliver to Gulshan 2. ⏎ Delivery charge is 70 Tk and it takes 2-3 days.", "label": "english"}
+{"message_id": 5015, "thread_id": 748, "turn": 1, "business_id": 21, "role": "customer", "is_bot": false, "text": "saree ki stock e ache?", "label": "romanized_bangla"}
+{"message_id": 5016, "thread_id": 748, "turn": 2, "business_id": 21, "role": "business", "is_bot": false, "text": "Ji, Dukkhito apu, dekhtesi.", "label": "romanized_bangla"}
+{"message_id": 5017, "thread_id": 748, "turn": 3, "business_id": 21, "role": "customer", "is_bot": false, "text": "Vai, Kokhon paowa jabe janaben please?", "label": "romanized_bangla"}
+{"message_id": 5018, "thread_id": 748, "turn": 4, "business_id": 21, "role": "business", "is_bot": false, "text": "Acha, ashbe shiggir", "label": "romanized_bangla"}
+{"message_id": 5019, "thread_id": 748, "turn": 5, "business_id": 21, "role": "customer", "is_bot": false, "text": "Vai, Badda e aj pawa jabe?", "label": "romanized_bangla"}
+{"message_id": 5020, "thread_id": 748, "turn": 6, "business_id": 21, "role": "business", "is_bot": false, "text": "Thik ache, hobe.", "label": "romanized_bangla"}
+{"message_id": 5021, "thread_id": 748, "turn": 7, "business_id": 21, "role": "customer", "is_bot": false, "text": "Apu, Thanks apu.", "label": "romanized_bangla"}
+{"message_id": 5139, "thread_id": 765, "turn": 1, "business_id": 9, "role": "customer", "is_bot": false, "text": "Any update on my order?", "label": "english"}
+{"message_id": 5140, "thread_id": 765, "turn": 2, "business_id": 9, "role": "business", "is_bot": true, "text": "আপনার অর্ডার রওনা হয়ে গেছে। ⏎ রাইডার শীঘ্রই যোগাযোগ করবে।", "label": "bangla"}
+{"message_id": 5141, "thread_id": 765, "turn": 3, "business_id": 9, "role": "customer", "is_bot": false, "text": "Achcha, thik ache.", "label": "romanized_bangla"}
+{"message_id": 5142, "thread_id": 765, "turn": 4, "business_id": 9, "role": "customer", "is_bot": false, "text": "Hi, It is taking too long, I have been waiting 1 hour.", "label": "english"}
+{"message_id": 5284, "thread_id": 789, "turn": 1, "business_id": 15, "role": "customer", "is_bot": false, "text": "Kobe courier e diben please?", "label": "romanized_bangla"}
+{"message_id": 5285, "thread_id": 789, "turn": 2, "business_id": 15, "role": "business", "is_bot": true, "text": "Apnar order rowna hoye geche. ⏎ Rider ekhoni contact korbe.", "label": "romanized_bangla"}
+{"message_id": 5286, "thread_id": 789, "turn": 3, "business_id": 15, "role": "customer", "is_bot": false, "text": "Ekta info chai, Tahole order ta cancel kore den.", "label": "romanized_bangla"}
+{"message_id": 5326, "thread_id": 794, "turn": 1, "business_id": 30, "role": "customer", "is_bot": false, "text": "Hello vai, ekta jinis jantam.", "label": "romanized_bangla"}
+{"message_id": 5327, "thread_id": 794, "turn": 2, "business_id": 30, "role": "business", "is_bot": false, "text": "ji bolen", "label": "romanized_bangla"}
+{"message_id": 5328, "thread_id": 794, "turn": 3, "business_id": 30, "role": "customer", "is_bot": false, "text": "vitamin c serum ta ki ekhon ase na?", "label": "romanized_bangla"}
+{"message_id": 5350, "thread_id": 798, "turn": 1, "business_id": 6, "role": "customer", "is_bot": false, "text": "Please confirm 1 night cream for me.", "label": "english"}
+{"message_id": 5351, "thread_id": 798, "turn": 2, "business_id": 6, "role": "business", "is_bot": true, "text": "Order confirm korte apnar nam, address ar contact number ta den please.", "label": "romanized_bangla"}
+{"message_id": 5352, "thread_id": 798, "turn": 3, "business_id": 6, "role": "customer", "is_bot": false, "text": "Name is given, area Banani. Deliver in the evening please. Please.", "label": "english"}
+{"message_id": 5353, "thread_id": 798, "turn": 4, "business_id": 6, "role": "customer", "is_bot": false, "text": "Vai, Peye payment dite chai.", "label": "romanized_bangla"}
+{"message_id": 5354, "thread_id": 798, "turn": 5, "business_id": 6, "role": "business", "is_bot": false, "text": "Ji, advance 200 taka lagbe", "label": "romanized_bangla"}
+{"message_id": 5355, "thread_id": 798, "turn": 6, "business_id": 6, "role": "customer", "is_bot": false, "text": "Ok apu.", "label": "romanized_bangla"}
+{"message_id": 5372, "thread_id": 802, "turn": 1, "business_id": 14, "role": "business", "is_bot": true, "text": "🔥 Special offer this week ⏎ cheese cake at only 590 Tk ⏎ Order now: <URL>", "label": "english"}
+{"message_id": 5373, "thread_id": 802, "turn": 2, "business_id": 14, "role": "customer", "is_bot": false, "text": "How much for the cheese cake, please?", "label": "english"}
+{"message_id": 5374, "thread_id": 802, "turn": 3, "business_id": 14, "role": "business", "is_bot": true, "text": "The price of cheese cake is 590 Tk per pound. ⏎ Delivery charge is separate.", "label": "english"}
+{"message_id": 5375, "thread_id": 802, "turn": 4, "business_id": 14, "role": "customer", "is_bot": false, "text": "Do you deliver to Banani?", "label": "english"}
+{"message_id": 5376, "thread_id": 802, "turn": 5, "business_id": 14, "role": "business", "is_bot": true, "text": "Inside Dhaka delivery charge 120 Tk, outside Dhaka 130 Tk. Please check.", "label": "english"}
+{"message_id": 5377, "thread_id": 802, "turn": 6, "business_id": 14, "role": "customer", "is_bot": false, "text": "অ্যাডভান্স দিতে হবে জানাবেন?", "label": "bangla"}
+{"message_id": 5378, "thread_id": 802, "turn": 7, "business_id": 14, "role": "business", "is_bot": true, "text": "ক্যাশ অন ডেলিভারি ও বিকাশ দুটোই আছে। ⏎ ঢাকার বাইরে 100 টাকা অ্যাডভান্স লাগে। ভাই।", "label": "bangla"}
+{"message_id": 5379, "thread_id": 802, "turn": 8, "business_id": 14, "role": "customer", "is_bot": false, "text": "ঠিক আছে, 4 টা চিজ কেক নিবো।", "label": "bangla"}
+{"message_id": 5380, "thread_id": 802, "turn": 9, "business_id": 14, "role": "business", "is_bot": true, "text": "আপনার 4 টা চিজ কেক এর অর্ডার কনফার্ম করা হলো। ⏎ মোট 2480 টাকা।", "label": "bangla"}
+{"message_id": 5543, "thread_id": 826, "turn": 1, "business_id": 8, "role": "customer", "is_bot": false, "text": "Apu, Amar order er kono update ase?", "label": "romanized_bangla"}
+{"message_id": 5544, "thread_id": 826, "turn": 2, "business_id": 8, "role": "business", "is_bot": true, "text": "Apnar order rowna hoye geche. ⏎ Rider ekhoni contact korbe.", "label": "romanized_bangla"}
+{"message_id": 5545, "thread_id": 826, "turn": 3, "business_id": 8, "role": "customer", "is_bot": false, "text": "Asol e, Ar lagbe na, cancel kore den.", "label": "romanized_bangla"}
+{"message_id": 5577, "thread_id": 832, "turn": 1, "business_id": 15, "role": "business", "is_bot": false, "text": "নতুন শাড়ি এসেছে", "label": "bangla"}
+{"message_id": 5578, "thread_id": 832, "turn": 2, "business_id": 15, "role": "customer", "is_bot": false, "text": "শাড়ি টা কি স্টকে আছে?", "label": "bangla"}
+{"message_id": 5579, "thread_id": 832, "turn": 3, "business_id": 15, "role": "business", "is_bot": true, "text": "জি আপু, এখন স্টকে আছে।", "label": "bangla"}
+{"message_id": 5592, "thread_id": 834, "turn": 1, "business_id": 18, "role": "customer", "is_bot": false, "text": "Apu, Je vitamin c serum pelam seta chobir moto na.", "label": "romanized_bangla"}
+{"message_id": 5593, "thread_id": 834, "turn": 2, "business_id": 18, "role": "business", "is_bot": true, "text": "We sincerely apologize for the inconvenience. ⏎ Let us check this immediately.", "label": "english"}
+{"message_id": 5594, "thread_id": 834, "turn": 3, "business_id": 18, "role": "customer", "is_bot": false, "text": "Just janiye rakhlam ar ki.", "label": "romanized_bangla"}
+{"message_id": 5599, "thread_id": 836, "turn": 1, "business_id": 27, "role": "customer", "is_bot": false, "text": "Apu, Eta ki black te ase?", "label": "romanized_bangla"}
+{"message_id": 5600, "thread_id": 836, "turn": 2, "business_id": 27, "role": "business", "is_bot": false, "text": "Ji, M L XL আছে", "label": "bangla"}
+{"message_id": 5601, "thread_id": 836, "turn": 3, "business_id": 27, "role": "customer", "is_bot": false, "text": "Apu, Eita clear den.", "label": "romanized_bangla"}
+{"message_id": 5602, "thread_id": 836, "turn": 4, "business_id": 27, "role": "business", "is_bot": false, "text": "জি, দেখেন ভাই।", "label": "bangla"}
+{"message_id": 5603, "thread_id": 836, "turn": 5, "business_id": 27, "role": "customer", "is_bot": false, "text": "Ektu shunen, Amake 4 ta confirm kore den.", "label": "romanized_bangla"}
+{"message_id": 5675, "thread_id": 846, "turn": 1, "business_id": 6, "role": "business", "is_bot": true, "text": "🔥 এই সপ্তাহের অফার ⏎ লিপ বাম মাত্র 500 টাকা ⏎ অর্ডার করতে: <URL>", "label": "bangla"}
+{"message_id": 5676, "thread_id": 846, "turn": 2, "business_id": 6, "role": "customer", "is_bot": false, "text": "ফাইনাল প্রাইস কত?", "label": "bangla"}
+{"message_id": 5677, "thread_id": 846, "turn": 3, "business_id": 6, "role": "business", "is_bot": true, "text": "lip balm er dam 500 taka per piece. ⏎ Delivery charge alada.", "label": "romanized_bangla"}
+{"message_id": 5678, "thread_id": 846, "turn": 4, "business_id": 6, "role": "customer", "is_bot": false, "text": "Vai, Rampura te kobe pabo?", "label": "romanized_bangla"}
+{"message_id": 5679, "thread_id": 846, "turn": 5, "business_id": 6, "role": "business", "is_bot": false, "text": "জি, জি ভাই, হবে।", "label": "bangla"}
+{"message_id": 5680, "thread_id": 846, "turn": 6, "business_id": 6, "role": "customer", "is_bot": false, "text": "আপা, আসল ছবিটা একটু পাঠান।", "label": "bangla"}
+{"message_id": 5681, "thread_id": 846, "turn": 7, "business_id": 6, "role": "business", "is_bot": true, "text": "Clear pic gulo inbox e ache.", "label": "romanized_bangla"}
+{"message_id": 5682, "thread_id": 846, "turn": 8, "business_id": 6, "role": "customer", "is_bot": false, "text": "শুক্রবার কি খোলা বলুন তো?", "label": "bangla"}
+{"message_id": 5683, "thread_id": 846, "turn": 9, "business_id": 6, "role": "business", "is_bot": false, "text": "একটু সকাল থেকে", "label": "bangla"}
+{"message_id": 5684, "thread_id": 846, "turn": 10, "business_id": 6, "role": "customer", "is_bot": false, "text": "ঠিক আছে, 2 টা লিপ বাম নিবো।", "label": "bangla"}
+{"message_id": 5685, "thread_id": 846, "turn": 11, "business_id": 6, "role": "business", "is_bot": true, "text": "আপনার 2 টা লিপ বাম এর অর্ডার কনফার্ম করা হলো। ⏎ মোট 1060 টাকা।", "label": "bangla"}
+{"message_id": 5728, "thread_id": 856, "turn": 1, "business_id": 7, "role": "customer", "is_bot": false, "text": "Apu ektu help lagbe.", "label": "romanized_bangla"}
+{"message_id": 5729, "thread_id": 856, "turn": 2, "business_id": 7, "role": "business", "is_bot": true, "text": "Hello! Amader shop e swagotom. Bolen ki lagbe.", "label": "romanized_bangla"}
+{"message_id": 5730, "thread_id": 856, "turn": 3, "business_id": 7, "role": "customer", "is_bot": false, "text": "Apnader shop ta kon dike please?", "label": "romanized_bangla"}
+{"message_id": 5731, "thread_id": 856, "turn": 4, "business_id": 7, "role": "business", "is_bot": false, "text": "Acha, Gulshan 2 branch", "label": "romanized_bangla"}
+{"message_id": 5732, "thread_id": 856, "turn": 5, "business_id": 7, "role": "customer", "is_bot": false, "text": "Vai, Koyta theke khola thake?", "label": "romanized_bangla"}
+{"message_id": 5747, "thread_id": 860, "turn": 1, "business_id": 28, "role": "customer", "is_bot": false, "text": "Vai, Assalamualaikum, keu ki achen na?", "label": "romanized_bangla"}
+{"message_id": 5748, "thread_id": 860, "turn": 2, "business_id": 28, "role": "business", "is_bot": false, "text": "ji bolen", "label": "romanized_bangla"}
+{"message_id": 5749, "thread_id": 860, "turn": 3, "business_id": 28, "role": "customer", "is_bot": false, "text": "Pickup kora jabe kothay janaben?", "label": "romanized_bangla"}
+{"message_id": 5750, "thread_id": 860, "turn": 4, "business_id": 28, "role": "business", "is_bot": false, "text": "Ji, amader shop Uttara vai.", "label": "romanized_bangla"}
+{"message_id": 5751, "thread_id": 860, "turn": 5, "business_id": 28, "role": "customer", "is_bot": false, "text": "Bkash e advance dibo?", "label": "romanized_bangla"}
+{"message_id": 5752, "thread_id": 860, "turn": 6, "business_id": 28, "role": "business", "is_bot": false, "text": "bkash e den", "label": "romanized_bangla"}
+{"message_id": 5753, "thread_id": 860, "turn": 7, "business_id": 28, "role": "customer", "is_bot": false, "text": "Fine, onek thanks.", "label": "english"}
+{"message_id": 5754, "thread_id": 860, "turn": 8, "business_id": 28, "role": "customer", "is_bot": false, "text": "Vai, Clear chobi den.", "label": "romanized_bangla"}
+{"message_id": 5755, "thread_id": 860, "turn": 9, "business_id": 28, "role": "business", "is_bot": false, "text": "dekhen", "label": "romanized_bangla"}
+{"message_id": 5756, "thread_id": 860, "turn": 10, "business_id": 28, "role": "customer", "is_bot": false, "text": "Apu, Koyta theke khola thake?", "label": "romanized_bangla"}
+{"message_id": 5757, "thread_id": 860, "turn": 11, "business_id": 28, "role": "business", "is_bot": false, "text": "আজ খোলা আছে। ভাই।", "label": "bangla"}
+{"message_id": 5758, "thread_id": 860, "turn": 12, "business_id": 28, "role": "customer", "is_bot": false, "text": "আপু, ঢাকার ভিতরে চার্জ কত?", "label": "bangla"}
+{"message_id": 5759, "thread_id": 860, "turn": 13, "business_id": 28, "role": "business", "is_bot": false, "text": "জি হবে আপু। আপু।", "label": "bangla"}
+{"message_id": 5760, "thread_id": 860, "turn": 14, "business_id": 28, "role": "customer", "is_bot": false, "text": "আপু, আচ্ছা ধন্যবাদ।", "label": "bangla"}
+{"message_id": 5766, "thread_id": 862, "turn": 1, "business_id": 9, "role": "customer", "is_bot": false, "text": "Gotokal order diyechi, koi janaben?", "label": "romanized_bangla"}
+{"message_id": 5767, "thread_id": 862, "turn": 2, "business_id": 9, "role": "business", "is_bot": true, "text": "Pathiye deya hoyeche, 2 hours er moddhe peye jaben. apu.", "label": "romanized_bangla"}
+{"message_id": 5768, "thread_id": 862, "turn": 3, "business_id": 9, "role": "customer", "is_bot": false, "text": "Asol e, Tahole order ta cancel kore den.", "label": "romanized_bangla"}
+{"message_id": 5769, "thread_id": 862, "turn": 4, "business_id": 9, "role": "business", "is_bot": true, "text": "Osubidhar jonno amra antorik dukkhito. ⏎ Ekhoni check kore dekhchi.", "label": "romanized_bangla"}
+{"message_id": 5770, "thread_id": 862, "turn": 5, "business_id": 9, "role": "business", "is_bot": true, "text": "Extra charge chara notun ta pathiye dicchi.", "label": "romanized_bangla"}
+{"message_id": 5771, "thread_id": 862, "turn": 6, "business_id": 9, "role": "customer", "is_bot": false, "text": "Alright, dhonnobad.", "label": "romanized_bangla"}
+{"message_id": 5772, "thread_id": 862, "turn": 7, "business_id": 9, "role": "customer", "is_bot": false, "text": "Aro chobi den na", "label": "romanized_bangla"}
+{"message_id": 5773, "thread_id": 862, "turn": 8, "business_id": 9, "role": "business", "is_bot": false, "text": "ei je", "label": "romanized_bangla"}
+{"message_id": 5774, "thread_id": 862, "turn": 9, "business_id": 9, "role": "customer", "is_bot": false, "text": "Apu, Rampura te kobe pabo?", "label": "romanized_bangla"}
+{"message_id": 5910, "thread_id": 882, "turn": 1, "business_id": 26, "role": "business", "is_bot": false, "text": "Ji, Ji, notun vanilla cake ashse apu", "label": "romanized_bangla"}
+{"message_id": 5911, "thread_id": 882, "turn": 2, "business_id": 26, "role": "customer", "is_bot": false, "text": "Vai, Wholesale rate ache?", "label": "romanized_bangla"}
+{"message_id": 5912, "thread_id": 882, "turn": 3, "business_id": 26, "role": "business", "is_bot": false, "text": "780 টাকা করে", "label": "bangla"}
+{"message_id": 5935, "thread_id": 888, "turn": 1, "business_id": 29, "role": "customer", "is_bot": false, "text": "Hello, the quality was not as expected this time.", "label": "english"}
+{"message_id": 5936, "thread_id": 888, "turn": 2, "business_id": 29, "role": "business", "is_bot": false, "text": "Okay, we will look into the refund.", "label": "english"}
+{"message_id": 5937, "thread_id": 888, "turn": 3, "business_id": 29, "role": "customer", "is_bot": false, "text": "Hi, is partial payment possible?", "label": "english"}
+{"message_id": 5938, "thread_id": 888, "turn": 4, "business_id": 29, "role": "business", "is_bot": false, "text": "Yes, you can pay by bkash", "label": "english"}
+{"message_id": 5939, "thread_id": 888, "turn": 5, "business_id": 29, "role": "customer", "is_bot": false, "text": "No problem, update diben.", "label": "romanized_bangla"}
+{"message_id": 5940, "thread_id": 888, "turn": 6, "business_id": 29, "role": "customer", "is_bot": false, "text": "Hi there, are you open on Friday?", "label": "english"}
+{"message_id": 5941, "thread_id": 888, "turn": 7, "business_id": 29, "role": "business", "is_bot": false, "text": "we open at 11", "label": "english"}
+{"message_id": 5942, "thread_id": 888, "turn": 8, "business_id": 29, "role": "customer", "is_bot": false, "text": "Hi, please share the real picture.", "label": "english"}
+{"message_id": 5943, "thread_id": 888, "turn": 9, "business_id": 29, "role": "business", "is_bot": false, "text": "Okay, please have a look", "label": "english"}
+{"message_id": 5944, "thread_id": 888, "turn": 10, "business_id": 29, "role": "customer", "is_bot": false, "text": "Hi, hi, do you deliver to Savar?", "label": "english"}
+{"message_id": 5945, "thread_id": 888, "turn": 11, "business_id": 29, "role": "business", "is_bot": false, "text": "70 tk delivery", "label": "romanized_bangla"}
+{"message_id": 5946, "thread_id": 888, "turn": 12, "business_id": 29, "role": "customer", "is_bot": false, "text": "Where is your shop located?", "label": "english"}
+{"message_id": 5947, "thread_id": 888, "turn": 13, "business_id": 29, "role": "business", "is_bot": false, "text": "Ji, come to our Savar branch", "label": "romanized_bangla"}
+{"message_id": 5948, "thread_id": 888, "turn": 14, "business_id": 29, "role": "customer", "is_bot": false, "text": "Hi there, i am attaching what I received.", "label": "english"}
+{"message_id": 5949, "thread_id": 888, "turn": 15, "business_id": 29, "role": "business", "is_bot": false, "text": "Real pic dilam. vai.", "label": "romanized_bangla"}
+{"message_id": 5964, "thread_id": 892, "turn": 1, "business_id": 26, "role": "business", "is_bot": false, "text": "ভাই, অফার চলছে এখন", "label": "bangla"}
+{"message_id": 5965, "thread_id": 892, "turn": 2, "business_id": 26, "role": "customer", "is_bot": false, "text": "ভাই, এটার দাম কত?", "label": "bangla"}
+{"message_id": 5966, "thread_id": 892, "turn": 3, "business_id": 26, "role": "business", "is_bot": false, "text": "২০৯০ টাকা", "label": "bangla"}
+{"message_id": 5967, "thread_id": 892, "turn": 4, "business_id": 26, "role": "customer", "is_bot": false, "text": "আপু, কোন ব্রাঞ্চে আসতে হবে?", "label": "bangla"}
+{"message_id": 5968, "thread_id": 892, "turn": 5, "business_id": 26, "role": "business", "is_bot": false, "text": "ম্যাপ লোকেশন দেখুন। ভাই।", "label": "bangla"}
+{"message_id": 5969, "thread_id": 892, "turn": 6, "business_id": 26, "role": "customer", "is_bot": false, "text": "আপু, রাইডার কবে বের হবে?", "label": "bangla"}
+{"message_id": 5970, "thread_id": 892, "turn": 7, "business_id": 26, "role": "business", "is_bot": false, "text": "জি হবে ভাই। ভাই।", "label": "bangla"}
+{"message_id": 5971, "thread_id": 892, "turn": 8, "business_id": 26, "role": "customer", "is_bot": false, "text": "হ্যালো, আমাকে 4 টা কনফার্ম করে দেন।", "label": "bangla"}
+{"message_id": 5972, "thread_id": 892, "turn": 9, "business_id": 26, "role": "business", "is_bot": false, "text": "হয়ে গেছে ভাই।", "label": "bangla"}
+{"message_id": 5973, "thread_id": 892, "turn": 10, "business_id": 26, "role": "customer", "is_bot": false, "text": "শুক্রবার কি খোলা কী বলেন?", "label": "bangla"}
+{"message_id": 5974, "thread_id": 892, "turn": 11, "business_id": 26, "role": "business", "is_bot": false, "text": "জি, সকাল ১০টা থেকে।", "label": "bangla"}
+{"message_id": 5995, "thread_id": 895, "turn": 1, "business_id": 23, "role": "customer", "is_bot": false, "text": "Apu, smart watch ta koto kore?", "label": "romanized_bangla"}
+{"message_id": 5996, "thread_id": 895, "turn": 2, "business_id": 23, "role": "business", "is_bot": true, "text": "smart watch er dam 4600 taka per piece. ⏎ Delivery charge alada.", "label": "romanized_bangla"}
+{"message_id": 5997, "thread_id": 895, "turn": 3, "business_id": 23, "role": "customer", "is_bot": false, "text": "বনানী এ ডেলিভারি হবে জানাবেন?", "label": "bangla"}
+{"message_id": 5998, "thread_id": 895, "turn": 4, "business_id": 23, "role": "business", "is_bot": true, "text": "জি বনানী এ ডেলিভারি হয়। ⏎ চার্জ 120 টাকা, সময় লাগে 24 ঘণ্টা।", "label": "bangla"}
+{"message_id": 5999, "thread_id": 895, "turn": 5, "business_id": 23, "role": "customer", "is_bot": false, "text": "আপু, আমাকে ৩ টা কনফার্ম করে দেন।", "label": "bangla"}
+{"message_id": 6108, "thread_id": 910, "turn": 1, "business_id": 28, "role": "business", "is_bot": false, "text": "Ji, new wedding card just arrived, take a look", "label": "romanized_bangla"}
+{"message_id": 6109, "thread_id": 910, "turn": 2, "business_id": 28, "role": "customer", "is_bot": false, "text": "Could you tell me the wedding card price?", "label": "english"}
+{"message_id": 6110, "thread_id": 910, "turn": 3, "business_id": 28, "role": "business", "is_bot": false, "text": "1010 tk", "label": "english"}
+{"message_id": 6111, "thread_id": 910, "turn": 4, "business_id": 28, "role": "customer", "is_bot": false, "text": "How long does delivery take?", "label": "english"}
+{"message_id": 6227, "thread_id": 930, "turn": 1, "business_id": 24, "role": "business", "is_bot": false, "text": "Inbox e offer janacchi. ektu dekhen.", "label": "romanized_bangla"}
+{"message_id": 6228, "thread_id": 930, "turn": 2, "business_id": 24, "role": "customer", "is_bot": false, "text": "Bhai, Thik ache, wait kortesi.", "label": "romanized_bangla"}
+{"message_id": 6229, "thread_id": 930, "turn": 3, "business_id": 24, "role": "customer", "is_bot": false, "text": "Vai, Oi tar rate koto?", "label": "romanized_bangla"}
+{"message_id": 6230, "thread_id": 930, "turn": 4, "business_id": 24, "role": "business", "is_bot": false, "text": "dam 2000", "label": "romanized_bangla"}
+{"message_id": 6234, "thread_id": 932, "turn": 1, "business_id": 14, "role": "business", "is_bot": true, "text": "🔥 Ei week er offer ⏎ red velvet cake matro 2330 taka ⏎ Order korte: <URL>", "label": "romanized_bangla"}
+{"message_id": 6235, "thread_id": 932, "turn": 2, "business_id": 14, "role": "customer", "is_bot": false, "text": "Eitar dam janan. ektu bolen.", "label": "romanized_bangla"}
+{"message_id": 6236, "thread_id": 932, "turn": 3, "business_id": 14, "role": "business", "is_bot": true, "text": "red velvet cake — 2330 taka. ⏎ Confirm korte chaile bolben.", "label": "romanized_bangla"}
+{"message_id": 6249, "thread_id": 936, "turn": 1, "business_id": 27, "role": "business", "is_bot": false, "text": "একটু নতুন পাঞ্জাবি এসেছে", "label": "bangla"}
+{"message_id": 6250, "thread_id": 936, "turn": 2, "business_id": 27, "role": "customer", "is_bot": false, "text": "আপু, আমার সাইজের দাম কত?", "label": "bangla"}
+{"message_id": 6251, "thread_id": 936, "turn": 3, "business_id": 27, "role": "business", "is_bot": false, "text": "২৮২০ টাকা করে", "label": "bangla"}
+{"message_id": 6252, "thread_id": 936, "turn": 4, "business_id": 27, "role": "customer", "is_bot": false, "text": "বিকাশে পেমেন্ট করা যাবে বলবেন?", "label": "bangla"}
+{"message_id": 6253, "thread_id": 936, "turn": 5, "business_id": 27, "role": "business", "is_bot": false, "text": "বিকাশে দিয়েন", "label": "bangla"}
+{"message_id": 6254, "thread_id": 936, "turn": 6, "business_id": 27, "role": "customer", "is_bot": false, "text": "আগামীকাল পাওয়া যাবে জানাবেন?", "label": "bangla"}
+{"message_id": 6255, "thread_id": 936, "turn": 7, "business_id": 27, "role": "business", "is_bot": false, "text": "জি ভাই, হবে। আপু।", "label": "bangla"}
+{"message_id": 6256, "thread_id": 936, "turn": 8, "business_id": 27, "role": "customer", "is_bot": false, "text": "আমাকে ৫ টা কনফার্ম করে দেন।", "label": "bangla"}
+{"message_id": 6257, "thread_id": 936, "turn": 9, "business_id": 27, "role": "business", "is_bot": false, "text": "আচ্ছা, কনফার্ম করা হলো", "label": "bangla"}
+{"message_id": 6258, "thread_id": 936, "turn": 10, "business_id": 27, "role": "customer", "is_bot": false, "text": "ঠিক আছে, ধন্যবাদ আপু।", "label": "bangla"}
+{"message_id": 6339, "thread_id": 945, "turn": 1, "business_id": 9, "role": "customer", "is_bot": false, "text": "Asol e, Ei bar quality ta valo cilo na.", "label": "romanized_bangla"}
+{"message_id": 6340, "thread_id": 945, "turn": 2, "business_id": 9, "role": "business", "is_bot": true, "text": "Osubidhar jonno amra antorik dukkhito. ⏎ Ekhoni check kore dekhchi.", "label": "romanized_bangla"}
+{"message_id": 6341, "thread_id": 945, "turn": 3, "business_id": 9, "role": "customer", "is_bot": false, "text": "Just janiye rakhlam ar ki.", "label": "romanized_bangla"}
+{"message_id": 6357, "thread_id": 949, "turn": 1, "business_id": 13, "role": "customer", "is_bot": false, "text": "Hello vai, ekta jinis jantam.", "label": "romanized_bangla"}
+{"message_id": 6358, "thread_id": 949, "turn": 2, "business_id": 13, "role": "business", "is_bot": true, "text": "Assalamualaikum! <NAME> e apnake swagotom. ⏎ Ki vabe help korte pari?", "label": "romanized_bangla"}
+{"message_id": 6359, "thread_id": 949, "turn": 3, "business_id": 13, "role": "customer", "is_bot": false, "text": "ভাই প্ল্যাটার পাওয়া যাবে?", "label": "bangla"}
+{"message_id": 6475, "thread_id": 965, "turn": 1, "business_id": 4, "role": "customer", "is_bot": false, "text": "Hi, hi, are you available now?", "label": "english"}
+{"message_id": 6476, "thread_id": 965, "turn": 2, "business_id": 4, "role": "business", "is_bot": true, "text": "Hello! Welcome to <NAME>. ⏎ How can we help you today?", "label": "english"}
+{"message_id": 6477, "thread_id": 965, "turn": 3, "business_id": 4, "role": "customer", "is_bot": false, "text": "Can I see the front view, please?", "label": "english"}
+{"message_id": 6478, "thread_id": 965, "turn": 4, "business_id": 4, "role": "business", "is_bot": true, "text": "Okay, here are the real pictures of visiting card.", "label": "english"}
+{"message_id": 6479, "thread_id": 965, "turn": 5, "business_id": 4, "role": "customer", "is_bot": false, "text": "Do you deliver to Mirpur 10?", "label": "english"}
+{"message_id": 6480, "thread_id": 965, "turn": 6, "business_id": 4, "role": "business", "is_bot": true, "text": "Inside Dhaka delivery charge 60 Tk, outside Dhaka 150 Tk.", "label": "english"}
+{"message_id": 6481, "thread_id": 965, "turn": 7, "business_id": 4, "role": "customer", "is_bot": false, "text": "Hi, can I pay after receiving it?", "label": "english"}
+{"message_id": 6482, "thread_id": 965, "turn": 8, "business_id": 4, "role": "business", "is_bot": false, "text": "advance 500 tk needed apu.", "label": "romanized_bangla"}
+{"message_id": 6483, "thread_id": 965, "turn": 9, "business_id": 4, "role": "customer", "is_bot": false, "text": "No problem, many thanks.", "label": "romanized_bangla"}
+{"message_id": 6487, "thread_id": 967, "turn": 1, "business_id": 26, "role": "business", "is_bot": false, "text": "Ektu offer cholteche, nite paren apu.", "label": "romanized_bangla"}
+{"message_id": 6488, "thread_id": 967, "turn": 2, "business_id": 26, "role": "customer", "is_bot": false, "text": "চকলেট কেক কত করে?", "label": "bangla"}
+{"message_id": 6489, "thread_id": 967, "turn": 3, "business_id": 26, "role": "business", "is_bot": false, "text": "dam 900", "label": "romanized_bangla"}
+{"message_id": 6587, "thread_id": 984, "turn": 1, "business_id": 22, "role": "customer", "is_bot": false, "text": "আসসালামু আলাইকুম, কেউ আছেন জানাবেন?", "label": "bangla"}
+{"message_id": 6588, "thread_id": 984, "turn": 2, "business_id": 22, "role": "business", "is_bot": false, "text": "জি বলেন ভাই। ভাই।", "label": "bangla"}
+{"message_id": 6589, "thread_id": 984, "turn": 3, "business_id": 22, "role": "customer", "is_bot": false, "text": "ভাই, আপনাদের কাস্টম মগ কি এখন আছে?", "label": "bangla"}
+{"message_id": 6790, "thread_id": 1013, "turn": 1, "business_id": 13, "role": "customer", "is_bot": false, "text": "Bhai, I will take 3.", "label": "romanized_bangla"}
+{"message_id": 6791, "thread_id": 1013, "turn": 2, "business_id": 13, "role": "business", "is_bot": true, "text": "Please share your name, full address and contact number to confirm the order. Please check.", "label": "english"}
+{"message_id": 6792, "thread_id": 1013, "turn": 3, "business_id": 13, "role": "customer", "is_bot": false, "text": "Hello, Fine, I will wait.", "label": "english"}
+{"message_id": 6793, "thread_id": 1013, "turn": 4, "business_id": 13, "role": "customer", "is_bot": false, "text": "Name is given, area Mohammadpur. Deliver in the evening please. Please.", "label": "english"}
+{"message_id": 6803, "thread_id": 1015, "turn": 1, "business_id": 10, "role": "customer", "is_bot": false, "text": "Vai online achen?", "label": "romanized_bangla"}
+{"message_id": 6804, "thread_id": 1015, "turn": 2, "business_id": 10, "role": "business", "is_bot": false, "text": "ji vai", "label": "romanized_bangla"}
+{"message_id": 6805, "thread_id": 1015, "turn": 3, "business_id": 10, "role": "customer", "is_bot": false, "text": "Apu, Rampura te pathaben?", "label": "romanized_bangla"}
+{"message_id": 6806, "thread_id": 1015, "turn": 4, "business_id": 10, "role": "business", "is_bot": true, "text": "Ji, Dhaka r moddhe 100 taka, baire 130 taka.", "label": "romanized_bangla"}
+{"message_id": 6807, "thread_id": 1015, "turn": 5, "business_id": 10, "role": "customer", "is_bot": false, "text": "Vai, Address ta please diben na?", "label": "romanized_bangla"}
+{"message_id": 6808, "thread_id": 1015, "turn": 6, "business_id": 10, "role": "business", "is_bot": false, "text": "Ji, amader shop Savar", "label": "romanized_bangla"}
+{"message_id": 6809, "thread_id": 1015, "turn": 7, "business_id": 10, "role": "customer", "is_bot": false, "text": "Vai, Advance ta mandatory?", "label": "romanized_bangla"}
+{"message_id": 6810, "thread_id": 1015, "turn": 8, "business_id": 10, "role": "business", "is_bot": false, "text": "Advance chara confirm hoy na.", "label": "romanized_bangla"}
+{"message_id": 6811, "thread_id": 1015, "turn": 9, "business_id": 10, "role": "customer", "is_bot": false, "text": "Vai, Color ta dekhan.", "label": "romanized_bangla"}
+{"message_id": 6812, "thread_id": 1015, "turn": 10, "business_id": 10, "role": "business", "is_bot": false, "text": "ei je", "label": "romanized_bangla"}
+{"message_id": 6813, "thread_id": 1015, "turn": 11, "business_id": 10, "role": "customer", "is_bot": false, "text": "Just, Shukrobar ki khola?", "label": "romanized_bangla"}
+{"message_id": 6814, "thread_id": 1015, "turn": 12, "business_id": 10, "role": "business", "is_bot": true, "text": "Protidin sokal 11 ta theke rat 10 ta porjonto khola. ⏎ Shukrobar 3 tar por.", "label": "romanized_bangla"}
+{"message_id": 6815, "thread_id": 1015, "turn": 13, "business_id": 10, "role": "customer", "is_bot": false, "text": "Ektu bolen, Thik ache, wait kortesi.", "label": "romanized_bangla"}
+{"message_id": 6872, "thread_id": 1023, "turn": 1, "business_id": 25, "role": "customer", "is_bot": false, "text": "Can you tell me the beef tehari price?", "label": "english"}
+{"message_id": 6873, "thread_id": 1023, "turn": 2, "business_id": 25, "role": "business", "is_bot": false, "text": "800 tk", "label": "english"}
+{"message_id": 6874, "thread_id": 1023, "turn": 3, "business_id": 25, "role": "customer", "is_bot": false, "text": "Hi, do you deliver to Badda, please?", "label": "english"}
+{"message_id": 7001, "thread_id": 1039, "turn": 1, "business_id": 29, "role": "business", "is_bot": false, "text": "অফার চলছে এখন", "label": "bangla"}
+{"message_id": 7002, "thread_id": 1039, "turn": 2, "business_id": 29, "role": "customer", "is_bot": false, "text": "Apu, Shop er timing ta bolben?", "label": "romanized_bangla"}
+{"message_id": 7003, "thread_id": 1039, "turn": 3, "business_id": 29, "role": "business", "is_bot": false, "text": "একটু ১১টা থেকে খোলা", "label": "bangla"}
+{"message_id": 7004, "thread_id": 1039, "turn": 4, "business_id": 29, "role": "customer", "is_bot": false, "text": "No problem, onek dhonnobad.", "label": "romanized_bangla"}
+{"message_id": 7005, "thread_id": 1039, "turn": 5, "business_id": 29, "role": "customer", "is_bot": false, "text": "Ei item ta koto ektu bolben?", "label": "romanized_bangla"}
+{"message_id": 7006, "thread_id": 1039, "turn": 6, "business_id": 29, "role": "business", "is_bot": false, "text": "4090 টাকা করে", "label": "bangla"}
+{"message_id": 7007, "thread_id": 1039, "turn": 7, "business_id": 29, "role": "customer", "is_bot": false, "text": "Apu, Rampura te pathate koto?", "label": "romanized_bangla"}
+{"message_id": 7008, "thread_id": 1039, "turn": 8, "business_id": 29, "role": "business", "is_bot": false, "text": "ডেলিভারি চার্জ ৭০ টাকা", "label": "bangla"}
+{"message_id": 7009, "thread_id": 1039, "turn": 9, "business_id": 29, "role": "customer", "is_bot": false, "text": "1 ta nibo ami.", "label": "romanized_bangla"}
+{"message_id": 7010, "thread_id": 1039, "turn": 10, "business_id": 29, "role": "business", "is_bot": false, "text": "একটু হয়ে গেছে", "label": "bangla"}
+{"message_id": 7011, "thread_id": 1039, "turn": 11, "business_id": 29, "role": "customer", "is_bot": false, "text": "Vai, Address ta ektu pathaben na?", "label": "romanized_bangla"}
+{"message_id": 7012, "thread_id": 1039, "turn": 12, "business_id": 29, "role": "business", "is_bot": false, "text": "আমাদের দোকান মোহাম্মদপুর আপু।", "label": "bangla"}
+{"message_id": 7202, "thread_id": 1063, "turn": 1, "business_id": 6, "role": "customer", "is_bot": false, "text": "আপু, সানস্ক্রিন টা কি স্টকে আছে?", "label": "bangla"}
+{"message_id": 7203, "thread_id": 1063, "turn": 2, "business_id": 6, "role": "business", "is_bot": true, "text": "দুঃখিত, সানস্ক্রিন এখন স্টকে নেই। ⏎ শীঘ্রই আবার আসবে। আপু।", "label": "bangla"}
+{"message_id": 7204, "thread_id": 1063, "turn": 3, "business_id": 6, "role": "customer", "is_bot": false, "text": "বিকাশে পেমেন্ট করা যাবে জানাবেন?", "label": "bangla"}
+{"message_id": 7205, "thread_id": 1063, "turn": 4, "business_id": 6, "role": "business", "is_bot": true, "text": "জি, ক্যাশ অন ডেলিভারি ও বিকাশ দুটোই আছে। ⏎ ঢাকার বাইরে 300 টাকা অ্যাডভান্স লাগে।", "label": "bangla"}
+{"message_id": 7206, "thread_id": 1063, "turn": 5, "business_id": 6, "role": "customer", "is_bot": false, "text": "উত্তরায় কতক্ষণ লাগবে জানাবেন?", "label": "bangla"}
+{"message_id": 7207, "thread_id": 1063, "turn": 6, "business_id": 6, "role": "business", "is_bot": true, "text": "জি বনানী এ ডেলিভারি হয়। ⏎ চার্জ ৬০ টাকা, সময় লাগে ৩০-৪০ মিনিট।", "label": "bangla"}
+{"message_id": 7208, "thread_id": 1063, "turn": 7, "business_id": 6, "role": "customer", "is_bot": false, "text": "ভাই, কবে আবার পাব?", "label": "bangla"}
+{"message_id": 7209, "thread_id": 1063, "turn": 8, "business_id": 6, "role": "business", "is_bot": true, "text": "3 দিনের মধ্যে নতুন স্টক আসবে। ⏎ আসলে জানিয়ে দেবো। ভাই।", "label": "bangla"}
+{"message_id": 7210, "thread_id": 1063, "turn": 9, "business_id": 6, "role": "customer", "is_bot": false, "text": "ধন্যবাদ। একটু জানাবেন।", "label": "bangla"}
+{"message_id": 7211, "thread_id": 1063, "turn": 10, "business_id": 6, "role": "business", "is_bot": false, "text": "একটু আবার আসবেন", "label": "bangla"}
+{"message_id": 7254, "thread_id": 1069, "turn": 1, "business_id": 18, "role": "customer", "is_bot": false, "text": "2 ta nibo ami.", "label": "romanized_bangla"}
+{"message_id": 7255, "thread_id": 1069, "turn": 2, "business_id": 18, "role": "business", "is_bot": false, "text": "details den", "label": "romanized_bangla"}
+{"message_id": 7256, "thread_id": 1069, "turn": 3, "business_id": 18, "role": "customer", "is_bot": false, "text": "Amar area Gulshan 2. Bikale dile subidha hoy. ektu bolen.", "label": "romanized_bangla"}
+{"message_id": 7257, "thread_id": 1069, "turn": 4, "business_id": 18, "role": "customer", "is_bot": false, "text": "Bkash number ta den. ektu bolen.", "label": "romanized_bangla"}
+{"message_id": 7258, "thread_id": 1069, "turn": 5, "business_id": 18, "role": "business", "is_bot": true, "text": "Delivery te payment korte parben. Custom order e 200 taka advance.", "label": "romanized_bangla"}
+{"message_id": 7259, "thread_id": 1069, "turn": 6, "business_id": 18, "role": "customer", "is_bot": false, "text": "No problem, dhonnobad vai.", "label": "romanized_bangla"}
+{"message_id": 7260, "thread_id": 1069, "turn": 7, "business_id": 18, "role": "customer", "is_bot": false, "text": "Thik ache, wait kortesi.", "label": "romanized_bangla"}
+{"message_id": 7261, "thread_id": 1069, "turn": 8, "business_id": 18, "role": "business", "is_bot": true, "text": "Apnar 2 ta lip balm er order confirm kora holo. ⏎ Total 4260 taka delivery soho. ⏎ 30-40 minutes er moddhe peye jaben.", "label": "romanized_bangla"}
+{"message_id": 7262, "thread_id": 1069, "turn": 9, "business_id": 18, "role": "customer", "is_bot": false, "text": "Shukrobar ki khola?", "label": "romanized_bangla"}
+{"message_id": 7263, "thread_id": 1069, "turn": 10, "business_id": 18, "role": "business", "is_bot": false, "text": "Ektu 11 ta theke khola", "label": "romanized_bangla"}
+{"message_id": 7264, "thread_id": 1069, "turn": 11, "business_id": 18, "role": "customer", "is_bot": false, "text": "Kon branch e aste hobe na please?", "label": "romanized_bangla"}
+{"message_id": 7265, "thread_id": 1069, "turn": 12, "business_id": 18, "role": "business", "is_bot": false, "text": "Vai, Gulshan 2 branch", "label": "romanized_bangla"}
+{"message_id": 7310, "thread_id": 1078, "turn": 1, "business_id": 8, "role": "customer", "is_bot": false, "text": "Apu, Assalamualaikum, keu ki achen janaben?", "label": "romanized_bangla"}
+{"message_id": 7311, "thread_id": 1078, "turn": 2, "business_id": 8, "role": "business", "is_bot": true, "text": "Please, thank you for reaching out. ⏎ How may we assist you?", "label": "english"}
+{"message_id": 7312, "thread_id": 1078, "turn": 3, "business_id": 8, "role": "customer", "is_bot": false, "text": "No problem, dhonnobad apu.", "label": "romanized_bangla"}
+{"message_id": 7313, "thread_id": 1078, "turn": 4, "business_id": 8, "role": "customer", "is_bot": false, "text": "Hello, Address ta ektu diben?", "label": "romanized_bangla"}
+{"message_id": 7314, "thread_id": 1078, "turn": 5, "business_id": 8, "role": "business", "is_bot": true, "text": "Okay, you can visit our Mirpur 10 branch any day.", "label": "english"}
+{"message_id": 7315, "thread_id": 1078, "turn": 6, "business_id": 8, "role": "customer", "is_bot": false, "text": "Sondhar por khola ektu bolben?", "label": "romanized_bangla"}
+{"message_id": 7316, "thread_id": 1078, "turn": 7, "business_id": 8, "role": "business", "is_bot": true, "text": "We are open every day from 11 AM to 10 PM. ⏎ Friday we open at 3 PM.", "label": "english"}
+{"message_id": 7433, "thread_id": 1100, "turn": 1, "business_id": 19, "role": "customer", "is_bot": false, "text": "Apu, Gotokal order dilam, ekhon koi?", "label": "romanized_bangla"}
+{"message_id": 7434, "thread_id": 1100, "turn": 2, "business_id": 19, "role": "business", "is_bot": true, "text": "Apnar order rowna hoye geche. ⏎ Rider ekhoni contact korbe.", "label": "romanized_bangla"}
+{"message_id": 7435, "thread_id": 1100, "turn": 3, "business_id": 19, "role": "customer", "is_bot": false, "text": "Understood, I will wait then.", "label": "english"}
+{"message_id": 7454, "thread_id": 1105, "turn": 1, "business_id": 29, "role": "customer", "is_bot": false, "text": "Ektu janaben, Amake 4 ta confirm kore den.", "label": "romanized_bangla"}
+{"message_id": 7455, "thread_id": 1105, "turn": 2, "business_id": 29, "role": "business", "is_bot": false, "text": "Ji, nam address ta den apu.", "label": "romanized_bangla"}
+{"message_id": 7456, "thread_id": 1105, "turn": 3, "business_id": 29, "role": "customer", "is_bot": false, "text": "Apa, Amar area Uttara. Bikale dile subidha hoy.", "label": "romanized_bangla"}
+{"message_id": 7632, "thread_id": 1129, "turn": 1, "business_id": 14, "role": "customer", "is_bot": false, "text": "Thik ache, 2 ta vanilla cake nibo.", "label": "romanized_bangla"}
+{"message_id": 7633, "thread_id": 1129, "turn": 2, "business_id": 14, "role": "business", "is_bot": true, "text": "We can confirm after receiving your details.", "label": "english"}
+{"message_id": 7634, "thread_id": 1129, "turn": 3, "business_id": 14, "role": "customer", "is_bot": false, "text": "Address Uttara, 45 minutes er moddhe dile valo hoy.", "label": "romanized_bangla"}
+{"message_id": 7738, "thread_id": 1149, "turn": 1, "business_id": 16, "role": "business", "is_bot": true, "text": "New stock eshe geche! ⏎ wedding card ekhon available ⏎ 1930 taka theke shuru", "label": "romanized_bangla"}
+{"message_id": 7739, "thread_id": 1149, "turn": 2, "business_id": 16, "role": "customer", "is_bot": false, "text": "Apu, Cash on delivery hobe na?", "label": "romanized_bangla"}
+{"message_id": 7740, "thread_id": 1149, "turn": 3, "business_id": 16, "role": "business", "is_bot": false, "text": "bkash e den", "label": "romanized_bangla"}
+{"message_id": 7741, "thread_id": 1149, "turn": 4, "business_id": 16, "role": "customer", "is_bot": false, "text": "Kokhon shop kholen ektu bolben?", "label": "romanized_bangla"}
+{"message_id": 7742, "thread_id": 1149, "turn": 5, "business_id": 16, "role": "business", "is_bot": true, "text": "Protidin sokal 11 ta theke rat 10 ta porjonto khola. ⏎ Shukrobar 3 tar por.", "label": "romanized_bangla"}
+{"message_id": 7743, "thread_id": 1149, "turn": 6, "business_id": 16, "role": "customer", "is_bot": false, "text": "Apu, wedding card ta koto kore?", "label": "romanized_bangla"}
+{"message_id": 7744, "thread_id": 1149, "turn": 7, "business_id": 16, "role": "business", "is_bot": true, "text": "wedding card — 1930 taka. ⏎ Confirm korte chaile bolben.", "label": "romanized_bangla"}
+{"message_id": 7745, "thread_id": 1149, "turn": 8, "business_id": 16, "role": "customer", "is_bot": false, "text": "Uttara te koto lagbe?", "label": "romanized_bangla"}
+{"message_id": 7746, "thread_id": 1149, "turn": 9, "business_id": 16, "role": "business", "is_bot": true, "text": "Ji Bashundhara te delivery hoy. ⏎ Charge 120 taka, somoy lage 45 minutes.", "label": "romanized_bangla"}
+{"message_id": 7747, "thread_id": 1149, "turn": 10, "business_id": 16, "role": "customer", "is_bot": false, "text": "Bhai, Amake 5 ta confirm kore den.", "label": "romanized_bangla"}
+{"message_id": 7748, "thread_id": 1149, "turn": 11, "business_id": 16, "role": "business", "is_bot": false, "text": "ok nilam, 9770 taka", "label": "romanized_bangla"}
+{"message_id": 7749, "thread_id": 1149, "turn": 12, "business_id": 16, "role": "customer", "is_bot": false, "text": "Ok thank you.", "label": "english"}
+{"message_id": 7918, "thread_id": 1173, "turn": 1, "business_id": 21, "role": "business", "is_bot": true, "text": "🔥 Ei week er offer ⏎ palazzo set matro 2910 taka ⏎ Order korte: <URL>", "label": "romanized_bangla"}
+{"message_id": 7919, "thread_id": 1173, "turn": 2, "business_id": 21, "role": "customer", "is_bot": false, "text": "palazzo set ta ki ekhon ache?", "label": "romanized_bangla"}
+{"message_id": 7920, "thread_id": 1173, "turn": 3, "business_id": 21, "role": "business", "is_bot": true, "text": "Ji, Ji palazzo set ta available ase. ⏎ Koyta lagbe janan please.", "label": "romanized_bangla"}
+{"message_id": 7960, "thread_id": 1181, "turn": 1, "business_id": 26, "role": "business", "is_bot": false, "text": "অফার চলছে এখন", "label": "bangla"}
+{"message_id": 7961, "thread_id": 1181, "turn": 2, "business_id": 26, "role": "customer", "is_bot": false, "text": "Asol e, Achcha, dhonnobad.", "label": "romanized_bangla"}
+{"message_id": 7962, "thread_id": 1181, "turn": 3, "business_id": 26, "role": "customer", "is_bot": false, "text": "chocolate cake ta koto kore?", "label": "romanized_bangla"}
+{"message_id": 7963, "thread_id": 1181, "turn": 4, "business_id": 26, "role": "business", "is_bot": false, "text": "1080 টাকা করে", "label": "bangla"}
+{"message_id": 7964, "thread_id": 1182, "turn": 1, "business_id": 28, "role": "customer", "is_bot": false, "text": "My order was placed yesterday, where is it?", "label": "english"}
+{"message_id": 7965, "thread_id": 1182, "turn": 2, "business_id": 28, "role": "business", "is_bot": false, "text": "Ji, already dispatched vai.", "label": "romanized_bangla"}
+{"message_id": 7966, "thread_id": 1182, "turn": 3, "business_id": 28, "role": "customer", "is_bot": false, "text": "It is taking too long, I have been waiting 1 hour. Please.", "label": "english"}
+{"message_id": 7967, "thread_id": 1182, "turn": 4, "business_id": 28, "role": "business", "is_bot": false, "text": "Ektu sorry sir", "label": "romanized_bangla"}
+{"message_id": 7983, "thread_id": 1184, "turn": 1, "business_id": 2, "role": "customer", "is_bot": false, "text": "Ektu Amar order er kono update ache?", "label": "romanized_bangla"}
+{"message_id": 7984, "thread_id": 1184, "turn": 2, "business_id": 2, "role": "business", "is_bot": true, "text": "Apnar order rowna hoye geche. ⏎ Rider ekhoni contact korbe.", "label": "romanized_bangla"}
+{"message_id": 7985, "thread_id": 1184, "turn": 3, "business_id": 2, "role": "customer", "is_bot": false, "text": "Tahole order ta cancel kore den.", "label": "romanized_bangla"}
+{"message_id": 7986, "thread_id": 1184, "turn": 4, "business_id": 2, "role": "business", "is_bot": false, "text": "sorry apu", "label": "romanized_bangla"}
+{"message_id": 7987, "thread_id": 1184, "turn": 5, "business_id": 2, "role": "customer", "is_bot": false, "text": "Please share the real picture.", "label": "english"}
+{"message_id": 7988, "thread_id": 1184, "turn": 6, "business_id": 2, "role": "business", "is_bot": true, "text": "Here are the real pictures of cheese cake.", "label": "english"}
+{"message_id": 7989, "thread_id": 1184, "turn": 7, "business_id": 2, "role": "customer", "is_bot": false, "text": "Sounds good, thanks, really.", "label": "english"}
+{"message_id": 7990, "thread_id": 1184, "turn": 8, "business_id": 2, "role": "customer", "is_bot": false, "text": "Hi, hi, can I pay cash on delivery?", "label": "english"}
+{"message_id": 7991, "thread_id": 1184, "turn": 9, "business_id": 2, "role": "business", "is_bot": false, "text": "cod available", "label": "romanized_bangla"}
+{"message_id": 8106, "thread_id": 1201, "turn": 1, "business_id": 30, "role": "customer", "is_bot": false, "text": "Vai online achen?", "label": "romanized_bangla"}
+{"message_id": 8107, "thread_id": 1201, "turn": 2, "business_id": 30, "role": "business", "is_bot": false, "text": "ji bolen", "label": "romanized_bangla"}
+{"message_id": 8108, "thread_id": 1201, "turn": 3, "business_id": 30, "role": "customer", "is_bot": false, "text": "Banani te koto lagbe?", "label": "romanized_bangla"}
+{"message_id": 8109, "thread_id": 1201, "turn": 4, "business_id": 30, "role": "business", "is_bot": false, "text": "ji hobe apu", "label": "romanized_bangla"}
+{"message_id": 8206, "thread_id": 1217, "turn": 1, "business_id": 27, "role": "customer", "is_bot": false, "text": "palazzo set er price koto porbe na?", "label": "romanized_bangla"}
+{"message_id": 8207, "thread_id": 1217, "turn": 2, "business_id": 27, "role": "business", "is_bot": false, "text": "dam 3300", "label": "romanized_bangla"}
+{"message_id": 8208, "thread_id": 1217, "turn": 3, "business_id": 27, "role": "customer", "is_bot": false, "text": "Vai, Advance dite hobe na?", "label": "romanized_bangla"}
+{"message_id": 8209, "thread_id": 1217, "turn": 4, "business_id": 27, "role": "business", "is_bot": false, "text": "cod ache apu", "label": "romanized_bangla"}
+{"message_id": 8210, "thread_id": 1217, "turn": 5, "business_id": 27, "role": "customer", "is_bot": false, "text": "Achcha, dhonnobad.", "label": "romanized_bangla"}
+{"message_id": 8211, "thread_id": 1217, "turn": 6, "business_id": 27, "role": "customer", "is_bot": false, "text": "Savar e aj pawa jabe?", "label": "romanized_bangla"}
+{"message_id": 8212, "thread_id": 1217, "turn": 7, "business_id": 27, "role": "business", "is_bot": false, "text": "Ji, Ji, hobe, 24 hours lagbe", "label": "romanized_bangla"}
+{"message_id": 8213, "thread_id": 1217, "turn": 8, "business_id": 27, "role": "customer", "is_bot": false, "text": "Hello, 4 ta nibo ami.", "label": "romanized_bangla"}
+{"message_id": 8214, "thread_id": 1217, "turn": 9, "business_id": 27, "role": "business", "is_bot": false, "text": "address ta diyen apu", "label": "romanized_bangla"}
+{"message_id": 8215, "thread_id": 1217, "turn": 10, "business_id": 27, "role": "customer", "is_bot": false, "text": "Apu, M size ta ase?", "label": "romanized_bangla"}
+{"message_id": 8216, "thread_id": 1217, "turn": 11, "business_id": 27, "role": "business", "is_bot": false, "text": "Ektu M L XL ache apu", "label": "romanized_bangla"}
+{"message_id": 8217, "thread_id": 1217, "turn": 12, "business_id": 27, "role": "customer", "is_bot": false, "text": "Apu, Address Chattogram, 24 hours er moddhe dile valo hoy.", "label": "romanized_bangla"}
+{"message_id": 8218, "thread_id": 1217, "turn": 13, "business_id": 27, "role": "business", "is_bot": false, "text": "ok nilam, 13270 taka", "label": "romanized_bangla"}
+{"message_id": 8234, "thread_id": 1219, "turn": 1, "business_id": 26, "role": "customer", "is_bot": false, "text": "Apu, Rider er kono update?", "label": "romanized_bangla"}
+{"message_id": 8235, "thread_id": 1219, "turn": 2, "business_id": 26, "role": "business", "is_bot": false, "text": "Kisu khon e ashbe. vai.", "label": "romanized_bangla"}
+{"message_id": 8236, "thread_id": 1219, "turn": 3, "business_id": 26, "role": "customer", "is_bot": false, "text": "Vai, Koyta theke khola thake na?", "label": "romanized_bangla"}
+{"message_id": 8237, "thread_id": 1219, "turn": 4, "business_id": 26, "role": "business", "is_bot": false, "text": "Okay, tahole.", "label": "romanized_bangla"}
+{"message_id": 8238, "thread_id": 1219, "turn": 5, "business_id": 26, "role": "customer", "is_bot": false, "text": "Aro chobi den na", "label": "romanized_bangla"}
+{"message_id": 8239, "thread_id": 1219, "turn": 6, "business_id": 26, "role": "business", "is_bot": false, "text": "pathaisi apu", "label": "romanized_bangla"}
+{"message_id": 8240, "thread_id": 1219, "turn": 7, "business_id": 26, "role": "customer", "is_bot": false, "text": "Jatrabari area cover koren?", "label": "romanized_bangla"}
+{"message_id": 8241, "thread_id": 1219, "turn": 8, "business_id": 26, "role": "business", "is_bot": false, "text": "ji hobe apu", "label": "romanized_bangla"}
+{"message_id": 8242, "thread_id": 1219, "turn": 9, "business_id": 26, "role": "customer", "is_bot": false, "text": "Bkash e confirm hobe ektu bolben?", "label": "romanized_bangla"}
+{"message_id": 8243, "thread_id": 1219, "turn": 10, "business_id": 26, "role": "business", "is_bot": false, "text": "cod ache apu", "label": "romanized_bangla"}
+{"message_id": 8244, "thread_id": 1219, "turn": 11, "business_id": 26, "role": "customer", "is_bot": false, "text": "Tahole order ta cancel kore den.", "label": "romanized_bangla"}
+{"message_id": 8245, "thread_id": 1219, "turn": 12, "business_id": 26, "role": "business", "is_bot": false, "text": "sorry vai", "label": "romanized_bangla"}
+{"message_id": 8246, "thread_id": 1219, "turn": 13, "business_id": 26, "role": "customer", "is_bot": false, "text": "Apa, Kon branch e aste hobe?", "label": "romanized_bangla"}
+{"message_id": 8247, "thread_id": 1219, "turn": 14, "business_id": 26, "role": "business", "is_bot": false, "text": "Mohammadpur branch apu.", "label": "romanized_bangla"}
+{"message_id": 8248, "thread_id": 1219, "turn": 15, "business_id": 26, "role": "business", "is_bot": false, "text": "notun ta pathabo", "label": "romanized_bangla"}
+{"message_id": 8319, "thread_id": 1231, "turn": 1, "business_id": 29, "role": "business", "is_bot": false, "text": "offer cholteche, nite paren", "label": "romanized_bangla"}
+{"message_id": 8320, "thread_id": 1231, "turn": 2, "business_id": 29, "role": "customer", "is_bot": false, "text": "Apu, type-c charger ta koto kore?", "label": "romanized_bangla"}
+{"message_id": 8321, "thread_id": 1231, "turn": 3, "business_id": 29, "role": "business", "is_bot": false, "text": "dam 1790", "label": "romanized_bangla"}
+{"message_id": 8322, "thread_id": 1232, "turn": 1, "business_id": 29, "role": "customer", "is_bot": false, "text": "Vai, Kobe dispatch korben?", "label": "romanized_bangla"}
+{"message_id": 8323, "thread_id": 1232, "turn": 2, "business_id": 29, "role": "business", "is_bot": false, "text": "Rider ke bolechi.", "label": "romanized_bangla"}
+{"message_id": 8324, "thread_id": 1232, "turn": 3, "business_id": 29, "role": "customer", "is_bot": false, "text": "Ar lagbe na, cancel kore den.", "label": "romanized_bangla"}
+{"message_id": 8325, "thread_id": 1232, "turn": 4, "business_id": 29, "role": "business", "is_bot": false, "text": "sorry vai", "label": "romanized_bangla"}
+{"message_id": 8382, "thread_id": 1241, "turn": 1, "business_id": 15, "role": "customer", "is_bot": false, "text": "Apnader kache kurti ase na?", "label": "romanized_bangla"}
+{"message_id": 8383, "thread_id": 1241, "turn": 2, "business_id": 15, "role": "business", "is_bot": false, "text": "জি, স্টক শেষ ভাই।", "label": "bangla"}
+{"message_id": 8384, "thread_id": 1241, "turn": 3, "business_id": 15, "role": "customer", "is_bot": false, "text": "Achcha, dhonnobad.", "label": "romanized_bangla"}
+{"message_id": 8385, "thread_id": 1241, "turn": 4, "business_id": 15, "role": "customer", "is_bot": false, "text": "Okay, no problem.", "label": "english"}
+{"message_id": 8386, "thread_id": 1241, "turn": 5, "business_id": 15, "role": "business", "is_bot": true, "text": "২ দিনের মধ্যে নতুন স্টক আসবে। ⏎ আসলে জানিয়ে দেবো। আপু।", "label": "bangla"}
+{"message_id": 8387, "thread_id": 1241, "turn": 6, "business_id": 15, "role": "customer", "is_bot": false, "text": "Ok thank you.", "label": "english"}
+{"message_id": 8407, "thread_id": 1245, "turn": 1, "business_id": 8, "role": "business", "is_bot": false, "text": "offer cholteche, nite paren", "label": "romanized_bangla"}
+{"message_id": 8408, "thread_id": 1245, "turn": 2, "business_id": 8, "role": "customer", "is_bot": false, "text": "Vai, Koy taka porbe eita?", "label": "romanized_bangla"}
+{"message_id": 8409, "thread_id": 1245, "turn": 3, "business_id": 8, "role": "business", "is_bot": true, "text": "cupcake set — 1490 taka. ⏎ Confirm korte chaile bolben.", "label": "romanized_bangla"}
+{"message_id": 8410, "thread_id": 1245, "turn": 4, "business_id": 8, "role": "customer", "is_bot": false, "text": "Real pic ta ektu pathan", "label": "romanized_bangla"}
+{"message_id": 8411, "thread_id": 1245, "turn": 5, "business_id": 8, "role": "business", "is_bot": false, "text": "pathaisi apu", "label": "romanized_bangla"}
+{"message_id": 8412, "thread_id": 1245, "turn": 6, "business_id": 8, "role": "customer", "is_bot": false, "text": "Gulshan 2 te delivery hoy janaben?", "label": "romanized_bangla"}
+{"message_id": 8413, "thread_id": 1245, "turn": 7, "business_id": 8, "role": "business", "is_bot": true, "text": "Ji, Ji Gulshan 2 te delivery hoy. ⏎ Charge 120 taka, somoy lage 24 hours.", "label": "romanized_bangla"}
+{"message_id": 8414, "thread_id": 1245, "turn": 8, "business_id": 8, "role": "customer", "is_bot": false, "text": "1 ta nibo ami.", "label": "romanized_bangla"}
+{"message_id": 8415, "thread_id": 1245, "turn": 9, "business_id": 8, "role": "business", "is_bot": false, "text": "Ektu done, 24 hours e paben", "label": "romanized_bangla"}
+{"message_id": 8416, "thread_id": 1245, "turn": 10, "business_id": 8, "role": "customer", "is_bot": false, "text": "Apu, Dhonnobad vai.", "label": "romanized_bangla"}
+{"message_id": 8432, "thread_id": 1248, "turn": 1, "business_id": 29, "role": "customer", "is_bot": false, "text": "ভাই, এখনও পার্সেল পাইনি।", "label": "bangla"}
+{"message_id": 8433, "thread_id": 1248, "turn": 2, "business_id": 29, "role": "business", "is_bot": false, "text": "জি, রাইডার পথে আছে।", "label": "bangla"}
+{"message_id": 8434, "thread_id": 1248, "turn": 3, "business_id": 29, "role": "customer", "is_bot": false, "text": "আপা, আর লাগবে না, ক্যান্সেল করেন।", "label": "bangla"}
+{"message_id": 8449, "thread_id": 1251, "turn": 1, "business_id": 12, "role": "customer", "is_bot": false, "text": "ভাই একটু হেল্প লাগবে।", "label": "bangla"}
+{"message_id": 8450, "thread_id": 1251, "turn": 2, "business_id": 12, "role": "business", "is_bot": true, "text": "আসসালামু আলাইকুম! <NAME> এ আপনাকে স্বাগতম। ⏎ কীভাবে সাহায্য করতে পারি?", "label": "bangla"}
+{"message_id": 8451, "thread_id": 1251, "turn": 3, "business_id": 12, "role": "customer", "is_bot": false, "text": "মিডিয়াম সাইজ আছে একটু বলবেন?", "label": "bangla"}
+{"message_id": 8452, "thread_id": 1251, "turn": 4, "business_id": 12, "role": "business", "is_bot": true, "text": "জি ভিটামিন সি সিরাম টা আছে। ⏎ কয়টা লাগবে জানান।", "label": "bangla"}
+{"message_id": 8453, "thread_id": 1251, "turn": 5, "business_id": 12, "role": "customer", "is_bot": false, "text": "আমার সাইজের দাম কত জানাবেন?", "label": "bangla"}
+{"message_id": 8454, "thread_id": 1251, "turn": 6, "business_id": 12, "role": "business", "is_bot": false, "text": "700 টাকা করে", "label": "bangla"}
+{"message_id": 8563, "thread_id": 1268, "turn": 1, "business_id": 25, "role": "customer", "is_bot": false, "text": "Ei bar quality ta valo cilo na.", "label": "romanized_bangla"}
+{"message_id": 8564, "thread_id": 1268, "turn": 2, "business_id": 25, "role": "business", "is_bot": true, "text": "Sorry for the delay, this is not our usual standard.", "label": "english"}
+{"message_id": 8565, "thread_id": 1268, "turn": 3, "business_id": 25, "role": "customer", "is_bot": false, "text": "Basay pathaben ektu bolben?", "label": "romanized_bangla"}
+{"message_id": 8566, "thread_id": 1268, "turn": 4, "business_id": 25, "role": "business", "is_bot": true, "text": "Inside Dhaka delivery charge 120 Tk, outside Dhaka 170 Tk.", "label": "english"}
+{"message_id": 8567, "thread_id": 1268, "turn": 5, "business_id": 25, "role": "customer", "is_bot": false, "text": "Bkash e pay kora jabe ektu bolben?", "label": "romanized_bangla"}
+{"message_id": 8568, "thread_id": 1268, "turn": 6, "business_id": 25, "role": "business", "is_bot": true, "text": "Payment can be made on delivery. Advance 500 Tk for custom orders.", "label": "english"}
+{"message_id": 8569, "thread_id": 1268, "turn": 7, "business_id": 25, "role": "customer", "is_bot": false, "text": "Ajke office time koto ektu bolben?", "label": "romanized_bangla"}
+{"message_id": 8570, "thread_id": 1268, "turn": 8, "business_id": 25, "role": "business", "is_bot": false, "text": "Rat 10 ta porjonto open.", "label": "romanized_bangla"}
+{"message_id": 8571, "thread_id": 1268, "turn": 9, "business_id": 25, "role": "customer", "is_bot": false, "text": "Real pic ta ektu pathan", "label": "romanized_bangla"}
+{"message_id": 8572, "thread_id": 1268, "turn": 10, "business_id": 25, "role": "business", "is_bot": false, "text": "here is the photo", "label": "english"}
+{"message_id": 8573, "thread_id": 1268, "turn": 11, "business_id": 25, "role": "customer", "is_bot": false, "text": "Just janiye rakhlam ar ki.", "label": "romanized_bangla"}
+{"message_id": 8574, "thread_id": 1268, "turn": 12, "business_id": 25, "role": "business", "is_bot": true, "text": "We are sending a replacement at no extra cost.", "label": "english"}
+{"message_id": 8575, "thread_id": 1268, "turn": 13, "business_id": 25, "role": "customer", "is_bot": false, "text": "Fine, bujhlam.", "label": "romanized_bangla"}
+{"message_id": 8576, "thread_id": 1269, "turn": 1, "business_id": 25, "role": "business", "is_bot": false, "text": "offer cholteche, nite paren", "label": "romanized_bangla"}
+{"message_id": 8577, "thread_id": 1269, "turn": 2, "business_id": 25, "role": "customer", "is_bot": false, "text": "Vai, beef tehari ta koto kore?", "label": "romanized_bangla"}
+{"message_id": 8578, "thread_id": 1269, "turn": 3, "business_id": 25, "role": "business", "is_bot": true, "text": "beef tehari er dam 630 taka per plate. ⏎ Delivery charge alada.", "label": "romanized_bangla"}
+{"message_id": 8633, "thread_id": 1280, "turn": 1, "business_id": 10, "role": "customer", "is_bot": false, "text": "Eitar real picture ache please?", "label": "romanized_bangla"}
+{"message_id": 8634, "thread_id": 1280, "turn": 2, "business_id": 10, "role": "business", "is_bot": true, "text": "Dukkhito, ei muhurte oita available nei.", "label": "romanized_bangla"}
+{"message_id": 8635, "thread_id": 1280, "turn": 3, "business_id": 10, "role": "customer", "is_bot": false, "text": "Fine, thik ase.", "label": "romanized_bangla"}
+{"message_id": 8702, "thread_id": 1294, "turn": 1, "business_id": 26, "role": "customer", "is_bot": false, "text": "আসসালামু আলাইকুম, একটু সাহায্য লাগবে।", "label": "bangla"}
+{"message_id": 8703, "thread_id": 1294, "turn": 2, "business_id": 26, "role": "business", "is_bot": false, "text": "ji bolen", "label": "romanized_bangla"}
+{"message_id": 8704, "thread_id": 1294, "turn": 3, "business_id": 26, "role": "customer", "is_bot": false, "text": "কোন ব্রাঞ্চে আসতে হবে জানাবেন?", "label": "bangla"}
+{"message_id": 8705, "thread_id": 1294, "turn": 4, "business_id": 26, "role": "business", "is_bot": false, "text": "Uttara branch apu.", "label": "romanized_bangla"}
+{"message_id": 8717, "thread_id": 1297, "turn": 1, "business_id": 27, "role": "business", "is_bot": false, "text": "new kurti just arrived, take a look", "label": "english"}
+{"message_id": 8718, "thread_id": 1297, "turn": 2, "business_id": 27, "role": "customer", "is_bot": false, "text": "Hi, can you tell me the kurti rate?", "label": "english"}
+{"message_id": 8719, "thread_id": 1297, "turn": 3, "business_id": 27, "role": "business", "is_bot": false, "text": "2780 taka per piece", "label": "english"}
+{"message_id": 8744, "thread_id": 1302, "turn": 1, "business_id": 9, "role": "business", "is_bot": true, "text": "New arrival! ⏎ three piece now in stock ⏎ Starting from 1750 Tk", "label": "english"}
+{"message_id": 8745, "thread_id": 1302, "turn": 2, "business_id": 9, "role": "customer", "is_bot": false, "text": "Ektu three piece ta koto kore?", "label": "romanized_bangla"}
+{"message_id": 8746, "thread_id": 1302, "turn": 3, "business_id": 9, "role": "business", "is_bot": true, "text": "three piece — 1750 Tk. ⏎ Let us know if you would like to confirm.", "label": "english"}
+{"message_id": 8792, "thread_id": 1309, "turn": 1, "business_id": 29, "role": "customer", "is_bot": false, "text": "Ektu Assalamualaikum, anyone there please?", "label": "romanized_bangla"}
+{"message_id": 8793, "thread_id": 1309, "turn": 2, "business_id": 29, "role": "business", "is_bot": false, "text": "Sure, tell us what you need.", "label": "english"}
+{"message_id": 8794, "thread_id": 1309, "turn": 3, "business_id": 29, "role": "customer", "is_bot": false, "text": "Vai, Which branch should I visit?", "label": "romanized_bangla"}
+{"message_id": 8795, "thread_id": 1309, "turn": 4, "business_id": 29, "role": "business", "is_bot": false, "text": "Okay, our shop is in Chattogram", "label": "english"}
+{"message_id": 8836, "thread_id": 1319, "turn": 1, "business_id": 29, "role": "customer", "is_bot": false, "text": "Hello, Assalamualaikum, keu ki achen?", "label": "romanized_bangla"}
+{"message_id": 8837, "thread_id": 1319, "turn": 2, "business_id": 29, "role": "business", "is_bot": false, "text": "ji vai", "label": "romanized_bangla"}
+{"message_id": 8838, "thread_id": 1319, "turn": 3, "business_id": 29, "role": "customer", "is_bot": false, "text": "Vai, Ektu Advance dite hoy?", "label": "romanized_bangla"}
+{"message_id": 8839, "thread_id": 1319, "turn": 4, "business_id": 29, "role": "business", "is_bot": false, "text": "Ji, Age partial payment lagbe.", "label": "romanized_bangla"}
+{"message_id": 8840, "thread_id": 1319, "turn": 5, "business_id": 29, "role": "customer", "is_bot": false, "text": "Just, Address ta ektu diben?", "label": "romanized_bangla"}
+{"message_id": 8841, "thread_id": 1319, "turn": 6, "business_id": 29, "role": "business", "is_bot": false, "text": "Khilgaon branch", "label": "romanized_bangla"}
+{"message_id": 8842, "thread_id": 1319, "turn": 7, "business_id": 29, "role": "customer", "is_bot": false, "text": "Achcha, dhonnobad.", "label": "romanized_bangla"}
+{"message_id": 8843, "thread_id": 1319, "turn": 8, "business_id": 29, "role": "customer", "is_bot": false, "text": "Shukrobar ki khola?", "label": "romanized_bangla"}
+{"message_id": 8844, "thread_id": 1319, "turn": 9, "business_id": 29, "role": "business", "is_bot": false, "text": "Fine, dekhi.", "label": "romanized_bangla"}
+{"message_id": 8845, "thread_id": 1319, "turn": 10, "business_id": 29, "role": "customer", "is_bot": false, "text": "Hello, Dhonnobad vai.", "label": "romanized_bangla"}
+{"message_id": 8879, "thread_id": 1327, "turn": 1, "business_id": 15, "role": "customer", "is_bot": false, "text": "panjabi ta ki ekhon ase na?", "label": "romanized_bangla"}
+{"message_id": 8880, "thread_id": 1327, "turn": 2, "business_id": 15, "role": "business", "is_bot": true, "text": "Dukkhito, ei muhurte oita available nei.", "label": "romanized_bangla"}
+{"message_id": 8881, "thread_id": 1327, "turn": 3, "business_id": 15, "role": "customer", "is_bot": false, "text": "Vai, Bkash e payment kora jabe na?", "label": "romanized_bangla"}
+{"message_id": 8882, "thread_id": 1327, "turn": 4, "business_id": 15, "role": "business", "is_bot": true, "text": "Delivery te payment korte parben. Custom order e 100 taka advance.", "label": "romanized_bangla"}
+{"message_id": 8883, "thread_id": 1327, "turn": 5, "business_id": 15, "role": "customer", "is_bot": false, "text": "Vai, Ektu Koyta theke khola thake?", "label": "romanized_bangla"}
+{"message_id": 8884, "thread_id": 1327, "turn": 6, "business_id": 15, "role": "business", "is_bot": true, "text": "Protidin sokal 11 ta theke rat 10 ta porjonto khola. ⏎ Shukrobar 3 tar por.", "label": "romanized_bangla"}
+{"message_id": 8885, "thread_id": 1327, "turn": 7, "business_id": 15, "role": "customer", "is_bot": false, "text": "Apu, Kobe haate pabo?", "label": "romanized_bangla"}
+{"message_id": 8886, "thread_id": 1327, "turn": 8, "business_id": 15, "role": "business", "is_bot": false, "text": "Ji, hoy, 24 hours lagbe vai.", "label": "romanized_bangla"}
+{"message_id": 8887, "thread_id": 1327, "turn": 9, "business_id": 15, "role": "customer", "is_bot": false, "text": "Alright, thik ache.", "label": "romanized_bangla"}
+{"message_id": 8888, "thread_id": 1327, "turn": 10, "business_id": 15, "role": "business", "is_bot": true, "text": "Ektu 4 diner moddhe notun stock ashbe. ⏎ Ashle apnake janiye debo.", "label": "romanized_bangla"}
+{"message_id": 8889, "thread_id": 1327, "turn": 11, "business_id": 15, "role": "customer", "is_bot": false, "text": "Apu, Samner pic diben?", "label": "romanized_bangla"}
+{"message_id": 8890, "thread_id": 1327, "turn": 12, "business_id": 15, "role": "business", "is_bot": true, "text": "Ji, Ei je panjabi er real pic.", "label": "romanized_bangla"}
+{"message_id": 8891, "thread_id": 1327, "turn": 13, "business_id": 15, "role": "customer", "is_bot": false, "text": "Boss, Address ta ektu diben?", "label": "romanized_bangla"}
+{"message_id": 8892, "thread_id": 1327, "turn": 14, "business_id": 15, "role": "business", "is_bot": true, "text": "Apni Banani branch e ashte paren. apu.", "label": "romanized_bangla"}
+{"message_id": 8893, "thread_id": 1327, "turn": 15, "business_id": 15, "role": "customer", "is_bot": false, "text": "Achcha, dhonnobad.", "label": "romanized_bangla"}
+{"message_id": 8894, "thread_id": 1327, "turn": 16, "business_id": 15, "role": "customer", "is_bot": false, "text": "Ektu Eta ki maroon te ase?", "label": "romanized_bangla"}
+{"message_id": 8895, "thread_id": 1327, "turn": 17, "business_id": 15, "role": "business", "is_bot": true, "text": "40 size ta duita color e ase.", "label": "romanized_bangla"}
+{"message_id": 8896, "thread_id": 1327, "turn": 18, "business_id": 15, "role": "customer", "is_bot": false, "text": "Ok thank you.", "label": "english"}
+{"message_id": 9061, "thread_id": 1351, "turn": 1, "business_id": 4, "role": "customer", "is_bot": false, "text": "ভাই, গতকাল অর্ডার দিলাম, এখন কোন দিকে?", "label": "bangla"}
+{"message_id": 9062, "thread_id": 1351, "turn": 2, "business_id": 4, "role": "business", "is_bot": true, "text": "Your order is out for delivery. ⏎ The rider will contact you shortly.", "label": "english"}
+{"message_id": 9063, "thread_id": 1351, "turn": 3, "business_id": 4, "role": "customer", "is_bot": false, "text": "একটু বলবেন, আর লাগবে না, ক্যান্সেল করেন।", "label": "bangla"}
+{"message_id": 9064, "thread_id": 1351, "turn": 4, "business_id": 4, "role": "business", "is_bot": true, "text": "We sincerely apologize for the inconvenience. ⏎ Let us check this immediately.", "label": "english"}
+{"message_id": 9065, "thread_id": 1351, "turn": 5, "business_id": 4, "role": "customer", "is_bot": false, "text": "দারুণ, অনেক ধন্যবাদ।", "label": "bangla"}
+{"message_id": 9066, "thread_id": 1351, "turn": 6, "business_id": 4, "role": "customer", "is_bot": false, "text": "সকালে কয়টায় খোলেন জানাবেন?", "label": "bangla"}
+{"message_id": 9067, "thread_id": 1351, "turn": 7, "business_id": 4, "role": "business", "is_bot": false, "text": "Ekhon ashte parben. apu.", "label": "romanized_bangla"}
+{"message_id": 9095, "thread_id": 1359, "turn": 1, "business_id": 23, "role": "customer", "is_bot": false, "text": "ভাই, ভাই, আসসালামু আলাইকুম, কেউ আছেন?", "label": "bangla"}
+{"message_id": 9096, "thread_id": 1359, "turn": 2, "business_id": 23, "role": "business", "is_bot": true, "text": "আসসালামু আলাইকুম! <NAME> এ আপনাকে স্বাগতম। ⏎ কীভাবে সাহায্য করতে পারি?", "label": "bangla"}
+{"message_id": 9097, "thread_id": 1359, "turn": 3, "business_id": 23, "role": "customer", "is_bot": false, "text": "আপনাদের ব্লুটুথ স্পিকার কি এখন আছে?", "label": "bangla"}
+{"message_id": 9098, "thread_id": 1359, "turn": 4, "business_id": 23, "role": "business", "is_bot": true, "text": "জি আপু, এখন স্টকে আছে।", "label": "bangla"}
+{"message_id": 9099, "thread_id": 1359, "turn": 5, "business_id": 23, "role": "customer", "is_bot": false, "text": "ব্লুটুথ স্পিকার কত করে?", "label": "bangla"}
+{"message_id": 9100, "thread_id": 1359, "turn": 6, "business_id": 23, "role": "business", "is_bot": true, "text": "bluetooth speaker — 3050 taka. ⏎ Confirm korte chaile bolben.", "label": "romanized_bangla"}
+{"message_id": 9261, "thread_id": 1385, "turn": 1, "business_id": 15, "role": "customer", "is_bot": false, "text": "My order was placed yesterday, where is it?", "label": "english"}
+{"message_id": 9262, "thread_id": 1385, "turn": 2, "business_id": 15, "role": "business", "is_bot": true, "text": "Pathiye deya hoyeche, 1 hour er moddhe peye jaben. vai.", "label": "romanized_bangla"}
+{"message_id": 9263, "thread_id": 1385, "turn": 3, "business_id": 15, "role": "customer", "is_bot": false, "text": "Just checking: It is taking too long, I have been waiting 1 hour.", "label": "english"}
+{"message_id": 9287, "thread_id": 1389, "turn": 1, "business_id": 28, "role": "customer", "is_bot": false, "text": "ভাই একটু হেল্প লাগবে।", "label": "bangla"}
+{"message_id": 9288, "thread_id": 1389, "turn": 2, "business_id": 28, "role": "business", "is_bot": false, "text": "আচ্ছা, জি বলেন", "label": "bangla"}
+{"message_id": 9289, "thread_id": 1389, "turn": 3, "business_id": 28, "role": "customer", "is_bot": false, "text": "আপু, আপনাদের কাস্টম মগ কি এখন আছে?", "label": "bangla"}
+{"message_id": 9290, "thread_id": 1389, "turn": 4, "business_id": 28, "role": "business", "is_bot": false, "text": "ভাই, আছে, কয়টা লাগবে", "label": "bangla"}
+{"message_id": 9291, "thread_id": 1389, "turn": 5, "business_id": 28, "role": "customer", "is_bot": false, "text": "আপু, কাস্টম মগ কত করে?", "label": "bangla"}
+{"message_id": 9292, "thread_id": 1389, "turn": 6, "business_id": 28, "role": "business", "is_bot": false, "text": "দাম 3240", "label": "bangla"}
+{"message_id": 9328, "thread_id": 1395, "turn": 1, "business_id": 11, "role": "customer", "is_bot": false, "text": "Apu ektu help lagbe.", "label": "romanized_bangla"}
+{"message_id": 9329, "thread_id": 1395, "turn": 2, "business_id": 11, "role": "business", "is_bot": true, "text": "Assalamualaikum! <NAME> e apnake swagotom. ⏎ Ki vabe help korte pari?", "label": "romanized_bangla"}
+{"message_id": 9330, "thread_id": 1395, "turn": 3, "business_id": 11, "role": "customer", "is_bot": false, "text": "Kon branch e aste hobe?", "label": "romanized_bangla"}
+{"message_id": 9331, "thread_id": 1395, "turn": 4, "business_id": 11, "role": "business", "is_bot": true, "text": "Apni Dhanmondi branch e ashte paren.", "label": "romanized_bangla"}
+{"message_id": 9332, "thread_id": 1395, "turn": 5, "business_id": 11, "role": "customer", "is_bot": false, "text": "Aro chobi den na", "label": "romanized_bangla"}
+{"message_id": 9333, "thread_id": 1395, "turn": 6, "business_id": 11, "role": "business", "is_bot": true, "text": "Ei je smart watch er real pic.", "label": "romanized_bangla"}
+{"message_id": 9334, "thread_id": 1395, "turn": 7, "business_id": 11, "role": "customer", "is_bot": false, "text": "Ektu Koyta theke khola thake please?", "label": "romanized_bangla"}
+{"message_id": 9335, "thread_id": 1395, "turn": 8, "business_id": 11, "role": "business", "is_bot": true, "text": "Protidin sokal 11 ta theke rat 10 ta porjonto khola. ⏎ Shukrobar 3 tar por.", "label": "romanized_bangla"}
+{"message_id": 9336, "thread_id": 1395, "turn": 9, "business_id": 11, "role": "customer", "is_bot": false, "text": "Thanks apu.", "label": "romanized_bangla"}
+{"message_id": 9383, "thread_id": 1404, "turn": 1, "business_id": 9, "role": "business", "is_bot": false, "text": "Ektu notun panjabi ashse apu", "label": "romanized_bangla"}
+{"message_id": 9384, "thread_id": 1404, "turn": 2, "business_id": 9, "role": "customer", "is_bot": false, "text": "panjabi ki stock e ase?", "label": "romanized_bangla"}
+{"message_id": 9385, "thread_id": 1404, "turn": 3, "business_id": 9, "role": "business", "is_bot": false, "text": "Ji, hae ase vai.", "label": "romanized_bangla"}
+{"message_id": 9386, "thread_id": 1404, "turn": 4, "business_id": 9, "role": "customer", "is_bot": false, "text": "Vai, panjabi er kon kon size ase?", "label": "romanized_bangla"}
+{"message_id": 9387, "thread_id": 1404, "turn": 5, "business_id": 9, "role": "business", "is_bot": false, "text": "sob size ache", "label": "romanized_bangla"}
+{"message_id": 9388, "thread_id": 1404, "turn": 6, "business_id": 9, "role": "customer", "is_bot": false, "text": "Apu, Dam ta please bolben?", "label": "romanized_bangla"}
+{"message_id": 9389, "thread_id": 1404, "turn": 7, "business_id": 9, "role": "business", "is_bot": false, "text": "4090 tk per piece", "label": "english"}
+{"message_id": 9390, "thread_id": 1404, "turn": 8, "business_id": 9, "role": "customer", "is_bot": false, "text": "Ektu Thik ase, 2 ta panjabi nibo.", "label": "romanized_bangla"}
+{"message_id": 9391, "thread_id": 1404, "turn": 9, "business_id": 9, "role": "business", "is_bot": true, "text": "Order confirm korte apnar nam, address ar contact number ta den please.", "label": "romanized_bangla"}
+{"message_id": 9392, "thread_id": 1404, "turn": 10, "business_id": 9, "role": "customer", "is_bot": false, "text": "Address Savar, 24 hours er moddhe dile valo hoy.", "label": "romanized_bangla"}
+{"message_id": 9393, "thread_id": 1404, "turn": 11, "business_id": 9, "role": "business", "is_bot": true, "text": "Order confirm ✅ ⏎ 2 x panjabi ⏎ Total: 8260 taka", "label": "romanized_bangla"}
+{"message_id": 9394, "thread_id": 1404, "turn": 12, "business_id": 9, "role": "customer", "is_bot": false, "text": "Just, Dhonnobad vai.", "label": "romanized_bangla"}
+{"message_id": 9395, "thread_id": 1404, "turn": 13, "business_id": 9, "role": "business", "is_bot": true, "text": "Amader sathe jogajog korar jonno dhonnobad. Valo thakben!", "label": "romanized_bangla"}
+{"message_id": 9497, "thread_id": 1424, "turn": 1, "business_id": 25, "role": "customer", "is_bot": false, "text": "My order was placed yesterday, where is it?", "label": "english"}
+{"message_id": 9498, "thread_id": 1424, "turn": 2, "business_id": 25, "role": "business", "is_bot": true, "text": "Pathiye deya hoyeche, 24 hours er moddhe peye jaben. vai.", "label": "romanized_bangla"}
+{"message_id": 9499, "thread_id": 1424, "turn": 3, "business_id": 25, "role": "customer", "is_bot": false, "text": "Then please cancel my order.", "label": "english"}
+{"message_id": 9508, "thread_id": 1427, "turn": 1, "business_id": 27, "role": "customer", "is_bot": false, "text": "Is size 42 available, please?", "label": "english"}
+{"message_id": 9509, "thread_id": 1427, "turn": 2, "business_id": 27, "role": "business", "is_bot": false, "text": "42 we have", "label": "english"}
+{"message_id": 9510, "thread_id": 1427, "turn": 3, "business_id": 27, "role": "customer", "is_bot": false, "text": "Okay, Please send a close-up photo.", "label": "english"}
+{"message_id": 9530, "thread_id": 1430, "turn": 1, "business_id": 8, "role": "customer", "is_bot": false, "text": "Vai online achen?", "label": "romanized_bangla"}
+{"message_id": 9531, "thread_id": 1430, "turn": 2, "business_id": 8, "role": "business", "is_bot": false, "text": "ji bolen", "label": "romanized_bangla"}
+{"message_id": 9532, "thread_id": 1430, "turn": 3, "business_id": 8, "role": "customer", "is_bot": false, "text": "Apnader shop ta kothay?", "label": "romanized_bangla"}
+{"message_id": 9533, "thread_id": 1430, "turn": 4, "business_id": 8, "role": "business", "is_bot": true, "text": "Amader outlet Savar te. ⏎ Sokal 11 ta theke rat 10 ta porjonto khola.", "label": "romanized_bangla"}
+{"message_id": 9534, "thread_id": 1430, "turn": 5, "business_id": 8, "role": "customer", "is_bot": false, "text": "Real pic ta ektu pathan", "label": "romanized_bangla"}
+{"message_id": 9535, "thread_id": 1430, "turn": 6, "business_id": 8, "role": "business", "is_bot": true, "text": "Actual chobi pathacchi. ⏎ Ektu dekhe nin.", "label": "romanized_bangla"}
+{"message_id": 9536, "thread_id": 1430, "turn": 7, "business_id": 8, "role": "customer", "is_bot": false, "text": "Apu, Mirpur e aj pawa jabe?", "label": "romanized_bangla"}
+{"message_id": 9537, "thread_id": 1430, "turn": 8, "business_id": 8, "role": "business", "is_bot": true, "text": "Ji Savar te delivery hoy. ⏎ Charge 70 taka, somoy lage 24 hours.", "label": "romanized_bangla"}
+{"message_id": 9538, "thread_id": 1430, "turn": 9, "business_id": 8, "role": "customer", "is_bot": false, "text": "Bhai, Koyta theke khola thake?", "label": "romanized_bangla"}
+{"message_id": 9539, "thread_id": 1430, "turn": 10, "business_id": 8, "role": "business", "is_bot": true, "text": "Protidin sokal 11 ta theke rat 10 ta porjonto khola. ⏎ Shukrobar 3 tar por.", "label": "romanized_bangla"}
+{"message_id": 9540, "thread_id": 1430, "turn": 11, "business_id": 8, "role": "customer", "is_bot": false, "text": "Apa, Koyta theke khola thake?", "label": "romanized_bangla"}
+{"message_id": 9541, "thread_id": 1430, "turn": 12, "business_id": 8, "role": "business", "is_bot": false, "text": "shukrobar 3 tar por apu.", "label": "romanized_bangla"}
+{"message_id": 9542, "thread_id": 1430, "turn": 13, "business_id": 8, "role": "customer", "is_bot": false, "text": "Bkash e pathai?", "label": "romanized_bangla"}
+{"message_id": 9543, "thread_id": 1430, "turn": 14, "business_id": 8, "role": "business", "is_bot": true, "text": "Delivery te payment korte parben. Custom order e 500 taka advance. Please check.", "label": "romanized_bangla"}
+{"message_id": 9544, "thread_id": 1430, "turn": 15, "business_id": 8, "role": "customer", "is_bot": false, "text": "Apu, Aro ekta pic den.", "label": "romanized_bangla"}
+{"message_id": 9545, "thread_id": 1430, "turn": 16, "business_id": 8, "role": "business", "is_bot": false, "text": "pathaisi apu", "label": "romanized_bangla"}
+{"message_id": 9546, "thread_id": 1430, "turn": 17, "business_id": 8, "role": "customer", "is_bot": false, "text": "Achcha, dhonnobad.", "label": "romanized_bangla"}
+{"message_id": 9572, "thread_id": 1436, "turn": 1, "business_id": 14, "role": "business", "is_bot": true, "text": "🔥 Ei week er offer ⏎ chocolate cake matro 670 taka ⏎ Order korte: <URL>", "label": "romanized_bangla"}
+{"message_id": 9573, "thread_id": 1436, "turn": 2, "business_id": 14, "role": "customer", "is_bot": false, "text": "Can you tell me the chocolate cake price?", "label": "english"}
+{"message_id": 9574, "thread_id": 1436, "turn": 3, "business_id": 14, "role": "business", "is_bot": true, "text": "The price of chocolate cake is 670 Tk per pound. ⏎ Delivery charge is separate.", "label": "english"}
+{"message_id": 9611, "thread_id": 1441, "turn": 1, "business_id": 29, "role": "customer", "is_bot": false, "text": "Apnader kache type-c charger ache?", "label": "romanized_bangla"}
+{"message_id": 9612, "thread_id": 1441, "turn": 2, "business_id": 29, "role": "business", "is_bot": false, "text": "Acha, sorry vai ekhon nai", "label": "romanized_bangla"}
+{"message_id": 9613, "thread_id": 1441, "turn": 3, "business_id": 29, "role": "customer", "is_bot": false, "text": "Darun, thik ache.", "label": "romanized_bangla"}
+{"message_id": 9614, "thread_id": 1441, "turn": 4, "business_id": 29, "role": "business", "is_bot": false, "text": "Acha, 5 din lagbe apu", "label": "romanized_bangla"}
+{"message_id": 9671, "thread_id": 1449, "turn": 1, "business_id": 7, "role": "business", "is_bot": false, "text": "offer cholteche, nite paren", "label": "romanized_bangla"}
+{"message_id": 9672, "thread_id": 1449, "turn": 2, "business_id": 7, "role": "customer", "is_bot": false, "text": "Shukrobar ki khola?", "label": "romanized_bangla"}
+{"message_id": 9673, "thread_id": 1449, "turn": 3, "business_id": 7, "role": "business", "is_bot": false, "text": "shukrobar 3 tar por vai.", "label": "romanized_bangla"}
+{"message_id": 9674, "thread_id": 1449, "turn": 4, "business_id": 7, "role": "customer", "is_bot": false, "text": "Achcha, dhonnobad.", "label": "romanized_bangla"}
+{"message_id": 9675, "thread_id": 1449, "turn": 5, "business_id": 7, "role": "customer", "is_bot": false, "text": "Inbox e dam diben janaben?", "label": "romanized_bangla"}
+{"message_id": 9676, "thread_id": 1449, "turn": 6, "business_id": 7, "role": "business", "is_bot": true, "text": "beef khichuri er dam 280 taka per plate. ⏎ Delivery charge alada.", "label": "romanized_bangla"}
+{"message_id": 9677, "thread_id": 1449, "turn": 7, "business_id": 7, "role": "customer", "is_bot": false, "text": "Badda te kobe pabo janaben?", "label": "romanized_bangla"}
+{"message_id": 9678, "thread_id": 1449, "turn": 8, "business_id": 7, "role": "business", "is_bot": true, "text": "Dhaka r moddhe 100 taka, baire 170 taka. apu.", "label": "romanized_bangla"}
+{"message_id": 9679, "thread_id": 1449, "turn": 9, "business_id": 7, "role": "customer", "is_bot": false, "text": "Thik ache, 1 ta beef khichuri nibo.", "label": "romanized_bangla"}
+{"message_id": 9680, "thread_id": 1449, "turn": 10, "business_id": 7, "role": "business", "is_bot": true, "text": "Order confirm ✅ ⏎ 1 x beef khichuri ⏎ Total: 380 taka", "label": "romanized_bangla"}
+{"message_id": 9681, "thread_id": 1449, "turn": 11, "business_id": 7, "role": "customer", "is_bot": false, "text": "Apnader shop ta kothay?", "label": "romanized_bangla"}
+{"message_id": 9716, "thread_id": 1458, "turn": 1, "business_id": 25, "role": "customer", "is_bot": false, "text": "beef khichuri ta koto kore?", "label": "romanized_bangla"}
+{"message_id": 9717, "thread_id": 1458, "turn": 2, "business_id": 25, "role": "business", "is_bot": true, "text": "ফ্রাইড রাইস এর দাম ৮৯০ টাকা। ⏎ ডেলিভারি চার্জ আলাদা। আপু।", "label": "bangla"}
+{"message_id": 9718, "thread_id": 1458, "turn": 3, "business_id": 25, "role": "customer", "is_bot": false, "text": "Achcha, dhonnobad.", "label": "romanized_bangla"}
+{"message_id": 9719, "thread_id": 1458, "turn": 4, "business_id": 25, "role": "customer", "is_bot": false, "text": "Uttara te pathaben janaben?", "label": "romanized_bangla"}
+{"message_id": 9720, "thread_id": 1458, "turn": 5, "business_id": 25, "role": "business", "is_bot": true, "text": "জি বনানী এ ডেলিভারি হয়। ⏎ চার্জ ৭০ টাকা, সময় লাগে ৪৫ মিনিট।", "label": "bangla"}
+{"message_id": 9721, "thread_id": 1458, "turn": 6, "business_id": 25, "role": "customer", "is_bot": false, "text": "Amake 1 ta confirm kore den.", "label": "romanized_bangla"}
+{"message_id": 9722, "thread_id": 1458, "turn": 7, "business_id": 25, "role": "business", "is_bot": true, "text": "অর্ডার কনফার্ম করতে আপনার নাম, ঠিকানা ও নাম্বার দিন।", "label": "bangla"}
+{"message_id": 9742, "thread_id": 1464, "turn": 1, "business_id": 9, "role": "business", "is_bot": false, "text": "offer cholteche, nite paren", "label": "romanized_bangla"}
+{"message_id": 9743, "thread_id": 1464, "turn": 2, "business_id": 9, "role": "customer", "is_bot": false, "text": "দারুণ, ধন্যবাদ বস।", "label": "bangla"}
+{"message_id": 9744, "thread_id": 1464, "turn": 3, "business_id": 9, "role": "customer", "is_bot": false, "text": "দামটা একটু বলবেন একটু বলবেন?", "label": "bangla"}
+{"message_id": 9745, "thread_id": 1464, "turn": 4, "business_id": 9, "role": "business", "is_bot": true, "text": "palazzo set er dam 2350 taka per piece. ⏎ Delivery charge alada.", "label": "romanized_bangla"}
+{"message_id": 9746, "thread_id": 1464, "turn": 5, "business_id": 9, "role": "customer", "is_bot": false, "text": "ভাই, পিছনের ছবি আছে?", "label": "bangla"}
+{"message_id": 9747, "thread_id": 1464, "turn": 6, "business_id": 9, "role": "business", "is_bot": true, "text": "Ei je palazzo set er real pic. vai.", "label": "romanized_bangla"}
+{"message_id": 9748, "thread_id": 1464, "turn": 7, "business_id": 9, "role": "customer", "is_bot": false, "text": "আপু, আপু, মিরপুর এ ডেলিভারি হবে?", "label": "bangla"}
+{"message_id": 9749, "thread_id": 1464, "turn": 8, "business_id": 9, "role": "business", "is_bot": false, "text": "ji hobe apu", "label": "romanized_bangla"}
+{"message_id": 9750, "thread_id": 1464, "turn": 9, "business_id": 9, "role": "customer", "is_bot": false, "text": "আজ সন্ধ্যায় খোলা একটু বলবেন?", "label": "bangla"}
+{"message_id": 9751, "thread_id": 1464, "turn": 10, "business_id": 9, "role": "business", "is_bot": true, "text": "Protidin sokal 11 ta theke rat 10 ta porjonto khola. ⏎ Shukrobar 3 tar por.", "label": "romanized_bangla"}
+{"message_id": 9752, "thread_id": 1464, "turn": 11, "business_id": 9, "role": "customer", "is_bot": false, "text": "ঠিক আছে, ৩ টা কুর্তি নিবো।", "label": "bangla"}
+{"message_id": 9753, "thread_id": 1464, "turn": 12, "business_id": 9, "role": "business", "is_bot": true, "text": "Order confirm ✅ ⏎ 3 x palazzo set ⏎ Total: 7120 taka", "label": "english"}
