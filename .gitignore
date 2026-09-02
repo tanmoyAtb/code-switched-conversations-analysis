@@ -28,6 +28,11 @@ dist/
 # Models / checkpoints
 *.pt
 *.safetensors
+training/models/
+training/checkpoints/
+training/results/runs/
+training/results/predictions/
+training/wandb/
 
 .DS_Store
 
