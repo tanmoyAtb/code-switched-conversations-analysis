@@ -1,0 +1,37 @@
+{
+  "annotator_id": 1,
+  "thread_id": 942,
+  "business_id": 17,
+  "annotations": [
+    {
+      "message_id": 6308,
+      "turn": 1,
+      "label": "english"
+    },
+    {
+      "message_id": 6309,
+      "turn": 2,
+      "label": "english"
+    },
+    {
+      "message_id": 6310,
+      "turn": 3,
+      "label": "english"
+    },
+    {
+      "message_id": 6311,
+      "turn": 4,
+      "label": "english"
+    },
+    {
+      "message_id": 6312,
+      "turn": 5,
+      "label": "english"
+    },
+    {
+      "message_id": 6313,
+      "turn": 6,
+      "label": "english"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "annotator_id": 1,
+  "thread_id": 292,
+  "business_id": 26,
+  "annotations": [
+    {
+      "message_id": 2014,
+      "turn": 1,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 2015,
+      "turn": 2,
+      "label": "bangla"
+    },
+    {
+      "message_id": 2016,
+      "turn": 3,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 2017,
+      "turn": 4,
+      "label": "bangla"
+    },
+    {
+      "message_id": 2018,
+      "turn": 5,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 2019,
+      "turn": 6,
+      "label": "bangla"
+    },
+    {
+      "message_id": 2020,
+      "turn": 7,
+      "label": "english"
+    },
+    {
+      "message_id": 2021,
+      "turn": 8,
+      "label": "bangla"
+    },
+    {
+      "message_id": 2022,
+      "turn": 9,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 2023,
+      "turn": 10,
+      "label": "bangla"
+    },
+    {
+      "message_id": 2024,
+      "turn": 11,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 2025,
+      "turn": 12,
+      "label": "bangla"
+    },
+    {
+      "message_id": 2026,
+      "turn": 13,
+      "label": "english"
+    }
+  ]
+}

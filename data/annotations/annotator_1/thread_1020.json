@@ -1,0 +1,117 @@
+{
+  "annotator_id": 1,
+  "thread_id": 1020,
+  "business_id": 26,
+  "annotations": [
+    {
+      "message_id": 6839,
+      "turn": 1,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6840,
+      "turn": 2,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6841,
+      "turn": 3,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6842,
+      "turn": 4,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6843,
+      "turn": 5,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6844,
+      "turn": 6,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6845,
+      "turn": 7,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6846,
+      "turn": 8,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6847,
+      "turn": 9,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6848,
+      "turn": 10,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6849,
+      "turn": 11,
+      "label": "english"
+    },
+    {
+      "message_id": 6850,
+      "turn": 12,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6851,
+      "turn": 13,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6852,
+      "turn": 14,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6853,
+      "turn": 15,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6854,
+      "turn": 16,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6855,
+      "turn": 17,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6856,
+      "turn": 18,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6857,
+      "turn": 19,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6858,
+      "turn": 20,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6859,
+      "turn": 21,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 6860,
+      "turn": 22,
+      "label": "romanized_bangla"
+    }
+  ]
+}

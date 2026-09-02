@@ -1,0 +1,22 @@
+{
+  "annotator_id": 1,
+  "thread_id": 234,
+  "business_id": 2,
+  "annotations": [
+    {
+      "message_id": 1584,
+      "turn": 1,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 1585,
+      "turn": 2,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 1586,
+      "turn": 3,
+      "label": "english"
+    }
+  ]
+}

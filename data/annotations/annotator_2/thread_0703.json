@@ -1,0 +1,42 @@
+{
+  "annotator_id": 2,
+  "thread_id": 703,
+  "business_id": 28,
+  "annotations": [
+    {
+      "message_id": 4664,
+      "turn": 1,
+      "label": "bangla"
+    },
+    {
+      "message_id": 4665,
+      "turn": 2,
+      "label": "bangla"
+    },
+    {
+      "message_id": 4666,
+      "turn": 3,
+      "label": "bangla"
+    },
+    {
+      "message_id": 4667,
+      "turn": 4,
+      "label": "bangla"
+    },
+    {
+      "message_id": 4668,
+      "turn": 5,
+      "label": "bangla"
+    },
+    {
+      "message_id": 4669,
+      "turn": 6,
+      "label": "bangla"
+    },
+    {
+      "message_id": 4670,
+      "turn": 7,
+      "label": "bangla"
+    }
+  ]
+}

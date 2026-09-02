@@ -1,0 +1,102 @@
+{
+  "annotator_id": 2,
+  "thread_id": 244,
+  "business_id": 12,
+  "annotations": [
+    {
+      "message_id": 1641,
+      "turn": 1,
+      "label": "english"
+    },
+    {
+      "message_id": 1642,
+      "turn": 2,
+      "label": "english"
+    },
+    {
+      "message_id": 1643,
+      "turn": 3,
+      "label": "english"
+    },
+    {
+      "message_id": 1644,
+      "turn": 4,
+      "label": "english"
+    },
+    {
+      "message_id": 1645,
+      "turn": 5,
+      "label": "english"
+    },
+    {
+      "message_id": 1646,
+      "turn": 6,
+      "label": "english"
+    },
+    {
+      "message_id": 1647,
+      "turn": 7,
+      "label": "english"
+    },
+    {
+      "message_id": 1648,
+      "turn": 8,
+      "label": "english"
+    },
+    {
+      "message_id": 1649,
+      "turn": 9,
+      "label": "english"
+    },
+    {
+      "message_id": 1650,
+      "turn": 10,
+      "label": "english"
+    },
+    {
+      "message_id": 1651,
+      "turn": 11,
+      "label": "english"
+    },
+    {
+      "message_id": 1652,
+      "turn": 12,
+      "label": "english"
+    },
+    {
+      "message_id": 1653,
+      "turn": 13,
+      "label": "english"
+    },
+    {
+      "message_id": 1654,
+      "turn": 14,
+      "label": "english"
+    },
+    {
+      "message_id": 1655,
+      "turn": 15,
+      "label": "english"
+    },
+    {
+      "message_id": 1656,
+      "turn": 16,
+      "label": "english"
+    },
+    {
+      "message_id": 1657,
+      "turn": 17,
+      "label": "english"
+    },
+    {
+      "message_id": 1658,
+      "turn": 18,
+      "label": "english"
+    },
+    {
+      "message_id": 1659,
+      "turn": 19,
+      "label": "english"
+    }
+  ]
+}

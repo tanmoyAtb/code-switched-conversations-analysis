@@ -1,0 +1,82 @@
+{
+  "annotator_id": 1,
+  "thread_id": 650,
+  "business_id": 4,
+  "annotations": [
+    {
+      "message_id": 4246,
+      "turn": 1,
+      "label": "english"
+    },
+    {
+      "message_id": 4247,
+      "turn": 2,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 4248,
+      "turn": 3,
+      "label": "english"
+    },
+    {
+      "message_id": 4249,
+      "turn": 4,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 4250,
+      "turn": 5,
+      "label": "english"
+    },
+    {
+      "message_id": 4251,
+      "turn": 6,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 4252,
+      "turn": 7,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 4253,
+      "turn": 8,
+      "label": "english"
+    },
+    {
+      "message_id": 4254,
+      "turn": 9,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 4255,
+      "turn": 10,
+      "label": "english"
+    },
+    {
+      "message_id": 4256,
+      "turn": 11,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 4257,
+      "turn": 12,
+      "label": "english"
+    },
+    {
+      "message_id": 4258,
+      "turn": 13,
+      "label": "romanized_bangla"
+    },
+    {
+      "message_id": 4259,
+      "turn": 14,
+      "label": "english"
+    },
+    {
+      "message_id": 4260,
+      "turn": 15,
+      "label": "romanized_bangla"
+    }
+  ]
+}
