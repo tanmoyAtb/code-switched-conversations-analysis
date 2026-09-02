@@ -14,7 +14,7 @@ wheels = [
 [[package]]
 name = "code-switched-conversations-training"
 version = "0.1.0"
-source = { virtual = "." }
+source = { editable = "." }
 dependencies = [
     { name = "numpy" },
     { name = "scikit-learn" },

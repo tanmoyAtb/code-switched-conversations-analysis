@@ -20,6 +20,8 @@ node_modules/
 .venv/
 __pycache__/
 *.pyc
+.pytest_cache/
+.ruff_cache/
 
 # Build output
 dist/
@@ -33,9 +35,11 @@ training/checkpoints/
 training/results/runs/
 training/results/predictions/
 training/wandb/
+graphify-out/cache/
 
 .DS_Store
 
 # Loader staging output (pre-curation, pre-sign-off)
 /scripts/out/
 /scripts/
+/graphify-out/
