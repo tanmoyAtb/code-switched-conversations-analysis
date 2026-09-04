@@ -1,0 +1,316 @@
+{
+  "model": "xlm_roberta_base_sequence_classification",
+  "model_directory": "models/xlm_roberta_base",
+  "config": {
+    "model_name": "FacebookAI/xlm-roberta-base",
+    "max_length": 96,
+    "train_batch_size": 4,
+    "evaluation_batch_size": 16,
+    "learning_rate": 2e-05,
+    "weight_decay": 0.01,
+    "max_epochs": 5,
+    "early_stopping_patience": 2
+  },
+  "random_seed": 42,
+  "device": "mps",
+  "selection_metric": "validation_macro_f1",
+  "validation_history": [
+    {
+      "epoch": 1,
+      "validation_metrics": {
+        "accuracy": 0.9897013388259527,
+        "macro_f1": 0.9888862189114501,
+        "per_label": {
+          "english": {
+            "precision": 0.9753694581280788,
+            "recall": 0.9753694581280788,
+            "f1": 0.9753694581280788,
+            "support": 203
+          },
+          "bangla": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 194
+          },
+          "romanized_bangla": {
+            "precision": 0.9912891986062717,
+            "recall": 0.9912891986062717,
+            "f1": 0.9912891986062717,
+            "support": 574
+          }
+        },
+        "confusion_matrix": [
+          [
+            198,
+            0,
+            5
+          ],
+          [
+            0,
+            194,
+            0
+          ],
+          [
+            5,
+            0,
+            569
+          ]
+        ],
+        "confusion_matrix_labels": [
+          "english",
+          "bangla",
+          "romanized_bangla"
+        ]
+      }
+    },
+    {
+      "epoch": 2,
+      "validation_metrics": {
+        "accuracy": 0.9917610710607621,
+        "macro_f1": 0.9910516860143727,
+        "per_label": {
+          "english": {
+            "precision": 0.9899497487437185,
+            "recall": 0.9704433497536946,
+            "f1": 0.9800995024875622,
+            "support": 203
+          },
+          "bangla": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 194
+          },
+          "romanized_bangla": {
+            "precision": 0.9896193771626297,
+            "recall": 0.9965156794425087,
+            "f1": 0.9930555555555556,
+            "support": 574
+          }
+        },
+        "confusion_matrix": [
+          [
+            197,
+            0,
+            6
+          ],
+          [
+            0,
+            194,
+            0
+          ],
+          [
+            2,
+            0,
+            572
+          ]
+        ],
+        "confusion_matrix_labels": [
+          "english",
+          "bangla",
+          "romanized_bangla"
+        ]
+      }
+    },
+    {
+      "epoch": 3,
+      "validation_metrics": {
+        "accuracy": 0.9927909371781668,
+        "macro_f1": 0.9921318447634236,
+        "per_label": {
+          "english": {
+            "precision": 1.0,
+            "recall": 0.9655172413793104,
+            "f1": 0.9824561403508771,
+            "support": 203
+          },
+          "bangla": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 194
+          },
+          "romanized_bangla": {
+            "precision": 0.9879518072289156,
+            "recall": 1.0,
+            "f1": 0.9939393939393939,
+            "support": 574
+          }
+        },
+        "confusion_matrix": [
+          [
+            196,
+            0,
+            7
+          ],
+          [
+            0,
+            194,
+            0
+          ],
+          [
+            0,
+            0,
+            574
+          ]
+        ],
+        "confusion_matrix_labels": [
+          "english",
+          "bangla",
+          "romanized_bangla"
+        ]
+      }
+    },
+    {
+      "epoch": 4,
+      "validation_metrics": {
+        "accuracy": 0.9948506694129763,
+        "macro_f1": 0.9943982195422113,
+        "per_label": {
+          "english": {
+            "precision": 1.0,
+            "recall": 0.9753694581280788,
+            "f1": 0.9875311720698254,
+            "support": 203
+          },
+          "bangla": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 194
+          },
+          "romanized_bangla": {
+            "precision": 0.9913644214162349,
+            "recall": 1.0,
+            "f1": 0.9956634865568084,
+            "support": 574
+          }
+        },
+        "confusion_matrix": [
+          [
+            198,
+            0,
+            5
+          ],
+          [
+            0,
+            194,
+            0
+          ],
+          [
+            0,
+            0,
+            574
+          ]
+        ],
+        "confusion_matrix_labels": [
+          "english",
+          "bangla",
+          "romanized_bangla"
+        ]
+      }
+    },
+    {
+      "epoch": 5,
+      "validation_metrics": {
+        "accuracy": 0.9948506694129763,
+        "macro_f1": 0.9943982195422113,
+        "per_label": {
+          "english": {
+            "precision": 1.0,
+            "recall": 0.9753694581280788,
+            "f1": 0.9875311720698254,
+            "support": 203
+          },
+          "bangla": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 194
+          },
+          "romanized_bangla": {
+            "precision": 0.9913644214162349,
+            "recall": 1.0,
+            "f1": 0.9956634865568084,
+            "support": 574
+          }
+        },
+        "confusion_matrix": [
+          [
+            198,
+            0,
+            5
+          ],
+          [
+            0,
+            194,
+            0
+          ],
+          [
+            0,
+            0,
+            574
+          ]
+        ],
+        "confusion_matrix_labels": [
+          "english",
+          "bangla",
+          "romanized_bangla"
+        ]
+      }
+    }
+  ],
+  "selected_epoch": 4,
+  "split_message_counts": {
+    "training": 8058,
+    "validation": 971,
+    "test": 975
+  },
+  "test_metrics": {
+    "accuracy": 0.9907692307692307,
+    "macro_f1": 0.9898327029881768,
+    "per_label": {
+      "english": {
+        "precision": 1.0,
+        "recall": 0.9565217391304348,
+        "f1": 0.9777777777777777,
+        "support": 207
+      },
+      "bangla": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 229
+      },
+      "romanized_bangla": {
+        "precision": 0.9835766423357665,
+        "recall": 1.0,
+        "f1": 0.9917203311867525,
+        "support": 539
+      }
+    },
+    "confusion_matrix": [
+      [
+        198,
+        0,
+        9
+      ],
+      [
+        0,
+        229,
+        0
+      ],
+      [
+        0,
+        0,
+        539
+      ]
+    ],
+    "confusion_matrix_labels": [
+      "english",
+      "bangla",
+      "romanized_bangla"
+    ]
+  }
+}
