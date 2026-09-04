@@ -57,7 +57,7 @@ This is an observational finding, not proof that automation or a language model 
 switch. Reply templates, business policy, conversation topic, and other unobserved factors
 may also affect the relationship.
 
-## Testing the solution
+## Evaluating the language-identification component
 
 We evaluated three language-identification approaches. Configuration, epoch, and prompt
 selection used validation data; the final comparison used one held-out test set of 975
@@ -68,6 +68,10 @@ messages.
 | XLM-R base | **99.18%** | **99.10%** |
 | Character n-gram logistic regression | 98.56% | 98.43% |
 | GPT-4o mini, zero-shot | 89.03% | 88.98% |
+
+This evaluates the language-identification component, not the effect of deploying it in a
+live conversation. An A/B deployment study would be needed to establish whether using the
+classifier reduces customer language switching.
 
 ## Conclusion
 
@@ -87,4 +91,3 @@ model is a strong lightweight alternative.
 2. [Code-switching tendency analysis](./docs/2-code-switch-tendency.md)
 3. [Annotations](./docs/3-annotations.md)
 4. [Language-identification evaluation](./docs/4-evaluation.md)
-

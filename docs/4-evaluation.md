@@ -13,8 +13,8 @@ The complete machine-readable records and prediction artifacts are in
 
 ## Evaluation design
 
-The fixed, conversation-disjoint splits contain 1,500 conversations and 10,004 labelled
-messages:
+The fixed, conversation-disjoint (but not business-disjoint) splits contain 1,500
+conversations and 10,004 labelled messages:
 
 | Split | Conversations | Messages | Purpose |
 | --- | ---: | ---: | --- |
@@ -27,6 +27,11 @@ reported on the test set. Macro-F1 gives equal weight to each language label des
 test split having different label frequencies.
 
 No test result was used to select a configuration, epoch, or prompt.
+
+The split design evaluates held-out conversations among the similar businesses represented
+in this corpus; it is not an evaluation of transfer to an entirely unseen business. Repeated
+business wording can therefore cross splits: 165 test messages have text also present in
+training.
 
 ## Model selection
 
@@ -105,6 +110,9 @@ additional adaptation or a different evaluation design.
 - These are point estimates from one held-out split of 975 messages. They do not establish
   performance on other datasets, domains, dialects, or annotation schemes, and no
   confidence intervals were calculated.
+- All Bengali-script test messages are resolved as `bangla`, so perfect Bangla F1 primarily
+  reflects script recognition. On the 746 Latin-script test messages, XLM-R achieved 98.93%
+  accuracy for the English-versus-romanized-Bangla distinction.
 
 ## Result artifacts
 

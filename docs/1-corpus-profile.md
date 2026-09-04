@@ -20,6 +20,9 @@ Business contributions range from 124 messages across 25 conversations to 908 ac
 The median business contributes 269 messages across 39 conversations. The largest business
 accounts for 9.1% of all messages, and the five largest account for 41.2%.
 
+Business IDs and thread IDs are anonymized, non-traceable placeholders used only to retain
+business grouping and conversation order in the analysis.
+
 ## 2. Conversation structure
 
 | Measure                                            | Value |
