@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import argparse
 import json
 import random
 from dataclasses import dataclass
@@ -14,10 +15,12 @@ from torch.utils.data import DataLoader, Dataset
 from transformers import AutoModelForSequenceClassification, AutoTokenizer, DataCollatorWithPadding
 
 from .data import DEFAULT_DATA_DIR, LABELS, Message, load_split, validate_dataset_splits
-from .evaluation import EvaluationResult, evaluate_predictions
+from .evaluation import EvaluationResult, evaluate_predictions, write_predictions
 
 DEFAULT_MODEL_NAME = "FacebookAI/xlm-roberta-base"
-DEFAULT_RESULT_PATH = Path(__file__).resolve().parents[2] / "results" / "xlm_roberta_base.json"
+DEFAULT_RESULT_DIR = Path(__file__).resolve().parents[2] / "results" / "xlm_roberta_base"
+DEFAULT_RESULT_PATH = DEFAULT_RESULT_DIR / "evaluation.json"
+DEFAULT_PREDICTION_DIR = DEFAULT_RESULT_DIR / "predictions"
 DEFAULT_MODEL_PATH = Path(__file__).resolve().parents[2] / "models" / "xlm_roberta_base"
 RANDOM_SEED = 42
 LABEL_TO_ID = {label: index for index, label in enumerate(LABELS)}
@@ -137,13 +140,18 @@ def run_experiment(
         local_files_only=True,
     )
     model = _new_model(config)
-    validation_history, selected_epoch = _train_with_validation(
+    validation_history, selected_epoch, validation_predictions = _train_with_validation(
         model,
         tokenizer,
         training_messages,
         validation_messages,
         config,
         device,
+    )
+    write_predictions(
+        validation_messages,
+        validation_predictions,
+        DEFAULT_PREDICTION_DIR / "validation.jsonl",
     )
 
     del model
@@ -160,7 +168,12 @@ def run_experiment(
         selected_epoch,
     )
     save_model(final_model, tokenizer)
-    test_metrics = _evaluate(final_model, tokenizer, test_messages, config, device)
+    test_predictions = _predict(final_model, tokenizer, test_messages, config, device)
+    test_metrics = evaluate_predictions(
+        [message.label for message in test_messages],
+        test_predictions,
+    )
+    write_predictions(test_messages, test_predictions, DEFAULT_PREDICTION_DIR / "test.jsonl")
 
     return ExperimentResult(
         config=config,
@@ -173,12 +186,29 @@ def run_experiment(
 
 
 def write_result(result: ExperimentResult, output_path: Path = DEFAULT_RESULT_PATH) -> None:
-    """Write compact metrics and settings without storing model weights or predictions."""
+    """Write compact metrics and settings alongside separate prediction artifacts."""
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(
         json.dumps(result.to_dict(), ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
+
+
+def export_saved_test_predictions(
+    data_dir: Path = DEFAULT_DATA_DIR,
+    model_path: Path = DEFAULT_MODEL_PATH,
+    prediction_path: Path = DEFAULT_PREDICTION_DIR / "test.jsonl",
+) -> EvaluationResult:
+    """Export test predictions from the saved final model without retraining it."""
+    test_messages = load_split("test", data_dir)
+    device = select_device()
+    tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=True, local_files_only=True)
+    model = AutoModelForSequenceClassification.from_pretrained(model_path, local_files_only=True)
+    model.to(device)
+
+    predictions = _predict(model, tokenizer, test_messages, XLMConfig(), device)
+    write_predictions(test_messages, predictions, prediction_path)
+    return evaluate_predictions([message.label for message in test_messages], predictions)
 
 
 def save_model(model: Any, tokenizer: Any, model_path: Path = DEFAULT_MODEL_PATH) -> None:
@@ -205,23 +235,29 @@ def _train_with_validation(
     validation_messages: Sequence[Message],
     config: XLMConfig,
     device: torch.device,
-) -> tuple[list[EpochResult], int]:
+) -> tuple[list[EpochResult], int, list[str]]:
     model.to(device)
     optimizer = AdamW(model.parameters(), lr=config.learning_rate, weight_decay=config.weight_decay)
     validation_history: list[EpochResult] = []
     best_epoch = 0
+    best_predictions: list[str] = []
     best_score = float("-inf")
     epochs_without_improvement = 0
 
     for epoch in range(1, config.max_epochs + 1):
         _train_one_epoch(model, tokenizer, training_messages, config, device, optimizer, epoch)
-        validation_metrics = _evaluate(model, tokenizer, validation_messages, config, device)
+        validation_predictions = _predict(model, tokenizer, validation_messages, config, device)
+        validation_metrics = evaluate_predictions(
+            [message.label for message in validation_messages],
+            validation_predictions,
+        )
         validation_history.append(EpochResult(epoch, validation_metrics))
         print(f"Epoch {epoch}: validation macro F1 = {validation_metrics.macro_f1:.4f}")
 
         if validation_metrics.macro_f1 > best_score:
             best_score = validation_metrics.macro_f1
             best_epoch = epoch
+            best_predictions = validation_predictions
             epochs_without_improvement = 0
         else:
             epochs_without_improvement += 1
@@ -230,7 +266,7 @@ def _train_with_validation(
 
     if best_epoch == 0:
         raise RuntimeError("No validation epoch completed")
-    return validation_history, best_epoch
+    return validation_history, best_epoch, best_predictions
 
 
 def _train_for_epochs(
@@ -284,6 +320,18 @@ def _evaluate(
     config: XLMConfig,
     device: torch.device,
 ) -> EvaluationResult:
+    predictions = _predict(model, tokenizer, messages, config, device)
+    return evaluate_predictions([message.label for message in messages], predictions)
+
+
+def _predict(
+    model: Any,
+    tokenizer: Any,
+    messages: Sequence[Message],
+    config: XLMConfig,
+    device: torch.device,
+) -> list[str]:
+    """Return one label per message without writing message text into artifacts."""
     model.eval()
     loader = _make_loader(
         tokenizer,
@@ -299,8 +347,7 @@ def _evaluate(
             output = model(**_move_to_device(batch, device))
             prediction_ids.extend(output.logits.argmax(dim=-1).cpu().tolist())
 
-    predictions = [ID_TO_LABEL[prediction_id] for prediction_id in prediction_ids]
-    return evaluate_predictions([message.label for message in messages], predictions)
+    return [ID_TO_LABEL[prediction_id] for prediction_id in prediction_ids]
 
 
 def _make_loader(
@@ -341,6 +388,18 @@ def _clear_accelerator_cache(device: torch.device) -> None:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--export-saved-test-predictions",
+        action="store_true",
+        help="export test predictions from training/models/xlm_roberta_base without retraining",
+    )
+    arguments = parser.parse_args()
+    if arguments.export_saved_test_predictions:
+        metrics = export_saved_test_predictions()
+        print(json.dumps(metrics.to_dict(), ensure_ascii=False, indent=2))
+        return
+
     result = run_experiment()
     write_result(result)
     print(json.dumps(result.to_dict(), ensure_ascii=False, indent=2))

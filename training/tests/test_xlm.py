@@ -5,6 +5,8 @@ from code_switching_training.evaluation import evaluate_predictions
 from code_switching_training.xlm import (
     DEFAULT_MODEL_NAME,
     DEFAULT_MODEL_PATH,
+    DEFAULT_PREDICTION_DIR,
+    DEFAULT_RESULT_PATH,
     PROGRESS_INTERVAL_STEPS,
     EpochResult,
     ExperimentResult,
@@ -59,3 +61,4 @@ def test_save_model_saves_weights_and_tokenizer_to_requested_directory(tmp_path:
     assert output_path.is_dir()
     assert saved_paths == [output_path, output_path]
     assert DEFAULT_MODEL_PATH.name == "xlm_roberta_base"
+    assert DEFAULT_RESULT_PATH == DEFAULT_PREDICTION_DIR.parent / "evaluation.json"

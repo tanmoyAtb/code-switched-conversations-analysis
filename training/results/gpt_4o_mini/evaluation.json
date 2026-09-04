@@ -1,0 +1,166 @@
+{
+  "model": "gpt-4o-mini",
+  "method": "zero_shot_structured_output",
+  "selection_metric": "macro_f1",
+  "split_message_counts": {
+    "training": 8058,
+    "validation": 971,
+    "test": 975
+  },
+  "candidates": [
+    {
+      "prompt": {
+        "name": "definitions_v1",
+        "instructions": "Classify the language of one anonymized message from a Bangla-English business conversation. Return one label only. english: the message is primarily English. bangla: the message is primarily Bangla/Bengali written in Bengali script. romanized_bangla: the message is primarily Bangla written in the Latin alphabet. Ignore placeholders, numbers, punctuation, and emoji when deciding."
+      },
+      "validation_metrics": {
+        "accuracy": 0.8166838311019567,
+        "macro_f1": 0.8228718381958077,
+        "per_label": {
+          "english": {
+            "precision": 0.868995633187773,
+            "recall": 0.9802955665024631,
+            "f1": 0.9212962962962963,
+            "support": 203
+          },
+          "bangla": {
+            "precision": 0.5739644970414202,
+            "recall": 1.0,
+            "f1": 0.7293233082706767,
+            "support": 194
+          },
+          "romanized_bangla": {
+            "precision": 0.9900990099009901,
+            "recall": 0.6968641114982579,
+            "f1": 0.8179959100204499,
+            "support": 574
+          }
+        },
+        "confusion_matrix": [
+          [
+            199,
+            0,
+            4
+          ],
+          [
+            0,
+            194,
+            0
+          ],
+          [
+            30,
+            144,
+            400
+          ]
+        ],
+        "confusion_matrix_labels": [
+          "english",
+          "bangla",
+          "romanized_bangla"
+        ]
+      }
+    },
+    {
+      "prompt": {
+        "name": "decision_rules_v1",
+        "instructions": "Identify the predominant language of one anonymized Bangla-English business chat message. Choose bangla when its main Bangla content uses Bengali script. Choose romanized_bangla when its main Bangla content is spelled with Latin letters, even if it contains a few English words. Choose english when its main content is English. Ignore placeholders, numbers, punctuation, and emoji."
+      },
+      "validation_metrics": {
+        "accuracy": 0.8692070030895983,
+        "macro_f1": 0.8683307769772751,
+        "per_label": {
+          "english": {
+            "precision": 0.8728070175438597,
+            "recall": 0.9802955665024631,
+            "f1": 0.9234338747099768,
+            "support": 203
+          },
+          "bangla": {
+            "precision": 0.6736111111111112,
+            "recall": 1.0,
+            "f1": 0.8049792531120332,
+            "support": 194
+          },
+          "romanized_bangla": {
+            "precision": 0.9912087912087912,
+            "recall": 0.7857142857142857,
+            "f1": 0.8765792031098154,
+            "support": 574
+          }
+        },
+        "confusion_matrix": [
+          [
+            199,
+            0,
+            4
+          ],
+          [
+            0,
+            194,
+            0
+          ],
+          [
+            29,
+            94,
+            451
+          ]
+        ],
+        "confusion_matrix_labels": [
+          "english",
+          "bangla",
+          "romanized_bangla"
+        ]
+      }
+    }
+  ],
+  "selected_prompt": {
+    "name": "decision_rules_v1",
+    "instructions": "Identify the predominant language of one anonymized Bangla-English business chat message. Choose bangla when its main Bangla content uses Bengali script. Choose romanized_bangla when its main Bangla content is spelled with Latin letters, even if it contains a few English words. Choose english when its main content is English. Ignore placeholders, numbers, punctuation, and emoji."
+  },
+  "test_metrics": {
+    "accuracy": 0.8902564102564102,
+    "macro_f1": 0.8897810775960692,
+    "per_label": {
+      "english": {
+        "precision": 0.8361344537815126,
+        "recall": 0.961352657004831,
+        "f1": 0.8943820224719101,
+        "support": 207
+      },
+      "bangla": {
+        "precision": 0.7896551724137931,
+        "recall": 1.0,
+        "f1": 0.882466281310212,
+        "support": 229
+      },
+      "romanized_bangla": {
+        "precision": 0.9843400447427293,
+        "recall": 0.8163265306122449,
+        "f1": 0.8924949290060852,
+        "support": 539
+      }
+    },
+    "confusion_matrix": [
+      [
+        199,
+        1,
+        7
+      ],
+      [
+        0,
+        229,
+        0
+      ],
+      [
+        39,
+        60,
+        440
+      ]
+    ],
+    "confusion_matrix_labels": [
+      "english",
+      "bangla",
+      "romanized_bangla"
+    ]
+  }
+}

@@ -2,12 +2,14 @@
 
 from __future__ import annotations
 
+import json
 from dataclasses import dataclass
+from pathlib import Path
 from typing import Any, Sequence
 
 from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
 
-from .data import LABELS
+from .data import LABELS, Message
 
 
 @dataclass(frozen=True, slots=True)
@@ -85,3 +87,28 @@ def evaluate_predictions(y_true: Sequence[str], y_pred: Sequence[str]) -> Evalua
         per_label=per_label,
         confusion_matrix=matrix,
     )
+
+
+def write_predictions(
+    messages: Sequence[Message],
+    predictions: Sequence[str],
+    output_path: Path,
+) -> None:
+    """Write auditable labels without duplicating any message text in result artifacts."""
+    if len(messages) != len(predictions):
+        raise ValueError("messages and predictions must contain the same number of records")
+
+    unknown_labels = set(predictions) - set(LABELS)
+    if unknown_labels:
+        unknown = ", ".join(sorted(unknown_labels))
+        raise ValueError(f"Predictions contain unknown labels: {unknown}")
+
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    with output_path.open("w", encoding="utf-8") as destination:
+        for message, prediction in zip(messages, predictions, strict=True):
+            record = {
+                "message_id": message.message_id,
+                "true_label": message.label,
+                "predicted_label": prediction,
+            }
+            destination.write(json.dumps(record, ensure_ascii=False) + "\n")

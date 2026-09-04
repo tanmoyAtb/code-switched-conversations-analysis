@@ -12,11 +12,11 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline
 
 from .data import DEFAULT_DATA_DIR, Message, load_split, validate_dataset_splits
-from .evaluation import EvaluationResult, evaluate_predictions
+from .evaluation import EvaluationResult, evaluate_predictions, write_predictions
 
-DEFAULT_RESULT_PATH = (
-    Path(__file__).resolve().parents[2] / "results" / "ngram_logistic_regression.json"
-)
+DEFAULT_RESULT_DIR = Path(__file__).resolve().parents[2] / "results" / "ngram_logistic_regression"
+DEFAULT_RESULT_PATH = DEFAULT_RESULT_DIR / "evaluation.json"
+DEFAULT_PREDICTION_DIR = DEFAULT_RESULT_DIR / "predictions"
 SELECTION_METRIC = "macro_f1"
 RANDOM_SEED = 42
 
@@ -117,10 +117,19 @@ def evaluate_configuration(
     evaluation_messages: Sequence[Message],
 ) -> EvaluationResult:
     """Fit a candidate on training messages and evaluate it on another fixed split."""
+    predictions = predict_configuration(config, training_messages, evaluation_messages)
+    return evaluate_predictions(_labels(evaluation_messages), predictions)
+
+
+def predict_configuration(
+    config: NgramConfig,
+    training_messages: Sequence[Message],
+    evaluation_messages: Sequence[Message],
+) -> list[str]:
+    """Fit a configuration and return one prediction for every evaluation message."""
     model = build_pipeline(config)
     model.fit(_texts(training_messages), _labels(training_messages))
-    predictions = model.predict(_texts(evaluation_messages))
-    return evaluate_predictions(_labels(evaluation_messages), predictions.tolist())
+    return model.predict(_texts(evaluation_messages)).tolist()
 
 
 def select_configuration(
@@ -155,8 +164,25 @@ def run_experiment(data_dir: Path = DEFAULT_DATA_DIR) -> ExperimentResult:
     candidates = select_configuration(training_messages, validation_messages)
     selected = max(candidates, key=lambda candidate: candidate.validation_metrics.macro_f1)
 
+    validation_predictions = predict_configuration(
+        selected.config,
+        training_messages,
+        validation_messages,
+    )
+    write_predictions(
+        validation_messages,
+        validation_predictions,
+        DEFAULT_PREDICTION_DIR / "validation.jsonl",
+    )
+
     final_training_messages = [*training_messages, *validation_messages]
-    test_metrics = evaluate_configuration(selected.config, final_training_messages, test_messages)
+    test_predictions = predict_configuration(
+        selected.config,
+        final_training_messages,
+        test_messages,
+    )
+    test_metrics = evaluate_predictions(_labels(test_messages), test_predictions)
+    write_predictions(test_messages, test_predictions, DEFAULT_PREDICTION_DIR / "test.jsonl")
     return ExperimentResult(
         candidates=candidates,
         selected_config=selected.config,
