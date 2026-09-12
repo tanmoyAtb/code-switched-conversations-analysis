@@ -31,3 +31,24 @@ Two humans independently annotated the corpus. Their files are stored by annotat
 The 346 disagreements were discussed and settled separately by the two annotators before
 the resolved labels were finalized. On the 7,797 Latin-only messages, exact agreement was
 95.56% and Cohen's kappa was 0.8898.
+
+## Resolved label distribution
+
+The 10,004 resolved labels are unbalanced, with romanized Bangla the majority mode:
+
+| Label | Messages | Share |
+| --- | ---: | ---: |
+| `romanized_bangla` | 5,714 | 57.12% |
+| `bangla` | 2,207 | 22.06% |
+| `english` | 2,083 | 20.82% |
+
+The `bangla` total is the 2,151 Bengali-only messages plus the 56 mixed-script messages
+resolved as `bangla`. The remaining 7,797 Latin-only messages divide into 5,714 romanized
+Bangla (73.29%) and 2,083 English (26.71%).
+
+Customers and businesses use the three modes in broadly similar proportions:
+
+| Side | `english` | `bangla` | `romanized_bangla` |
+| --- | ---: | ---: | ---: |
+| Customer (5,415) | 20.28% | 20.79% | 58.93% |
+| Business (4,589) | 21.46% | 23.56% | 54.98% |

@@ -20,9 +20,12 @@ The analysis uses **10,004 anonymized messages** from **1,500 conversations** ac
 the sender is a customer or business, whether a business reply was automated, and a resolved
 human language annotation:
 
-- `english`
-- `bangla` — Bangla written in Bengali script
-- `romanized_bangla` — Bangla written in Latin script
+- `english` — 2,083 messages (20.82%)
+- `bangla` — Bangla written in Bengali script; 2,207 messages (22.06%)
+- `romanized_bangla` — Bangla written in Latin script; 5,714 messages (57.12%)
+
+Romanized Bangla is the majority mode: 77.94% of messages are written entirely in Latin
+script, and roughly three quarters of those are Bangla rather than English.
 
 ## What we found
 

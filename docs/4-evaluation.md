@@ -22,9 +22,18 @@ conversations and 10,004 labelled messages:
 | Validation | 150 | 971 | Select configuration, epoch, or prompt |
 | Test | 150 | 975 | One final held-out evaluation |
 
-The labels are `english`, `bangla`, and `romanized_bangla`. Accuracy and macro-F1 are
-reported on the test set. Macro-F1 gives equal weight to each language label despite the
-test split having different label frequencies.
+The labels are `english`, `bangla`, and `romanized_bangla`. They are unbalanced in the
+corpus as a whole (57.12% romanized Bangla, 22.06% Bangla, 20.82% English) and the splits
+preserve roughly that balance:
+
+| Split | `english` | `bangla` | `romanized_bangla` |
+| --- | ---: | ---: | ---: |
+| Training (8,058) | 1,673 (20.76%) | 1,784 (22.14%) | 4,601 (57.10%) |
+| Validation (971) | 203 (20.91%) | 194 (19.98%) | 574 (59.11%) |
+| Test (975) | 207 (21.23%) | 229 (23.49%) | 539 (55.28%) |
+
+Accuracy and macro-F1 are reported on the test set. Macro-F1 gives equal weight to each
+language label despite these differing label frequencies.
 
 No test result was used to select a configuration, epoch, or prompt.
 
@@ -42,8 +51,6 @@ training.
 | GPT-4o mini | Compared two fixed zero-shot prompts. `decision_rules_v1` won with 86.83% validation macro-F1, ahead of `definitions_v1` at 82.29%. |
 
 ## Held-out test results
-
-The test set has 207 English, 229 Bangla, and 539 romanized-Bangla messages.
 
 | Model | Accuracy | Macro-F1 | English F1 | Bangla F1 | Romanized Bangla F1 | Errors / 975 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
