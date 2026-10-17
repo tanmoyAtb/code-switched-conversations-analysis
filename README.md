@@ -94,3 +94,8 @@ model is a strong lightweight alternative.
 2. [Code-switching tendency analysis](./docs/2-code-switch-tendency.md)
 3. [Annotations](./docs/3-annotations.md)
 4. [Language-identification evaluation](./docs/4-evaluation.md)
+
+## About this study
+
+This experiment was conducted internally by Engaze at the start of 2026. This repository is
+an adapted public version of that study.
