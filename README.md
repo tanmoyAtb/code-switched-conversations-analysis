@@ -35,10 +35,10 @@ We analysed 3,362 direct interaction sequences:
 customer message → business reply → next customer message
 ```
 
-| Reply source | Reply matches the customer's preceding language | Customer switches language afterward |
-| --- | ---: | ---: |
-| Automated business reply (1,431 sequences) | 64.50% | 15.79% |
-| Human-written business reply (1,931 sequences) | 73.49% | 11.81% |
+| Reply source                                   | Reply matches the customer's preceding language | Customer switches language afterward |
+| ---------------------------------------------- | ----------------------------------------------: | -----------------------------------: |
+| Automated business reply (1,431 sequences)     |                                          64.50% |                               15.79% |
+| Human-written business reply (1,931 sequences) |                                          73.49% |                               11.81% |
 
 Automated replies were less likely to match the customer's preceding language and were
 followed by more customer language switching. The differences are statistically strong in
@@ -47,10 +47,10 @@ customer-switch rate.
 
 The clearer pattern is **language mismatch**, regardless of who sent the reply:
 
-| Reply source | Customer switches after a matched reply | Customer switches after a mismatched reply |
-| --- | ---: | ---: |
-| Automated | 11.81% | 23.03% |
-| Human-written | 8.46% | 21.09% |
+| Reply source  | Customer switches after a matched reply | Customer switches after a mismatched reply |
+| ------------- | --------------------------------------: | -----------------------------------------: |
+| Automated     |                                  11.81% |                                     23.03% |
+| Human-written |                                   8.46% |                                     21.09% |
 
 When customers did switch after a mismatched reply, **89–91%** switched toward the business
 reply's language. This supports the interpretation that reply-language alignment matters to
@@ -66,11 +66,11 @@ We evaluated three language-identification approaches. Configuration, epoch, and
 selection used validation data; the final comparison used one held-out test set of 975
 messages.
 
-| Model | Test accuracy | Test macro-F1 |
-| --- | ---: | ---: |
-| XLM-R base | **99.18%** | **99.10%** |
-| Character n-gram logistic regression | 98.56% | 98.43% |
-| GPT-4o mini, zero-shot | 89.03% | 88.98% |
+| Model                                | Test accuracy | Test macro-F1 |
+| ------------------------------------ | ------------: | ------------: |
+| XLM-R base                           |    **99.18%** |    **99.10%** |
+| Character n-gram logistic regression |        98.56% |        98.43% |
+| GPT-4o mini, zero-shot               |        89.03% |        88.98% |
 
 This evaluates the language-identification component, not the effect of deploying it in a
 live conversation. An A/B deployment study would be needed to establish whether using the
@@ -97,5 +97,4 @@ model is a strong lightweight alternative.
 
 ## About this study
 
-This experiment was conducted internally by Engaze at the start of 2026. This repository is
-an adapted public version of that study.
+This experiment was conducted internally by Engaze across 2025/26. This repository is an adapted public version of that study.
